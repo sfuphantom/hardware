@@ -2,7 +2,7 @@
 Schematics and layout work 
 
 
-Getting started with git
+## Getting started with git
 the main workflow is usually like this:
 
 1. install git on your machine https://git-scm.com/download/
