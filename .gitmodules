@@ -1,0 +1,3 @@
+[submodule "phantom_vcu/altium-libraries"]
+	path = phantom_vcu/altium-libraries
+	url = https://github.com/sfuphantom/altium-libraries.git
