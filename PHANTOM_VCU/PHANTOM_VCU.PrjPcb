@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FYXPFQYM
 
 [Document11]
-DocumentPath=Libraries\PHANTOM_LIBRARY.SchLib
+DocumentPath=altium-libraries\PHANTOM_FOOTPRINTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -226,7 +226,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=Libraries\PHANTOM_FOOTPRINTS.PcbLib
+DocumentPath=altium-libraries\PHANTOM_LIBRARY.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -938,8 +938,8 @@ Type31=1
 Type32=1
 Type33=1
 Type34=1
-Type35=1
-Type36=1
+Type35=0
+Type36=0
 Type37=1
 Type38=1
 Type39=1
