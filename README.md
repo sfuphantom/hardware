@@ -28,6 +28,7 @@ If you wish to work on a version of the repo without affecting or potentially ca
 1. Navigate to your hardware directory in the git bash terminal window.
 2. Use the following command **git branch MyBranchName** to create a new branch
 3. Use the following command **git checkout MyBranchName** to switch your active branch to MyBranchName instead of Master
-4. Now you can develop and make changes as you wish on MyBranchName, adding files, making commits, and pushing up to the repository held in Github. 
-5. When you have decided you are ready to combine your changes/additions to the master branch of the repository, use Github's web interface (https://github.com/sfuphantom/hardware) to create a **new pull request**.
-6. A pull request will alert other people that you are ready to combine your branch (MyBranchName) with the Master branch, and will allow them to review your work and approve it for merging. 
+4. If you want to perform both commands in one line, here's a shortcut: **git checkout -b MyBranchName**
+5. Now you can develop and make changes as you wish on MyBranchName, adding files, making commits, and pushing up to the repository held in Github. 
+6. When you have decided you are ready to combine your changes/additions to the master branch of the repository, use Github's web interface (https://github.com/sfuphantom/hardware) to create a **new pull request**.
+7. A pull request will alert other people that you are ready to combine your branch (MyBranchName) with the Master branch, and will allow them to review your work and approve it for merging. 
