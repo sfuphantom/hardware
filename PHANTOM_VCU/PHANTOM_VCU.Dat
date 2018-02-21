@@ -1,32 +1,52 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PHANTOM_SDB.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\PHANTOM_SDB\PHANTOM_SDB.PrjPcb|ReportField=Title~Bill of Materials For Project [PHANTOM_SDB.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~154|ReportField=ReportTime~9:38:20 PM|ReportField=ReportDate~2017-11-04|ReportField=ReportDateTime~2017-11-04 9:38:20 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~2017-11-04|ReportField=CurrentTime~9:31:37 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Projects\PHANTOM_SDB\ADC_Decoupling.SchDoc|ReportField=DocumentName~ADC_Decoupling.SchDoc|ReportField=DocumentNumber~7|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~2017-11-04|ReportField=Organization~|ReportField=ProjectName~PHANTOM_SDB.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~7|ReportField=SheetTotal~7|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~PHANTOM_SDB.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\PHANTOM_SDB\PHANTOM_SDB.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
-1|100n|MLCC SMD CAP 100nF 10Volts U2J 5%|C1, C2, C3, C4, C5, C6, C7, C9, C11, C13||GRM21B7U1A104JA01L|10
-2|10u|AVX   F381A106MMA   Surface Mount Tantalum Capacitor, F38 Series, 10 F, 0603 [1608 Metric], 0.5 ohm, 10 V, Fixed Inductors 10uH 0.5A Mini SMT Power|C8, L1||F381A106MMA, 82103C|2
-3|100n|MLCC SMD CAP 100nF 10Volts U2J 5%|C10, C12, C15, C16|C0805|GRM21B7U1A104JA01L|4
-4|4u7|4.7µF ±10% 10V X5R Ceramic Capacitor -55°C ~ 85°C Surface Mount, MLCC 0805 (2012 Metric) 0.079" L x 0.049" W (2.00mm x 1.25mm)|C14||GRM219R61A475KE34D|1
-5|160-2212-6-ND|LED BLUE CLEAR 0603 SMD|D1, D2, D4, D6||LTST-C191TBKT-5A|4
-6|S3BB-TPMSCT-ND|DIODE GEN PURP 100V 3A DO214AA|D3, D5, D7||S3BB-TP|3
-7|160-1446-1-ND|LED GREEN CLEAR 0603 SMD|D8, D9, D10||LTST-C191KGKT|3
-8|486-1258-ND|FUSE HOLDER, PCB, 20X5MM|F1||0031.8201|1
-9|732-5316-ND|WURTH ELEKTRONIK         61300311121            Board-To-Board Connector, Vertical, WR-PHD Series, Through Hole, Header, 3 Contacts, 2.54 mm|JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14, JP15, JP16, JP17, JP18, JP19, JP20, JP21, JP22||61300311121|22
-10|952-2262-ND|Headers & Wire Housings 02 SIL VERTICAL PIN HEADER TIN|JP23, JP24, JP25, JP26||M20-9990246|4
-11|SUM110P08-11L-E3CT-ND|Trans MOSFET P-CH 80V 23.5A 3-Pin(2+Tab) TO-263|Q1||SUM110P08-11L-E3|1
-12|NCV8406ASTT1GOSCT-ND|Self-Protected Low Side Driver Automotive 4-Pin(3+Tab) SOT-223 T/R|Q2, Q3, Q4, Q5||NCV8406ASTT1G|4
-13|IRFS4321PBF-ND|MOSFET  N Channel, 83 A, 150 V, 0.012 ohm, 10 V, 5 V|Q6||IRFS4321PBF|1
-14|10k|RES SMD 10K OHM 1% 1/8W 0805|R1, R2, R3, R4, R5, R6, R9, R10, R11, R14, R15, R16, R17, R18, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R56, R57, R58, R63, R64, R65, R69||RC0805FR-071KL|51
-15|0|RES SMD 0 OHM 1/8W 0805|R7, R8, R12, R13, R19, R20, R21, R54, R55, R71, R72, R75, R76, R77, R80||RC0805JR-070RL|15
-16|4.7k|RES SMD 4.7K OHM 1% 1/8W 0805|R52, R53, R60, R61, R62, R66||RC0805FR-074K7L|6
-17|665R|RES SMD 665 OHM 1% 1/8W 0805|R59, R67||RC0805FR-07665RL|2
-18|280R|RES SMD 280 OHM 1% 1/8W 0805|R68||RC0805FR-07280RL|1
-19|P1.0NDCT-ND|Res Thick Film 2512 0.001 Ohm 1% 1W 250ppm/C to 450ppm/C Molded SMD Embossed Carrier T/R|R70||ERJ-M1WTF1M0U|1
-20|120|RES SMD 120 OHM 1% 1/8W 0805|R73, R78||RC0805FR-07120RL|2
-21|60.4|RES SMD 60.4 OHM 1% 1/8W 0805|R74, R79||RC0805FR-0760R4L|2
-22|LAUNCHXL2-TMS57012|Development Boards & Kits - ARM Hercules TMS570LS12x LaunchPad Dvpmnt Kit|U1||LAUNCHXL2-TMS57012|1
-23|MCP23S17T-E/SOCT-ND|MICROCHIP         MCP23S17T-E/SO             I/O Expander, 16bit, 10 MHz, SPI, 4.5 V, 5.5 V, SOIC|U2||MCP23S17T-E/SO|1
-24|MCP4921T-E/MSCT-ND|Digital to Analog Converters - DAC Sgl 12-bit SPI int|U3||MCP4921T-E/MS|1
-25|296-29034-1-ND|IC MONITOR PWR/CURR BIDIR 10MSOP|U4||INA226AIDGSR|1
-26|811-2657-ND|MURATA POWER SOLUTIONS 	   	78SRH-5/2-C 	   	IC, SYNC SWITCHING REGULATOR, TO-220-3|U5||78SRH-5/2-C|1
-27|811-1432-5-ND|DC/DC CONVERTER 3.3V 1W|U6||NKE0503SC|1
-28|MCP2561FD-E/SN-ND|MICROCHIP         MCP2561FD-E/SN            CAN Bus, Transceiver, CAN, 1, 1, 4.5 V, 5.5 V, SOIC|U7, U8||MCP2561FD-E/SN|2
-29|WM10445-ND|20 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole, Right Angle Tin|X1, X2||0346916200|2
-30|WM12751-ND|10 POS Solder ST Thru-Hole Stac64™ Tray|X3||0346950100|1
-31|SMBJ5349B-TPMSDKR-ND|DIODE ZENER 12V 5W DO214AA|Z1, Z2, Z3||SMBJ5349B-TP|3
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PHANTOM_VCU.PrjPcb|ReportField=ProjectFullPath~C:\Users\gabriel\Documents\Phantom\hardware\PHANTOM_VCU\PHANTOM_VCU.PrjPcb|ReportField=Title~Bill of Materials For Project [PHANTOM_VCU.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~193|ReportField=ReportTime~9:06:54 AM|ReportField=ReportDate~2018-02-21|ReportField=ReportDateTime~2018-02-21 9:06:54 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~2018-02-21|ReportField=CurrentTime~9:06:20 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\gabriel\Documents\Phantom\hardware\PHANTOM_VCU\ADC_Decoupling.SchDoc|ReportField=DocumentName~ADC_Decoupling.SchDoc|ReportField=DocumentNumber~7|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~2018-02-21|ReportField=Organization~|ReportField=ProjectName~PHANTOM_VCU.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~8|ReportField=SheetTotal~7|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~PHANTOM_VCU.PrjPcb|ReportField=DataSourceFullPath~C:\Users\gabriel\Documents\Phantom\hardware\PHANTOM_VCU\PHANTOM_VCU.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|100nF|CAP MLCC 100nF 10Volts U2J 5%|C1, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C41, C42, C43, C44, C46, C47|C0805|GRM21B7U1A104JA01L|37
+2|4u7|CAP MLCC 4.7µF ±10% 10V X5R Ceramic Capacitor -55°C ~ 85°C Surface Mount, MLCC 0805 (2012 Metric) 0.079" L x 0.049" W (2.00mm x 1.25mm)|C2, C45|C0805|GRM219R61A475KE34D|2
+3|10uF|CAP TANTALUM 10uF, 0603 [1608 Metric], 0.5 ohm, 10 V AVX  Surface Mount Tantalum Capacitor, F38 Series, 10uF, 0603 [1608 Metric], 0.5 ohm, 10 V|C3, C37, C38|TANT_10u|F381A106MMA|3
+4|1uF|CAP CER 1UF 10V X7R 0805|C17, C18|C0805|0805ZC105KAT2A|2
+5|33pF|CAP MLCC 33pF 10V Ceramic Capacitor C0G, NP0 0805 (2012 Metric) 0.079" L x 0.049" W (2.00mm x 1.25mm)|C39, C40|C0805|885012007003|2
+6|LTST-C191KGKT|LED GREEN CLEAR 0603 SMD|D1, D2, D3, D11|LED_0603|LTST-C191KGKT|4
+7|LTST-C191TBKT-5A|LED BLUE CLEAR 0603 SMD|D4, D5, D7, D9|LED_0603|LTST-C191TBKT-5A|4
+8|S3BB-TP|DIODE GEN PURP 100V 3A DO214AA|D6, D8, D10|DO-214AA_Diode|S3BB-TP|3
+9|LTST-C191KRKT|LED RED CLEAR 0603 SMD|D12|LED_0603|LTST-C191KRKT|1
+10|0031.8201|FUSE HOLDER, PCB, 20X5MM|F1|FUSE_HOLDER|0031.8201|1
+11|2A|FUSE_2A SMD 0603 LITTELFUSE|F2|FUSE_0603|0603SFV200F/32-2|1
+12|500mA|FUSE_0.5A SMD 0603, 0.5A|F3, F5|FUSE_0603|ERB-RE0R50V|2
+13|250mA|FUSE_0.25A SMD 0603 BOARD MNT 250MA 32VAC 63VDC|F4|FUSE_0603|C2Q250|1
+14|23R @ 100 MHz|FERRITE BEAD Ind Chip Bead Multi-Layer 23Ohm 30% 100MHz Ferrite 3.5A 1806 T/R|FB1, FB2|FB_1806|FBMJ4516HL230NTV|2
+15|952-2262-ND|CONN_HeaderPins2pos Headers & Wire Housings 02 SIL VERTICAL PIN HEADER TIN|JP1, JP2, JP3, JP4|2PIN_HEADER|M20-9990246|4
+16|732-5316-ND|CONN_HeaderPins3pos WURTH ELEKTRONIK Board-To-Board Connector, Vertical, WR-PHD Series, Through Hole, Header, 3 Contacts, 2.54 mm|JP5, JP6|3PIN_HEADER|61300311121|2
+17|68002-404HLF|CONN_HeaderPins4pos 4 Positions Header, Unshrouded Connector 0.100" (2.54mm) Through Hole Tin|JP7|4PIN_HEADER|68002-404HLF|1
+18|61300511121|CONN_HeaderPins5pos WURTH ELEKTRONIK         61300511121            Board-To-Board Connector, Vertical, WR-PHD Series, Through Hole, Header, 5 Contacts, 2.54 mm|JP8|5PIN_HEADER|61300511121|1
+19|10u|Inductor Fixed 10uH 0.5A Mini SMT Power|L1|INDUCTOR|82103C|1
+20|IRFS4321PBF|MOSFET  N Channel, 83 A, 150 V, 0.012 ohm, 10 V, 5 V|Q1|D2PAK_FETs|IRFS4321PBF|1
+21|SUM110P08-11L-E3|MOSFET P-CH 80V 23.5A 3-Pin(2+Tab) TO-263|Q2|D2PAK_FETs|SUM110P08-11L-E3|1
+22|NCV8406ASTT1G|MOSFET Self-Protected Low Side Driver Automotive 4-Pin(3+Tab) SOT-223 T/R|Q3, Q4, Q5, Q6|SOT-223_NFET|NCV8406ASTT1G|4
+23|4.7k|RES SMD 4.7K OHM 1% 1/8W 0805|R1, R6, R7, R24, R25, R26|R0805|RC0805FR-074K7L|6
+24|665R|RES SMD 665 OHM 1% 1/8W 0805|R2, R23|R0805|RC0805FR-07665RL|2
+25|280R|RES SMD 280 OHM 1% 1/8W 0805|R3|R0805|RC0805FR-07280RL|1
+26|10k|RES SMD 10K OHM 1% 1/8W 0805|R4, R20, R21, R22, R27, R28, R29, R30, R31, R32, R35, R36, R38, R39, R41, R45, R46, R52, R56, R58, R59, R60, R61, R62, R63, R64, R66, R67, R68, R71, R72, R73, R74, R75, R79, R80|R0805|RC0805FR-071KL|36
+27|0R001|Res Thick Film 2512 0.001 Ohm 1% 1W 250ppm/C to 450ppm/C Molded SMD Embossed Carrier T/R|R5|R2512|ERJ-M1WTF1M0U|1
+28|0|RES SMD 0 OHM 1/8W 0805|R8, R9, R10, R11, R14, R15, R16, R19, R51, R55, R65, R69, R70, R76, R77, R78, R81, R82|R0805|RC0805JR-070RL|18
+29|120|RES SMD 120 OHM 1% 1/8W 0805|R12, R17, R86|R0805|RC0805FR-07120RL|3
+30|60.4|RES SMD 60.4 OHM 1% 1/8W 0805|R13, R18, R40|R0805|RC0805FR-0760R4L|3
+31|2.2k|RES SMD 2.2K OHM 5% 1/8W|R33, R34, R37, R85|R0805|RC0805JR-072K2L|4
+32|1k|RES SMD 1K OHM 0805 1K Ohm 0.1% 0.125W(1/8W) ±25ppm/C Molded SMD Automotive Punched T/R|R42|R0805|ERA-6AEB102V|1
+33|PTS645SM43SMTR92LFS|SWITCH TACTILE SPST-NO 0.05A 12V|S1, S2|PUSH_BUTTON|PTS645SM43SMTR92LFS|2
+34|5015|TEST POINT, PCB, SMT|TP1, TP2, TP3, TP4, TP5, TP6, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15|TP_HOOK|5015|14
+35|INA226AIDGSR|IC MONITOR PWR/CURR BIDIR 10MSOP|U1|10-VSSOP_INA226|INA226AIDGSR|1
+36|78SRH-5/2-C|DCDC 5V MURATA POWER SOLUTIONS 	   	78SRH-5/2-C 	   	IC, SYNC SWITCHING REGULATOR, TO-220-3|U2|DCDC1|78SRH-5/2-C|1
+37|NKE0503SC|DCDC 3V3 CONVERTER 3.3V 1W|U3|DCDC2|NKE0503SC|1
+38|LP5912Q3.3DRVRQ1|LDO_1V2 REG 3.3V INPUT 1V2 OUTPUT 0.5A|U4|WSON|LP5912Q3.3DRVRQ1|1
+39|MCP23S17T-E/SO|IC I/O Expander, 16bit, 10 MHz, SPI, 4.5 V, 5.5 V, SOIC|U5|28-SOIC_MCP23S17|MCP23S17T-E/SO|1
+40|MCP4921T-E/MS|IC Digital to Analog Converters - DAC Sgl 12-bit SPI int|U6|8-MSOP_MCP4921|MCP4921T-E/MS|1
+41|MCP2561FD-E/SN|IC CAN Bus, Transceiver, CAN, 1, 1, 4.5 V, 5.5 V, SOIC|U7, U8|8-SOIC_MCP2561|MCP2561FD-E/SN|2
+42|TMS5701224CPGEQQ1|ARM CORTEX R4 LOCK STEP HERCULES MCU|U9|LQFP-144|TMS5701224CPGEQQ1|1
+43|TPS2115ADRBR|IC OR CTRLR SRC SELECT 8SON|U10|VSON-8|TPS2115ADRBR|1
+44|FT232RQ|IC USB FS SERIAL UART 32-QFN|U11|QFN-32|FT232RQ-REEL|1
+45|WM10445-ND|CONN_20Positions Molex Stac64 Header, Shrouded Connector 0.100" (2.54mm) Through Hole, Right Angle Tin|X1, X2, X4|MOLEX_20pin|0346916200|3
+46|WM14546-ND|CONN_10Positions Molex Stac64 Thru-Hole Tray|X3|MOLEX_10PIN|0346960101|1
+47|0768250002|CONN_2Position_MEGAFIT Molex Through Hole, Right Angle Tin|X5|MOLEX_2PIN_MEGAFIT|0768250002|1
+48|FTSH-105-01-F-DV-K|CONN_JTAG_10pin .050 Connector Dual Header 10 Position Surface Mount|X6|JTAG_50mil_10pin|FTSH-105-01-F-DV-K|1
+49|10118192-0001LF|CONN_USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle, Horizontal|X7|USB_MICRO|10118192-0001LF|1
+50|ABLS2-16.000MHZ-D4Y-T|XTAL 16MHz ±30ppm Crystal 18pF 40 Ohm -40°C ~ 85°C  Surface Mount HC49/US|XTAL1|XTAL|ABLS2-16.000MHZ-D4Y-T|1
+51|12V|DIODE ZENER 12V 5W DO214AA|Z1, Z2, Z3|DO-214AA_Diode|SMBJ5349B-TP|3
