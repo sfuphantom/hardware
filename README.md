@@ -1,6 +1,7 @@
 # hardware
 Schematics and layout work 
 
+Tutorial: https://www.youtube.com/watch?v=1xfp2Cx9FUk
 
 ## Getting started with git
 the main workflow is usually like this:
