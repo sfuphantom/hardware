@@ -1,9 +1,10 @@
 # hardware
 Schematics and layout work 
 
+## Getting started with git
+
 Tutorial: https://www.youtube.com/watch?v=1xfp2Cx9FUk
 
-## Getting started with git
 the main workflow is usually like this:
 
 1. install git on your machine https://git-scm.com/download/
