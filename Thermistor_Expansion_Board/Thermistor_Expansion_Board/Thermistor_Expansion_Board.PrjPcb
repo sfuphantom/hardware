@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LTTAODUE
 
 [Document4]
-DocumentPath=..\PCB_Project\Thermistor_Expansion_Board\Power_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BJYBQFXR
-
-[Document5]
 DocumentPath=TI_Mux.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBSDNXLS
 
-[Document6]
+[Document5]
 DocumentPath=SOIC-24_MUX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKYQQUJU
 
-[Document7]
+[Document6]
 DocumentPath=40_Pin_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,8 +140,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRFNWAWT
 
-[Document8]
-DocumentPath=45_Pin_Connector.PcbLib
+[Document7]
+DocumentPath=40_Pin_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -173,6 +156,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJAGKXVK
+
+[Document8]
+DocumentPath=TI_GENERIC_MUX_SHAPE.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XTWDGWCU
 
 [Configuration1]
 Name=Sources
