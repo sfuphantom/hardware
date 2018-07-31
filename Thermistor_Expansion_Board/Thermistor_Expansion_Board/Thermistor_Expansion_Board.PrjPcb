@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FKYQQUJU
 
 [Document6]
-DocumentPath=40_Pin_Connector.SchLib
+DocumentPath=50_Pin_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YRFNWAWT
 
 [Document7]
-DocumentPath=40_Pin_Connector.PcbLib
+DocumentPath=50_Pin_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
