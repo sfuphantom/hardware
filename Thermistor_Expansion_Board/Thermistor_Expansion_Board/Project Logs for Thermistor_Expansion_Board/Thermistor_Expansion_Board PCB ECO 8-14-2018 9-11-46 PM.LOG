@@ -1,0 +1,197 @@
+Added Component: Designator=C1(Capacitor - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Capacitor - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Capacitor - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "296-29408-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "296-29408-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "296-29408-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=U1-24
+Added Pin To Net: NetName=5V Pin=U2-24
+Added Pin To Net: NetName=5V Pin=U3-24
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U3-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_10 Pin=U2-10
+Added Pin To Net: NetName=NetU1_10 Pin=U3-10
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_11 Pin=U2-11
+Added Pin To Net: NetName=NetU1_11 Pin=U3-11
+Added Net: Name=NetU1_11
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U2-13
+Added Pin To Net: NetName=NetU1_13 Pin=U3-13
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U2-14
+Added Pin To Net: NetName=NetU1_14 Pin=U3-14
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=THERM_INPUT_1 Pin=U1-9
+Added Net: Name=THERM_INPUT_1
+Added Pin To Net: NetName=THERM_INPUT_2 Pin=U1-8
+Added Net: Name=THERM_INPUT_2
+Added Pin To Net: NetName=THERM_INPUT_3 Pin=U1-7
+Added Net: Name=THERM_INPUT_3
+Added Pin To Net: NetName=THERM_INPUT_4 Pin=U1-6
+Added Net: Name=THERM_INPUT_4
+Added Pin To Net: NetName=THERM_INPUT_5 Pin=U1-5
+Added Net: Name=THERM_INPUT_5
+Added Pin To Net: NetName=THERM_INPUT_6 Pin=U1-4
+Added Net: Name=THERM_INPUT_6
+Added Pin To Net: NetName=THERM_INPUT_7 Pin=U1-3
+Added Net: Name=THERM_INPUT_7
+Added Pin To Net: NetName=THERM_INPUT_8 Pin=U1-2
+Added Net: Name=THERM_INPUT_8
+Added Pin To Net: NetName=THERM_INPUT_9 Pin=U1-16
+Added Net: Name=THERM_INPUT_9
+Added Pin To Net: NetName=THERM_INPUT_10 Pin=U1-17
+Added Net: Name=THERM_INPUT_10
+Added Pin To Net: NetName=THERM_INPUT_11 Pin=U1-18
+Added Net: Name=THERM_INPUT_11
+Added Pin To Net: NetName=THERM_INPUT_12 Pin=U1-19
+Added Net: Name=THERM_INPUT_12
+Added Pin To Net: NetName=THERM_INPUT_13 Pin=U1-20
+Added Net: Name=THERM_INPUT_13
+Added Pin To Net: NetName=THERM_INPUT_14 Pin=U1-21
+Added Net: Name=THERM_INPUT_14
+Added Pin To Net: NetName=THERM_INPUT_15 Pin=U1-22
+Added Net: Name=THERM_INPUT_15
+Added Pin To Net: NetName=THERM_INPUT_16 Pin=U1-23
+Added Net: Name=THERM_INPUT_16
+Added Pin To Net: NetName=THERM_INPUT_17 Pin=U3-9
+Added Net: Name=THERM_INPUT_17
+Added Pin To Net: NetName=THERM_INPUT_18 Pin=U3-8
+Added Net: Name=THERM_INPUT_18
+Added Pin To Net: NetName=THERM_INPUT_19 Pin=U3-7
+Added Net: Name=THERM_INPUT_19
+Added Pin To Net: NetName=THERM_INPUT_20 Pin=U3-6
+Added Net: Name=THERM_INPUT_20
+Added Pin To Net: NetName=THERM_INPUT_21 Pin=U3-5
+Added Net: Name=THERM_INPUT_21
+Added Pin To Net: NetName=THERM_INPUT_22 Pin=U3-4
+Added Net: Name=THERM_INPUT_22
+Added Pin To Net: NetName=THERM_INPUT_23 Pin=U3-3
+Added Net: Name=THERM_INPUT_23
+Added Pin To Net: NetName=THERM_INPUT_24 Pin=U3-2
+Added Net: Name=THERM_INPUT_24
+Added Pin To Net: NetName=THERM_INPUT_25 Pin=U3-16
+Added Net: Name=THERM_INPUT_25
+Added Pin To Net: NetName=THERM_INPUT_26 Pin=U3-17
+Added Net: Name=THERM_INPUT_26
+Added Pin To Net: NetName=THERM_INPUT_27 Pin=U3-18
+Added Net: Name=THERM_INPUT_27
+Added Pin To Net: NetName=THERM_INPUT_28 Pin=U3-19
+Added Net: Name=THERM_INPUT_28
+Added Pin To Net: NetName=THERM_INPUT_29 Pin=U3-20
+Added Net: Name=THERM_INPUT_29
+Added Pin To Net: NetName=THERM_INPUT_30 Pin=U3-21
+Added Net: Name=THERM_INPUT_30
+Added Pin To Net: NetName=THERM_INPUT_31 Pin=U3-22
+Added Net: Name=THERM_INPUT_31
+Added Pin To Net: NetName=THERM_INPUT_32 Pin=U3-23
+Added Net: Name=THERM_INPUT_32
+Added Pin To Net: NetName=THERM_INPUT_33 Pin=U2-9
+Added Net: Name=THERM_INPUT_33
+Added Pin To Net: NetName=THERM_INPUT_34 Pin=U2-8
+Added Net: Name=THERM_INPUT_34
+Added Pin To Net: NetName=THERM_INPUT_35 Pin=U2-7
+Added Net: Name=THERM_INPUT_35
+Added Pin To Net: NetName=THERM_INPUT_36 Pin=U2-6
+Added Net: Name=THERM_INPUT_36
+Added Pin To Net: NetName=THERM_INPUT_37 Pin=U2-5
+Added Net: Name=THERM_INPUT_37
+Added Pin To Net: NetName=THERM_INPUT_38 Pin=U2-4
+Added Net: Name=THERM_INPUT_38
+Added Net: Name=THERM_INPUT_39
+Added Net: Name=THERM_INPUT_40
+Added Net: Name=THERM_INPUT_41
+Added Net: Name=THERM_INPUT_42
+Added Net: Name=THERM_INPUT_43
+Added Net: Name=THERM_INPUT_44
+Added Net: Name=THERM_INPUT_45
+Added Net: Name=THERM_INPUT_46
+Added Net: Name=THERM_INPUT_47
+Added Net: Name=THERM_INPUT_48
+Added Net: Name=THERM_INPUT_49
+Added Net: Name=THERM_INPUT_50
+Added Class: Name=3_MUX_Multiplex
+Added Class: Name=50_Pin_Connector
+Added Room: Name=3_MUX_Multiplex
+Added Room: Name=50_Pin_Connector

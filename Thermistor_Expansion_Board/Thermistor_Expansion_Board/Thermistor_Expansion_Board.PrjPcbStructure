@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Power_Supply.SchDoc
+Record=TopLevelDocument|FileName=TOP_SHEET.SchDoc
+Record=SheetSymbol|SourceDocument=TOP_SHEET.SchDoc|Designator=3_MUX_Multiplex|SchDesignator=3_MUX_Multiplex|FileName=CD74HC4067_MUX.SchDoc|SymbolType=Normal|RawFileName=CD74HC4067_MUX.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_SHEET.SchDoc|Designator=50_Pin_Connector|SchDesignator=50_Pin_Connector|FileName=AHK50H-ND_THERM_CONNECTOR.SchDoc|SymbolType=Normal|RawFileName=AHK50H-ND_THERM_CONNECTOR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
