@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=5V Pin=U1-14
+Change Net Name : Old Net Name=AIN10_4 New Net Name=AIN11_4
+Change Net Name : Old Net Name=AIN11_4 New Net Name=AIN10_4

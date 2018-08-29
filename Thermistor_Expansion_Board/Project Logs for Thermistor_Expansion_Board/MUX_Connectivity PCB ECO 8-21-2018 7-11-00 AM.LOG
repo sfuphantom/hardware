@@ -1,0 +1,84 @@
+Added Component: Designator=C2-1(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2-2(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2-3(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2-4(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4-1(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4-2(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4-3(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4-4(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C6-1(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C6-2(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C6-3(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C6-4(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1-1
+Added Pin To Net: NetName=5V Pin=C2-1-2
+Added Pin To Net: NetName=GND Pin=C2-2-1
+Added Pin To Net: NetName=5V Pin=C2-2-2
+Added Pin To Net: NetName=GND Pin=C2-3-1
+Added Pin To Net: NetName=5V Pin=C2-3-2
+Added Pin To Net: NetName=GND Pin=C2-4-1
+Added Pin To Net: NetName=5V Pin=C2-4-2
+Added Pin To Net: NetName=GND Pin=C4-1-1
+Added Pin To Net: NetName=5V Pin=C4-1-2
+Added Pin To Net: NetName=GND Pin=C4-2-1
+Added Pin To Net: NetName=5V Pin=C4-2-2
+Added Pin To Net: NetName=GND Pin=C4-3-1
+Added Pin To Net: NetName=5V Pin=C4-3-2
+Added Pin To Net: NetName=GND Pin=C4-4-1
+Added Pin To Net: NetName=5V Pin=C4-4-2
+Added Pin To Net: NetName=GND Pin=C6-1-1
+Added Pin To Net: NetName=5V Pin=C6-1-2
+Added Pin To Net: NetName=GND Pin=C6-2-1
+Added Pin To Net: NetName=5V Pin=C6-2-2
+Added Pin To Net: NetName=GND Pin=C6-3-1
+Added Pin To Net: NetName=5V Pin=C6-3-2
+Added Pin To Net: NetName=GND Pin=C6-4-1
+Added Pin To Net: NetName=5V Pin=C6-4-2
+Added Member To Class: ClassName=MUX_CON_31 Member=Component C2-1 (C2) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_32 Member=Component C2-2 (C2) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_33 Member=Component C2-3 (C2) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_34 Member=Component C2-4 (C2) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_31 Member=Component C4-1 (C4) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_32 Member=Component C4-2 (C4) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_33 Member=Component C4-3 (C4) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_34 Member=Component C4-4 (C4) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_31 Member=Component C6-1 (C6) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_32 Member=Component C6-2 (C6) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_33 Member=Component C6-3 (C6) 1uF Samsung Cap
+Added Member To Class: ClassName=MUX_CON_34 Member=Component C6-4 (C6) 1uF Samsung Cap

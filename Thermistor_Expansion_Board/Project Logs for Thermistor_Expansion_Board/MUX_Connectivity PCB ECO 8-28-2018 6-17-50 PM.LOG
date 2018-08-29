@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=REF+_4 Pin=U1-14
+Added Net: Name=REF+_4
+Added Pin To Net: NetName=REF-_4 Pin=U1-13
+Added Net: Name=REF-_4

@@ -1,0 +1,26 @@
+Change Net Name : Old Net Name=ADC_OUT12_2 New Net Name=ADC_OUT12
+Change Net Name : Old Net Name=ADC_OUT13_2 New Net Name=ADC_OUT13
+Change Net Name : Old Net Name=ADC_OUT14_2 New Net Name=ADC_OUT14
+Change Net Name : Old Net Name=ADC_OUT21_2 New Net Name=ADC_OUT21
+Change Net Name : Old Net Name=ADC_OUT22_2 New Net Name=ADC_OUT22
+Change Net Name : Old Net Name=ADC_OUT23_2 New Net Name=ADC_OUT23
+Change Net Name : Old Net Name=ADC_OUT24_2 New Net Name=ADC_OUT24
+Change Net Name : Old Net Name=ADC_OUT31_2 New Net Name=ADC_OUT31
+Change Net Name : Old Net Name=ADC_OUT32_2 New Net Name=ADC_OUT32
+Change Net Name : Old Net Name=ADC_OUT33_2 New Net Name=ADC_OUT33
+Change Net Name : Old Net Name=ADC_OUT34_2 New Net Name=ADC_OUT34
+Change Net Name : Old Net Name=ADC_OUT_1_4 New Net Name=ADC_OUT1
+Change Net Name : Old Net Name=ADC_OUT_2_4 New Net Name=ADC_OUT2
+Change Net Name : Old Net Name=ADC_OUT_3_4 New Net Name=ADC_OUT3
+Change Net Name : Old Net Name=ADC_OUT_4_4 New Net Name=ADC_OUT4
+Change Net Name : Old Net Name=ADC_OUT_5_4 New Net Name=ADC_OUT5
+Change Net Name : Old Net Name=ADC_OUT_6_4 New Net Name=ADC_OUT6
+Change Net Name : Old Net Name=ADC_OUT_7_4 New Net Name=ADC_OUT7
+Change Net Name : Old Net Name=ADC_OUT_8_4 New Net Name=ADC_OUT8
+Change Net Name : Old Net Name=ADC_OUT_9_4 New Net Name=ADC_OUT9
+Change Net Name : Old Net Name=ADC_OUT_10_4 New Net Name=ADC_OUT10
+Added Pin To Net: NetName=ADC_OUT11 Pin=R1_1-2
+Added Pin To Net: NetName=ADC_OUT11 Pin=U1-12
+Added Pin To Net: NetName=ADC_OUT11 Pin=U2_1-1
+Added Net: Name=ADC_OUT11
+Added Class: Name=ADC_OUT[1..12]

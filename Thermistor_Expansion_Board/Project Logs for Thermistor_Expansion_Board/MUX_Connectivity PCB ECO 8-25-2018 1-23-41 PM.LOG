@@ -1,0 +1,1173 @@
+Removed Pin From Net: NetName=GND Pin=C1_1-1
+Removed Pin From Net: NetName=5V Pin=C1_1-2
+Removed Pin From Net: NetName=GND Pin=C1_2-1
+Removed Pin From Net: NetName=5V Pin=C1_2-2
+Removed Pin From Net: NetName=GND Pin=C1_3-1
+Removed Pin From Net: NetName=5V Pin=C1_3-2
+Removed Pin From Net: NetName=GND Pin=C1_4-1
+Removed Pin From Net: NetName=5V Pin=C1_4-2
+Removed Pin From Net: NetName=GND Pin=C1_5-1
+Removed Pin From Net: NetName=5V Pin=C1_5-2
+Removed Pin From Net: NetName=GND Pin=C2_1-1
+Removed Pin From Net: NetName=5V Pin=C2_1-2
+Removed Pin From Net: NetName=GND Pin=C2_2-1
+Removed Pin From Net: NetName=5V Pin=C2_2-2
+Removed Pin From Net: NetName=GND Pin=C2_3-1
+Removed Pin From Net: NetName=5V Pin=C2_3-2
+Removed Pin From Net: NetName=GND Pin=C2_4-1
+Removed Pin From Net: NetName=5V Pin=C2_4-2
+Removed Pin From Net: NetName=GND Pin=C2_5-1
+Removed Pin From Net: NetName=5V Pin=C2_5-2
+Removed Pin From Net: NetName=GND Pin=C3_1-1
+Removed Pin From Net: NetName=5V Pin=C3_1-2
+Removed Pin From Net: NetName=GND Pin=C3_2-1
+Removed Pin From Net: NetName=5V Pin=C3_2-2
+Removed Pin From Net: NetName=GND Pin=C3_3-1
+Removed Pin From Net: NetName=5V Pin=C3_3-2
+Removed Pin From Net: NetName=GND Pin=C3_4-1
+Removed Pin From Net: NetName=5V Pin=C3_4-2
+Removed Pin From Net: NetName=GND Pin=C3_5-1
+Removed Pin From Net: NetName=5V Pin=C3_5-2
+Removed Pin From Net: NetName=GND Pin=C4_1-1
+Removed Pin From Net: NetName=5V Pin=C4_1-2
+Removed Pin From Net: NetName=GND Pin=C4_2-1
+Removed Pin From Net: NetName=5V Pin=C4_2-2
+Removed Pin From Net: NetName=GND Pin=C4_3-1
+Removed Pin From Net: NetName=5V Pin=C4_3-2
+Removed Pin From Net: NetName=GND Pin=C4_4-1
+Removed Pin From Net: NetName=5V Pin=C4_4-2
+Removed Pin From Net: NetName=GND Pin=C4_5-1
+Removed Pin From Net: NetName=5V Pin=C4_5-2
+Removed Pin From Net: NetName=GND Pin=C5_1-1
+Removed Pin From Net: NetName=5V Pin=C5_1-2
+Removed Pin From Net: NetName=GND Pin=C5_2-1
+Removed Pin From Net: NetName=5V Pin=C5_2-2
+Removed Pin From Net: NetName=GND Pin=C5_3-1
+Removed Pin From Net: NetName=5V Pin=C5_3-2
+Removed Pin From Net: NetName=GND Pin=C5_4-1
+Removed Pin From Net: NetName=5V Pin=C5_4-2
+Removed Pin From Net: NetName=GND Pin=C5_5-1
+Removed Pin From Net: NetName=5V Pin=C5_5-2
+Removed Pin From Net: NetName=GND Pin=C6_1-1
+Removed Pin From Net: NetName=5V Pin=C6_1-2
+Removed Pin From Net: NetName=GND Pin=C6_2-1
+Removed Pin From Net: NetName=5V Pin=C6_2-2
+Removed Pin From Net: NetName=GND Pin=C6_3-1
+Removed Pin From Net: NetName=5V Pin=C6_3-2
+Removed Pin From Net: NetName=GND Pin=C6_4-1
+Removed Pin From Net: NetName=5V Pin=C6_4-2
+Removed Pin From Net: NetName=GND Pin=C6_5-1
+Removed Pin From Net: NetName=5V Pin=C6_5-2
+Removed Pin From Net: NetName=5V Pin=R1_1-1
+Removed Pin From Net: NetName=5V Pin=R1_2-1
+Removed Pin From Net: NetName=5V Pin=R1_3-1
+Removed Pin From Net: NetName=5V Pin=R1_4-1
+Removed Pin From Net: NetName=5V Pin=R1_5-1
+Removed Pin From Net: NetName=5V Pin=R2_1-1
+Removed Pin From Net: NetName=5V Pin=R2_2-1
+Removed Pin From Net: NetName=5V Pin=R2_3-1
+Removed Pin From Net: NetName=5V Pin=R2_4-1
+Removed Pin From Net: NetName=5V Pin=R2_5-1
+Removed Pin From Net: NetName=5V Pin=R3_1-1
+Removed Pin From Net: NetName=5V Pin=R3_2-1
+Removed Pin From Net: NetName=5V Pin=R3_3-1
+Removed Pin From Net: NetName=5V Pin=R3_4-1
+Removed Pin From Net: NetName=5V Pin=R3_5-1
+Removed Pin From Net: NetName=TS_IN8_1 Pin=U1_1-2
+Removed Pin From Net: NetName=TS_IN7_1 Pin=U1_1-3
+Removed Pin From Net: NetName=TS_IN6_1 Pin=U1_1-4
+Removed Pin From Net: NetName=TS_IN5_1 Pin=U1_1-5
+Removed Pin From Net: NetName=TS_IN4_1 Pin=U1_1-6
+Removed Pin From Net: NetName=TS_IN3_1 Pin=U1_1-7
+Removed Pin From Net: NetName=TS_IN2_1 Pin=U1_1-8
+Removed Pin From Net: NetName=TS_IN1_1 Pin=U1_1-9
+Removed Pin From Net: NetName=S0_1 Pin=U1_1-10
+Removed Pin From Net: NetName=S1_1 Pin=U1_1-11
+Removed Pin From Net: NetName=GND Pin=U1_1-12
+Removed Pin From Net: NetName=S3_1 Pin=U1_1-13
+Removed Pin From Net: NetName=S2_1 Pin=U1_1-14
+Removed Pin From Net: NetName=GND Pin=U1_1-15
+Removed Pin From Net: NetName=TS_IN9_1 Pin=U1_1-16
+Removed Pin From Net: NetName=TS_IN10_1 Pin=U1_1-17
+Removed Pin From Net: NetName=TS_IN11_1 Pin=U1_1-18
+Removed Pin From Net: NetName=TS_IN12_1 Pin=U1_1-19
+Removed Pin From Net: NetName=TS_IN13_1 Pin=U1_1-20
+Removed Pin From Net: NetName=TS_IN14_1 Pin=U1_1-21
+Removed Pin From Net: NetName=TS_IN15_1 Pin=U1_1-22
+Removed Pin From Net: NetName=TS_IN16_1 Pin=U1_1-23
+Removed Pin From Net: NetName=5V Pin=U1_1-24
+Removed Pin From Net: NetName=TS_IN8_2 Pin=U1_2-2
+Removed Pin From Net: NetName=TS_IN7_2 Pin=U1_2-3
+Removed Pin From Net: NetName=TS_IN6_2 Pin=U1_2-4
+Removed Pin From Net: NetName=TS_IN5_2 Pin=U1_2-5
+Removed Pin From Net: NetName=TS_IN4_2 Pin=U1_2-6
+Removed Pin From Net: NetName=TS_IN3_2 Pin=U1_2-7
+Removed Pin From Net: NetName=TS_IN2_2 Pin=U1_2-8
+Removed Pin From Net: NetName=TS_IN1_2 Pin=U1_2-9
+Removed Pin From Net: NetName=GND Pin=U1_2-12
+Removed Pin From Net: NetName=GND Pin=U1_2-15
+Removed Pin From Net: NetName=TS_IN9_2 Pin=U1_2-16
+Removed Pin From Net: NetName=TS_IN10_2 Pin=U1_2-17
+Removed Pin From Net: NetName=TS_IN11_2 Pin=U1_2-18
+Removed Pin From Net: NetName=TS_IN12_2 Pin=U1_2-19
+Removed Pin From Net: NetName=TS_IN13_2 Pin=U1_2-20
+Removed Pin From Net: NetName=TS_IN14_2 Pin=U1_2-21
+Removed Pin From Net: NetName=TS_IN15_2 Pin=U1_2-22
+Removed Pin From Net: NetName=TS_IN16_2 Pin=U1_2-23
+Removed Pin From Net: NetName=5V Pin=U1_2-24
+Removed Pin From Net: NetName=TS_IN8_3 Pin=U1_3-2
+Removed Pin From Net: NetName=TS_IN7_3 Pin=U1_3-3
+Removed Pin From Net: NetName=TS_IN6_3 Pin=U1_3-4
+Removed Pin From Net: NetName=TS_IN5_3 Pin=U1_3-5
+Removed Pin From Net: NetName=TS_IN4_3 Pin=U1_3-6
+Removed Pin From Net: NetName=TS_IN3_3 Pin=U1_3-7
+Removed Pin From Net: NetName=TS_IN2_3 Pin=U1_3-8
+Removed Pin From Net: NetName=TS_IN1_3 Pin=U1_3-9
+Removed Pin From Net: NetName=GND Pin=U1_3-12
+Removed Pin From Net: NetName=GND Pin=U1_3-15
+Removed Pin From Net: NetName=TS_IN9_3 Pin=U1_3-16
+Removed Pin From Net: NetName=TS_IN10_3 Pin=U1_3-17
+Removed Pin From Net: NetName=TS_IN11_3 Pin=U1_3-18
+Removed Pin From Net: NetName=TS_IN12_3 Pin=U1_3-19
+Removed Pin From Net: NetName=TS_IN13_3 Pin=U1_3-20
+Removed Pin From Net: NetName=TS_IN14_3 Pin=U1_3-21
+Removed Pin From Net: NetName=TS_IN15_3 Pin=U1_3-22
+Removed Pin From Net: NetName=TS_IN16_3 Pin=U1_3-23
+Removed Pin From Net: NetName=5V Pin=U1_3-24
+Removed Pin From Net: NetName=TS_IN8_4 Pin=U1_4-2
+Removed Pin From Net: NetName=TS_IN7_4 Pin=U1_4-3
+Removed Pin From Net: NetName=TS_IN6_4 Pin=U1_4-4
+Removed Pin From Net: NetName=TS_IN5_4 Pin=U1_4-5
+Removed Pin From Net: NetName=TS_IN4_4 Pin=U1_4-6
+Removed Pin From Net: NetName=TS_IN3_4 Pin=U1_4-7
+Removed Pin From Net: NetName=TS_IN2_4 Pin=U1_4-8
+Removed Pin From Net: NetName=TS_IN1_4 Pin=U1_4-9
+Removed Pin From Net: NetName=GND Pin=U1_4-12
+Removed Pin From Net: NetName=GND Pin=U1_4-15
+Removed Pin From Net: NetName=TS_IN9_4 Pin=U1_4-16
+Removed Pin From Net: NetName=TS_IN10_4 Pin=U1_4-17
+Removed Pin From Net: NetName=TS_IN11_4 Pin=U1_4-18
+Removed Pin From Net: NetName=TS_IN12_4 Pin=U1_4-19
+Removed Pin From Net: NetName=TS_IN13_4 Pin=U1_4-20
+Removed Pin From Net: NetName=TS_IN14_4 Pin=U1_4-21
+Removed Pin From Net: NetName=TS_IN15_4 Pin=U1_4-22
+Removed Pin From Net: NetName=TS_IN16_4 Pin=U1_4-23
+Removed Pin From Net: NetName=5V Pin=U1_4-24
+Removed Pin From Net: NetName=TS_IN8_5 Pin=U1_5-2
+Removed Pin From Net: NetName=TS_IN7_5 Pin=U1_5-3
+Removed Pin From Net: NetName=TS_IN6_5 Pin=U1_5-4
+Removed Pin From Net: NetName=TS_IN5_5 Pin=U1_5-5
+Removed Pin From Net: NetName=TS_IN4_5 Pin=U1_5-6
+Removed Pin From Net: NetName=TS_IN3_5 Pin=U1_5-7
+Removed Pin From Net: NetName=TS_IN2_5 Pin=U1_5-8
+Removed Pin From Net: NetName=TS_IN1_5 Pin=U1_5-9
+Removed Pin From Net: NetName=GND Pin=U1_5-12
+Removed Pin From Net: NetName=GND Pin=U1_5-15
+Removed Pin From Net: NetName=TS_IN9_5 Pin=U1_5-16
+Removed Pin From Net: NetName=TS_IN10_5 Pin=U1_5-17
+Removed Pin From Net: NetName=TS_IN11_5 Pin=U1_5-18
+Removed Pin From Net: NetName=TS_IN12_5 Pin=U1_5-19
+Removed Pin From Net: NetName=TS_IN13_5 Pin=U1_5-20
+Removed Pin From Net: NetName=TS_IN14_5 Pin=U1_5-21
+Removed Pin From Net: NetName=TS_IN15_5 Pin=U1_5-22
+Removed Pin From Net: NetName=TS_IN16_5 Pin=U1_5-23
+Removed Pin From Net: NetName=5V Pin=U1_5-24
+Removed Pin From Net: NetName=TS_IN24_1 Pin=U2_1-2
+Removed Pin From Net: NetName=TS_IN23_1 Pin=U2_1-3
+Removed Pin From Net: NetName=TS_IN22_1 Pin=U2_1-4
+Removed Pin From Net: NetName=TS_IN21_1 Pin=U2_1-5
+Removed Pin From Net: NetName=TS_IN20_1 Pin=U2_1-6
+Removed Pin From Net: NetName=TS_IN19_1 Pin=U2_1-7
+Removed Pin From Net: NetName=TS_IN18_1 Pin=U2_1-8
+Removed Pin From Net: NetName=TS_IN17_1 Pin=U2_1-9
+Removed Pin From Net: NetName=S0_1 Pin=U2_1-10
+Removed Pin From Net: NetName=S1_1 Pin=U2_1-11
+Removed Pin From Net: NetName=GND Pin=U2_1-12
+Removed Pin From Net: NetName=S3_1 Pin=U2_1-13
+Removed Pin From Net: NetName=S2_1 Pin=U2_1-14
+Removed Pin From Net: NetName=GND Pin=U2_1-15
+Removed Pin From Net: NetName=TS_IN25_1 Pin=U2_1-16
+Removed Pin From Net: NetName=TS_IN26_1 Pin=U2_1-17
+Removed Pin From Net: NetName=TS_IN27_1 Pin=U2_1-18
+Removed Pin From Net: NetName=TS_IN28_1 Pin=U2_1-19
+Removed Pin From Net: NetName=TS_IN29_1 Pin=U2_1-20
+Removed Pin From Net: NetName=TS_IN30_1 Pin=U2_1-21
+Removed Pin From Net: NetName=TS_IN31_1 Pin=U2_1-22
+Removed Pin From Net: NetName=TS_IN32_1 Pin=U2_1-23
+Removed Pin From Net: NetName=5V Pin=U2_1-24
+Removed Pin From Net: NetName=TS_IN24_2 Pin=U2_2-2
+Removed Pin From Net: NetName=TS_IN23_2 Pin=U2_2-3
+Removed Pin From Net: NetName=TS_IN22_2 Pin=U2_2-4
+Removed Pin From Net: NetName=TS_IN21_2 Pin=U2_2-5
+Removed Pin From Net: NetName=TS_IN20_2 Pin=U2_2-6
+Removed Pin From Net: NetName=TS_IN19_2 Pin=U2_2-7
+Removed Pin From Net: NetName=TS_IN18_2 Pin=U2_2-8
+Removed Pin From Net: NetName=TS_IN17_2 Pin=U2_2-9
+Removed Pin From Net: NetName=GND Pin=U2_2-12
+Removed Pin From Net: NetName=GND Pin=U2_2-15
+Removed Pin From Net: NetName=TS_IN25_2 Pin=U2_2-16
+Removed Pin From Net: NetName=TS_IN26_2 Pin=U2_2-17
+Removed Pin From Net: NetName=TS_IN27_2 Pin=U2_2-18
+Removed Pin From Net: NetName=TS_IN28_2 Pin=U2_2-19
+Removed Pin From Net: NetName=TS_IN29_2 Pin=U2_2-20
+Removed Pin From Net: NetName=TS_IN30_2 Pin=U2_2-21
+Removed Pin From Net: NetName=TS_IN31_2 Pin=U2_2-22
+Removed Pin From Net: NetName=TS_IN32_2 Pin=U2_2-23
+Removed Pin From Net: NetName=5V Pin=U2_2-24
+Removed Pin From Net: NetName=TS_IN24_3 Pin=U2_3-2
+Removed Pin From Net: NetName=TS_IN23_3 Pin=U2_3-3
+Removed Pin From Net: NetName=TS_IN22_3 Pin=U2_3-4
+Removed Pin From Net: NetName=TS_IN21_3 Pin=U2_3-5
+Removed Pin From Net: NetName=TS_IN20_3 Pin=U2_3-6
+Removed Pin From Net: NetName=TS_IN19_3 Pin=U2_3-7
+Removed Pin From Net: NetName=TS_IN18_3 Pin=U2_3-8
+Removed Pin From Net: NetName=TS_IN17_3 Pin=U2_3-9
+Removed Pin From Net: NetName=GND Pin=U2_3-12
+Removed Pin From Net: NetName=GND Pin=U2_3-15
+Removed Pin From Net: NetName=TS_IN25_3 Pin=U2_3-16
+Removed Pin From Net: NetName=TS_IN26_3 Pin=U2_3-17
+Removed Pin From Net: NetName=TS_IN27_3 Pin=U2_3-18
+Removed Pin From Net: NetName=TS_IN28_3 Pin=U2_3-19
+Removed Pin From Net: NetName=TS_IN29_3 Pin=U2_3-20
+Removed Pin From Net: NetName=TS_IN30_3 Pin=U2_3-21
+Removed Pin From Net: NetName=TS_IN31_3 Pin=U2_3-22
+Removed Pin From Net: NetName=TS_IN32_3 Pin=U2_3-23
+Removed Pin From Net: NetName=5V Pin=U2_3-24
+Removed Pin From Net: NetName=TS_IN24_4 Pin=U2_4-2
+Removed Pin From Net: NetName=TS_IN23_4 Pin=U2_4-3
+Removed Pin From Net: NetName=TS_IN22_4 Pin=U2_4-4
+Removed Pin From Net: NetName=TS_IN21_4 Pin=U2_4-5
+Removed Pin From Net: NetName=TS_IN20_4 Pin=U2_4-6
+Removed Pin From Net: NetName=TS_IN19_4 Pin=U2_4-7
+Removed Pin From Net: NetName=TS_IN18_4 Pin=U2_4-8
+Removed Pin From Net: NetName=TS_IN17_4 Pin=U2_4-9
+Removed Pin From Net: NetName=GND Pin=U2_4-12
+Removed Pin From Net: NetName=GND Pin=U2_4-15
+Removed Pin From Net: NetName=TS_IN25_4 Pin=U2_4-16
+Removed Pin From Net: NetName=TS_IN26_4 Pin=U2_4-17
+Removed Pin From Net: NetName=TS_IN27_4 Pin=U2_4-18
+Removed Pin From Net: NetName=TS_IN28_4 Pin=U2_4-19
+Removed Pin From Net: NetName=TS_IN29_4 Pin=U2_4-20
+Removed Pin From Net: NetName=TS_IN30_4 Pin=U2_4-21
+Removed Pin From Net: NetName=TS_IN31_4 Pin=U2_4-22
+Removed Pin From Net: NetName=TS_IN32_4 Pin=U2_4-23
+Removed Pin From Net: NetName=5V Pin=U2_4-24
+Removed Pin From Net: NetName=TS_IN24_5 Pin=U2_5-2
+Removed Pin From Net: NetName=TS_IN23_5 Pin=U2_5-3
+Removed Pin From Net: NetName=TS_IN22_5 Pin=U2_5-4
+Removed Pin From Net: NetName=TS_IN21_5 Pin=U2_5-5
+Removed Pin From Net: NetName=TS_IN20_5 Pin=U2_5-6
+Removed Pin From Net: NetName=TS_IN19_5 Pin=U2_5-7
+Removed Pin From Net: NetName=TS_IN18_5 Pin=U2_5-8
+Removed Pin From Net: NetName=TS_IN17_5 Pin=U2_5-9
+Removed Pin From Net: NetName=GND Pin=U2_5-12
+Removed Pin From Net: NetName=GND Pin=U2_5-15
+Removed Pin From Net: NetName=TS_IN25_5 Pin=U2_5-16
+Removed Pin From Net: NetName=TS_IN26_5 Pin=U2_5-17
+Removed Pin From Net: NetName=TS_IN27_5 Pin=U2_5-18
+Removed Pin From Net: NetName=TS_IN28_5 Pin=U2_5-19
+Removed Pin From Net: NetName=TS_IN29_5 Pin=U2_5-20
+Removed Pin From Net: NetName=TS_IN30_5 Pin=U2_5-21
+Removed Pin From Net: NetName=TS_IN31_5 Pin=U2_5-22
+Removed Pin From Net: NetName=TS_IN32_5 Pin=U2_5-23
+Removed Pin From Net: NetName=5V Pin=U2_5-24
+Removed Pin From Net: NetName=TS_IN40_1 Pin=U3_1-2
+Removed Pin From Net: NetName=TS_IN39_1 Pin=U3_1-3
+Removed Pin From Net: NetName=TS_IN38_1 Pin=U3_1-4
+Removed Pin From Net: NetName=TS_IN37_1 Pin=U3_1-5
+Removed Pin From Net: NetName=TS_IN36_1 Pin=U3_1-6
+Removed Pin From Net: NetName=TS_IN35_1 Pin=U3_1-7
+Removed Pin From Net: NetName=TS_IN34_1 Pin=U3_1-8
+Removed Pin From Net: NetName=TS_IN33_1 Pin=U3_1-9
+Removed Pin From Net: NetName=S0_1 Pin=U3_1-10
+Removed Pin From Net: NetName=S1_1 Pin=U3_1-11
+Removed Pin From Net: NetName=GND Pin=U3_1-12
+Removed Pin From Net: NetName=S3_1 Pin=U3_1-13
+Removed Pin From Net: NetName=S2_1 Pin=U3_1-14
+Removed Pin From Net: NetName=GND Pin=U3_1-15
+Removed Pin From Net: NetName=TS_IN41_1 Pin=U3_1-16
+Removed Pin From Net: NetName=TS_IN42_1 Pin=U3_1-17
+Removed Pin From Net: NetName=TS_IN43_1 Pin=U3_1-18
+Removed Pin From Net: NetName=TS_IN44_1 Pin=U3_1-19
+Removed Pin From Net: NetName=TS_IN45_1 Pin=U3_1-20
+Removed Pin From Net: NetName=TS_IN46_1 Pin=U3_1-21
+Removed Pin From Net: NetName=TS_IN47_1 Pin=U3_1-22
+Removed Pin From Net: NetName=TS_IN48_1 Pin=U3_1-23
+Removed Pin From Net: NetName=5V Pin=U3_1-24
+Removed Pin From Net: NetName=TS_IN40_2 Pin=U3_2-2
+Removed Pin From Net: NetName=TS_IN39_2 Pin=U3_2-3
+Removed Pin From Net: NetName=TS_IN38_2 Pin=U3_2-4
+Removed Pin From Net: NetName=TS_IN37_2 Pin=U3_2-5
+Removed Pin From Net: NetName=TS_IN36_2 Pin=U3_2-6
+Removed Pin From Net: NetName=TS_IN35_2 Pin=U3_2-7
+Removed Pin From Net: NetName=TS_IN34_2 Pin=U3_2-8
+Removed Pin From Net: NetName=TS_IN33_2 Pin=U3_2-9
+Removed Pin From Net: NetName=GND Pin=U3_2-12
+Removed Pin From Net: NetName=GND Pin=U3_2-15
+Removed Pin From Net: NetName=TS_IN41_2 Pin=U3_2-16
+Removed Pin From Net: NetName=TS_IN42_2 Pin=U3_2-17
+Removed Pin From Net: NetName=TS_IN43_2 Pin=U3_2-18
+Removed Pin From Net: NetName=TS_IN44_2 Pin=U3_2-19
+Removed Pin From Net: NetName=TS_IN45_2 Pin=U3_2-20
+Removed Pin From Net: NetName=TS_IN46_2 Pin=U3_2-21
+Removed Pin From Net: NetName=TS_IN47_2 Pin=U3_2-22
+Removed Pin From Net: NetName=TS_IN48_2 Pin=U3_2-23
+Removed Pin From Net: NetName=5V Pin=U3_2-24
+Removed Pin From Net: NetName=TS_IN40_3 Pin=U3_3-2
+Removed Pin From Net: NetName=TS_IN39_3 Pin=U3_3-3
+Removed Pin From Net: NetName=TS_IN38_3 Pin=U3_3-4
+Removed Pin From Net: NetName=TS_IN37_3 Pin=U3_3-5
+Removed Pin From Net: NetName=TS_IN36_3 Pin=U3_3-6
+Removed Pin From Net: NetName=TS_IN35_3 Pin=U3_3-7
+Removed Pin From Net: NetName=TS_IN34_3 Pin=U3_3-8
+Removed Pin From Net: NetName=TS_IN33_3 Pin=U3_3-9
+Removed Pin From Net: NetName=GND Pin=U3_3-12
+Removed Pin From Net: NetName=GND Pin=U3_3-15
+Removed Pin From Net: NetName=TS_IN41_3 Pin=U3_3-16
+Removed Pin From Net: NetName=TS_IN42_3 Pin=U3_3-17
+Removed Pin From Net: NetName=TS_IN43_3 Pin=U3_3-18
+Removed Pin From Net: NetName=TS_IN44_3 Pin=U3_3-19
+Removed Pin From Net: NetName=TS_IN45_3 Pin=U3_3-20
+Removed Pin From Net: NetName=TS_IN46_3 Pin=U3_3-21
+Removed Pin From Net: NetName=TS_IN47_3 Pin=U3_3-22
+Removed Pin From Net: NetName=TS_IN48_3 Pin=U3_3-23
+Removed Pin From Net: NetName=5V Pin=U3_3-24
+Removed Pin From Net: NetName=TS_IN40_4 Pin=U3_4-2
+Removed Pin From Net: NetName=TS_IN39_4 Pin=U3_4-3
+Removed Pin From Net: NetName=TS_IN38_4 Pin=U3_4-4
+Removed Pin From Net: NetName=TS_IN37_4 Pin=U3_4-5
+Removed Pin From Net: NetName=TS_IN36_4 Pin=U3_4-6
+Removed Pin From Net: NetName=TS_IN35_4 Pin=U3_4-7
+Removed Pin From Net: NetName=TS_IN34_4 Pin=U3_4-8
+Removed Pin From Net: NetName=TS_IN33_4 Pin=U3_4-9
+Removed Pin From Net: NetName=GND Pin=U3_4-12
+Removed Pin From Net: NetName=GND Pin=U3_4-15
+Removed Pin From Net: NetName=TS_IN41_4 Pin=U3_4-16
+Removed Pin From Net: NetName=TS_IN42_4 Pin=U3_4-17
+Removed Pin From Net: NetName=TS_IN43_4 Pin=U3_4-18
+Removed Pin From Net: NetName=TS_IN44_4 Pin=U3_4-19
+Removed Pin From Net: NetName=TS_IN45_4 Pin=U3_4-20
+Removed Pin From Net: NetName=TS_IN46_4 Pin=U3_4-21
+Removed Pin From Net: NetName=TS_IN47_4 Pin=U3_4-22
+Removed Pin From Net: NetName=TS_IN48_4 Pin=U3_4-23
+Removed Pin From Net: NetName=5V Pin=U3_4-24
+Removed Pin From Net: NetName=TS_IN40_5 Pin=U3_5-2
+Removed Pin From Net: NetName=TS_IN39_5 Pin=U3_5-3
+Removed Pin From Net: NetName=TS_IN38_5 Pin=U3_5-4
+Removed Pin From Net: NetName=TS_IN37_5 Pin=U3_5-5
+Removed Pin From Net: NetName=TS_IN36_5 Pin=U3_5-6
+Removed Pin From Net: NetName=TS_IN35_5 Pin=U3_5-7
+Removed Pin From Net: NetName=TS_IN34_5 Pin=U3_5-8
+Removed Pin From Net: NetName=TS_IN33_5 Pin=U3_5-9
+Removed Pin From Net: NetName=GND Pin=U3_5-12
+Removed Pin From Net: NetName=GND Pin=U3_5-15
+Removed Pin From Net: NetName=TS_IN41_5 Pin=U3_5-16
+Removed Pin From Net: NetName=TS_IN42_5 Pin=U3_5-17
+Removed Pin From Net: NetName=TS_IN43_5 Pin=U3_5-18
+Removed Pin From Net: NetName=TS_IN44_5 Pin=U3_5-19
+Removed Pin From Net: NetName=TS_IN45_5 Pin=U3_5-20
+Removed Pin From Net: NetName=TS_IN46_5 Pin=U3_5-21
+Removed Pin From Net: NetName=TS_IN47_5 Pin=U3_5-22
+Removed Pin From Net: NetName=TS_IN48_5 Pin=U3_5-23
+Removed Pin From Net: NetName=5V Pin=U3_5-24
+Added Component: Designator=C7_1(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_2(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_3(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_4(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_5(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_6(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_7(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_8(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_9(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_10(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_11(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_12(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_13(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_14(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7_15(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_1(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_2(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_3(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_4(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_5(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_6(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_7(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_8(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_9(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_10(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_11(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_12(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_13(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_14(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8_15(1uf_Samsung)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1946-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R4_1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_4(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_5(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_6(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_7(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_8(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_9(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_10(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_11(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_12(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_13(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_14(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_15(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Added Component: Designator=U5_1(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_2(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_3(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_4(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_5(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_6(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_7(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_8(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_9(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_10(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_11(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_12(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_13(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_14(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Component: Designator=U5_15(SOIC-24_MUX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "05B6161"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7_1-1
+Added Pin To Net: NetName=5V Pin=C7_1-2
+Added Pin To Net: NetName=GND Pin=C7_2-1
+Added Pin To Net: NetName=5V Pin=C7_2-2
+Added Pin To Net: NetName=GND Pin=C7_3-1
+Added Pin To Net: NetName=5V Pin=C7_3-2
+Added Pin To Net: NetName=GND Pin=C7_4-1
+Added Pin To Net: NetName=5V Pin=C7_4-2
+Added Pin To Net: NetName=GND Pin=C7_5-1
+Added Pin To Net: NetName=5V Pin=C7_5-2
+Added Pin To Net: NetName=GND Pin=C7_6-1
+Added Pin To Net: NetName=5V Pin=C7_6-2
+Added Pin To Net: NetName=GND Pin=C7_7-1
+Added Pin To Net: NetName=5V Pin=C7_7-2
+Added Pin To Net: NetName=GND Pin=C7_8-1
+Added Pin To Net: NetName=5V Pin=C7_8-2
+Added Pin To Net: NetName=GND Pin=C7_9-1
+Added Pin To Net: NetName=5V Pin=C7_9-2
+Added Pin To Net: NetName=GND Pin=C7_10-1
+Added Pin To Net: NetName=5V Pin=C7_10-2
+Added Pin To Net: NetName=GND Pin=C7_11-1
+Added Pin To Net: NetName=5V Pin=C7_11-2
+Added Pin To Net: NetName=GND Pin=C7_12-1
+Added Pin To Net: NetName=5V Pin=C7_12-2
+Added Pin To Net: NetName=GND Pin=C7_13-1
+Added Pin To Net: NetName=5V Pin=C7_13-2
+Added Pin To Net: NetName=GND Pin=C7_14-1
+Added Pin To Net: NetName=5V Pin=C7_14-2
+Added Pin To Net: NetName=GND Pin=C7_15-1
+Added Pin To Net: NetName=5V Pin=C7_15-2
+Added Pin To Net: NetName=GND Pin=C8_1-1
+Added Pin To Net: NetName=5V Pin=C8_1-2
+Added Pin To Net: NetName=GND Pin=C8_2-1
+Added Pin To Net: NetName=5V Pin=C8_2-2
+Added Pin To Net: NetName=GND Pin=C8_3-1
+Added Pin To Net: NetName=5V Pin=C8_3-2
+Added Pin To Net: NetName=GND Pin=C8_4-1
+Added Pin To Net: NetName=5V Pin=C8_4-2
+Added Pin To Net: NetName=GND Pin=C8_5-1
+Added Pin To Net: NetName=5V Pin=C8_5-2
+Added Pin To Net: NetName=GND Pin=C8_6-1
+Added Pin To Net: NetName=5V Pin=C8_6-2
+Added Pin To Net: NetName=GND Pin=C8_7-1
+Added Pin To Net: NetName=5V Pin=C8_7-2
+Added Pin To Net: NetName=GND Pin=C8_8-1
+Added Pin To Net: NetName=5V Pin=C8_8-2
+Added Pin To Net: NetName=GND Pin=C8_9-1
+Added Pin To Net: NetName=5V Pin=C8_9-2
+Added Pin To Net: NetName=GND Pin=C8_10-1
+Added Pin To Net: NetName=5V Pin=C8_10-2
+Added Pin To Net: NetName=GND Pin=C8_11-1
+Added Pin To Net: NetName=5V Pin=C8_11-2
+Added Pin To Net: NetName=GND Pin=C8_12-1
+Added Pin To Net: NetName=5V Pin=C8_12-2
+Added Pin To Net: NetName=GND Pin=C8_13-1
+Added Pin To Net: NetName=5V Pin=C8_13-2
+Added Pin To Net: NetName=GND Pin=C8_14-1
+Added Pin To Net: NetName=5V Pin=C8_14-2
+Added Pin To Net: NetName=GND Pin=C8_15-1
+Added Pin To Net: NetName=5V Pin=C8_15-2
+Added Pin To Net: NetName=5V Pin=R4_1-1
+Added Pin To Net: NetName=5V Pin=R4_2-1
+Added Pin To Net: NetName=5V Pin=R4_3-1
+Added Pin To Net: NetName=5V Pin=R4_4-1
+Added Pin To Net: NetName=5V Pin=R4_5-1
+Added Pin To Net: NetName=5V Pin=R4_6-1
+Added Pin To Net: NetName=5V Pin=R4_7-1
+Added Pin To Net: NetName=5V Pin=R4_8-1
+Added Pin To Net: NetName=5V Pin=R4_9-1
+Added Pin To Net: NetName=5V Pin=R4_10-1
+Added Pin To Net: NetName=5V Pin=R4_11-1
+Added Pin To Net: NetName=5V Pin=R4_12-1
+Added Pin To Net: NetName=5V Pin=R4_13-1
+Added Pin To Net: NetName=5V Pin=R4_14-1
+Added Pin To Net: NetName=5V Pin=R4_15-1
+Added Pin To Net: NetName=TS_IN8_1 Pin=U5_1-2
+Added Pin To Net: NetName=TS_IN7_1 Pin=U5_1-3
+Added Pin To Net: NetName=TS_IN6_1 Pin=U5_1-4
+Added Pin To Net: NetName=TS_IN5_1 Pin=U5_1-5
+Added Pin To Net: NetName=TS_IN4_1 Pin=U5_1-6
+Added Pin To Net: NetName=TS_IN3_1 Pin=U5_1-7
+Added Pin To Net: NetName=TS_IN2_1 Pin=U5_1-8
+Added Pin To Net: NetName=TS_IN1_1 Pin=U5_1-9
+Added Pin To Net: NetName=S0_1 Pin=U5_1-10
+Added Pin To Net: NetName=S1_1 Pin=U5_1-11
+Added Pin To Net: NetName=GND Pin=U5_1-12
+Added Pin To Net: NetName=S3_1 Pin=U5_1-13
+Added Pin To Net: NetName=S2_1 Pin=U5_1-14
+Added Pin To Net: NetName=GND Pin=U5_1-15
+Added Pin To Net: NetName=TS_IN9_1 Pin=U5_1-16
+Added Pin To Net: NetName=TS_IN10_1 Pin=U5_1-17
+Added Pin To Net: NetName=TS_IN11_1 Pin=U5_1-18
+Added Pin To Net: NetName=TS_IN12_1 Pin=U5_1-19
+Added Pin To Net: NetName=TS_IN13_1 Pin=U5_1-20
+Added Pin To Net: NetName=TS_IN14_1 Pin=U5_1-21
+Added Pin To Net: NetName=TS_IN15_1 Pin=U5_1-22
+Added Pin To Net: NetName=TS_IN16_1 Pin=U5_1-23
+Added Pin To Net: NetName=5V Pin=U5_1-24
+Added Pin To Net: NetName=TS_IN8_1 Pin=U5_2-2
+Added Pin To Net: NetName=TS_IN7_1 Pin=U5_2-3
+Added Pin To Net: NetName=TS_IN6_1 Pin=U5_2-4
+Added Pin To Net: NetName=TS_IN5_1 Pin=U5_2-5
+Added Pin To Net: NetName=TS_IN4_1 Pin=U5_2-6
+Added Pin To Net: NetName=TS_IN3_1 Pin=U5_2-7
+Added Pin To Net: NetName=TS_IN2_1 Pin=U5_2-8
+Added Pin To Net: NetName=TS_IN1_1 Pin=U5_2-9
+Added Pin To Net: NetName=S0_1 Pin=U5_2-10
+Added Pin To Net: NetName=S1_1 Pin=U5_2-11
+Added Pin To Net: NetName=GND Pin=U5_2-12
+Added Pin To Net: NetName=S3_1 Pin=U5_2-13
+Added Pin To Net: NetName=S2_1 Pin=U5_2-14
+Added Pin To Net: NetName=GND Pin=U5_2-15
+Added Pin To Net: NetName=TS_IN9_1 Pin=U5_2-16
+Added Pin To Net: NetName=TS_IN10_1 Pin=U5_2-17
+Added Pin To Net: NetName=TS_IN11_1 Pin=U5_2-18
+Added Pin To Net: NetName=TS_IN12_1 Pin=U5_2-19
+Added Pin To Net: NetName=TS_IN13_1 Pin=U5_2-20
+Added Pin To Net: NetName=TS_IN14_1 Pin=U5_2-21
+Added Pin To Net: NetName=TS_IN15_1 Pin=U5_2-22
+Added Pin To Net: NetName=TS_IN16_1 Pin=U5_2-23
+Added Pin To Net: NetName=5V Pin=U5_2-24
+Added Pin To Net: NetName=TS_IN8_1 Pin=U5_3-2
+Added Pin To Net: NetName=TS_IN7_1 Pin=U5_3-3
+Added Pin To Net: NetName=TS_IN6_1 Pin=U5_3-4
+Added Pin To Net: NetName=TS_IN5_1 Pin=U5_3-5
+Added Pin To Net: NetName=TS_IN4_1 Pin=U5_3-6
+Added Pin To Net: NetName=TS_IN3_1 Pin=U5_3-7
+Added Pin To Net: NetName=TS_IN2_1 Pin=U5_3-8
+Added Pin To Net: NetName=TS_IN1_1 Pin=U5_3-9
+Added Pin To Net: NetName=S0_1 Pin=U5_3-10
+Added Pin To Net: NetName=S1_1 Pin=U5_3-11
+Added Pin To Net: NetName=GND Pin=U5_3-12
+Added Pin To Net: NetName=S3_1 Pin=U5_3-13
+Added Pin To Net: NetName=S2_1 Pin=U5_3-14
+Added Pin To Net: NetName=GND Pin=U5_3-15
+Added Pin To Net: NetName=TS_IN9_1 Pin=U5_3-16
+Added Pin To Net: NetName=TS_IN10_1 Pin=U5_3-17
+Added Pin To Net: NetName=TS_IN11_1 Pin=U5_3-18
+Added Pin To Net: NetName=TS_IN12_1 Pin=U5_3-19
+Added Pin To Net: NetName=TS_IN13_1 Pin=U5_3-20
+Added Pin To Net: NetName=TS_IN14_1 Pin=U5_3-21
+Added Pin To Net: NetName=TS_IN15_1 Pin=U5_3-22
+Added Pin To Net: NetName=TS_IN16_1 Pin=U5_3-23
+Added Pin To Net: NetName=5V Pin=U5_3-24
+Added Pin To Net: NetName=TS_IN8_2 Pin=U5_4-2
+Added Pin To Net: NetName=TS_IN7_2 Pin=U5_4-3
+Added Pin To Net: NetName=TS_IN6_2 Pin=U5_4-4
+Added Pin To Net: NetName=TS_IN5_2 Pin=U5_4-5
+Added Pin To Net: NetName=TS_IN4_2 Pin=U5_4-6
+Added Pin To Net: NetName=TS_IN3_2 Pin=U5_4-7
+Added Pin To Net: NetName=TS_IN2_2 Pin=U5_4-8
+Added Pin To Net: NetName=TS_IN1_2 Pin=U5_4-9
+Added Pin To Net: NetName=S0_1 Pin=U5_4-10
+Added Pin To Net: NetName=S1_1 Pin=U5_4-11
+Added Pin To Net: NetName=GND Pin=U5_4-12
+Added Pin To Net: NetName=S3_1 Pin=U5_4-13
+Added Pin To Net: NetName=S2_1 Pin=U5_4-14
+Added Pin To Net: NetName=GND Pin=U5_4-15
+Added Pin To Net: NetName=TS_IN9_2 Pin=U5_4-16
+Added Pin To Net: NetName=TS_IN10_2 Pin=U5_4-17
+Added Pin To Net: NetName=TS_IN11_2 Pin=U5_4-18
+Added Pin To Net: NetName=TS_IN12_2 Pin=U5_4-19
+Added Pin To Net: NetName=TS_IN13_2 Pin=U5_4-20
+Added Pin To Net: NetName=TS_IN14_2 Pin=U5_4-21
+Added Pin To Net: NetName=TS_IN15_2 Pin=U5_4-22
+Added Pin To Net: NetName=TS_IN16_2 Pin=U5_4-23
+Added Pin To Net: NetName=5V Pin=U5_4-24
+Added Pin To Net: NetName=TS_IN8_2 Pin=U5_5-2
+Added Pin To Net: NetName=TS_IN7_2 Pin=U5_5-3
+Added Pin To Net: NetName=TS_IN6_2 Pin=U5_5-4
+Added Pin To Net: NetName=TS_IN5_2 Pin=U5_5-5
+Added Pin To Net: NetName=TS_IN4_2 Pin=U5_5-6
+Added Pin To Net: NetName=TS_IN3_2 Pin=U5_5-7
+Added Pin To Net: NetName=TS_IN2_2 Pin=U5_5-8
+Added Pin To Net: NetName=TS_IN1_2 Pin=U5_5-9
+Added Pin To Net: NetName=S0_1 Pin=U5_5-10
+Added Pin To Net: NetName=S1_1 Pin=U5_5-11
+Added Pin To Net: NetName=GND Pin=U5_5-12
+Added Pin To Net: NetName=S3_1 Pin=U5_5-13
+Added Pin To Net: NetName=S2_1 Pin=U5_5-14
+Added Pin To Net: NetName=GND Pin=U5_5-15
+Added Pin To Net: NetName=TS_IN9_2 Pin=U5_5-16
+Added Pin To Net: NetName=TS_IN10_2 Pin=U5_5-17
+Added Pin To Net: NetName=TS_IN11_2 Pin=U5_5-18
+Added Pin To Net: NetName=TS_IN12_2 Pin=U5_5-19
+Added Pin To Net: NetName=TS_IN13_2 Pin=U5_5-20
+Added Pin To Net: NetName=TS_IN14_2 Pin=U5_5-21
+Added Pin To Net: NetName=TS_IN15_2 Pin=U5_5-22
+Added Pin To Net: NetName=TS_IN16_2 Pin=U5_5-23
+Added Pin To Net: NetName=5V Pin=U5_5-24
+Added Pin To Net: NetName=TS_IN8_2 Pin=U5_6-2
+Added Pin To Net: NetName=TS_IN7_2 Pin=U5_6-3
+Added Pin To Net: NetName=TS_IN6_2 Pin=U5_6-4
+Added Pin To Net: NetName=TS_IN5_2 Pin=U5_6-5
+Added Pin To Net: NetName=TS_IN4_2 Pin=U5_6-6
+Added Pin To Net: NetName=TS_IN3_2 Pin=U5_6-7
+Added Pin To Net: NetName=TS_IN2_2 Pin=U5_6-8
+Added Pin To Net: NetName=TS_IN1_2 Pin=U5_6-9
+Added Pin To Net: NetName=S0_1 Pin=U5_6-10
+Added Pin To Net: NetName=S1_1 Pin=U5_6-11
+Added Pin To Net: NetName=GND Pin=U5_6-12
+Added Pin To Net: NetName=S3_1 Pin=U5_6-13
+Added Pin To Net: NetName=S2_1 Pin=U5_6-14
+Added Pin To Net: NetName=GND Pin=U5_6-15
+Added Pin To Net: NetName=TS_IN9_2 Pin=U5_6-16
+Added Pin To Net: NetName=TS_IN10_2 Pin=U5_6-17
+Added Pin To Net: NetName=TS_IN11_2 Pin=U5_6-18
+Added Pin To Net: NetName=TS_IN12_2 Pin=U5_6-19
+Added Pin To Net: NetName=TS_IN13_2 Pin=U5_6-20
+Added Pin To Net: NetName=TS_IN14_2 Pin=U5_6-21
+Added Pin To Net: NetName=TS_IN15_2 Pin=U5_6-22
+Added Pin To Net: NetName=TS_IN16_2 Pin=U5_6-23
+Added Pin To Net: NetName=5V Pin=U5_6-24
+Added Pin To Net: NetName=TS_IN8_3 Pin=U5_7-2
+Added Pin To Net: NetName=TS_IN7_3 Pin=U5_7-3
+Added Pin To Net: NetName=TS_IN6_3 Pin=U5_7-4
+Added Pin To Net: NetName=TS_IN5_3 Pin=U5_7-5
+Added Pin To Net: NetName=TS_IN4_3 Pin=U5_7-6
+Added Pin To Net: NetName=TS_IN3_3 Pin=U5_7-7
+Added Pin To Net: NetName=TS_IN2_3 Pin=U5_7-8
+Added Pin To Net: NetName=TS_IN1_3 Pin=U5_7-9
+Added Pin To Net: NetName=S0_1 Pin=U5_7-10
+Added Pin To Net: NetName=S1_1 Pin=U5_7-11
+Added Pin To Net: NetName=GND Pin=U5_7-12
+Added Pin To Net: NetName=S3_1 Pin=U5_7-13
+Added Pin To Net: NetName=S2_1 Pin=U5_7-14
+Added Pin To Net: NetName=GND Pin=U5_7-15
+Added Pin To Net: NetName=TS_IN9_3 Pin=U5_7-16
+Added Pin To Net: NetName=TS_IN10_3 Pin=U5_7-17
+Added Pin To Net: NetName=TS_IN11_3 Pin=U5_7-18
+Added Pin To Net: NetName=TS_IN12_3 Pin=U5_7-19
+Added Pin To Net: NetName=TS_IN13_3 Pin=U5_7-20
+Added Pin To Net: NetName=TS_IN14_3 Pin=U5_7-21
+Added Pin To Net: NetName=TS_IN15_3 Pin=U5_7-22
+Added Pin To Net: NetName=TS_IN16_3 Pin=U5_7-23
+Added Pin To Net: NetName=5V Pin=U5_7-24
+Added Pin To Net: NetName=TS_IN8_3 Pin=U5_8-2
+Added Pin To Net: NetName=TS_IN7_3 Pin=U5_8-3
+Added Pin To Net: NetName=TS_IN6_3 Pin=U5_8-4
+Added Pin To Net: NetName=TS_IN5_3 Pin=U5_8-5
+Added Pin To Net: NetName=TS_IN4_3 Pin=U5_8-6
+Added Pin To Net: NetName=TS_IN3_3 Pin=U5_8-7
+Added Pin To Net: NetName=TS_IN2_3 Pin=U5_8-8
+Added Pin To Net: NetName=TS_IN1_3 Pin=U5_8-9
+Added Pin To Net: NetName=S0_1 Pin=U5_8-10
+Added Pin To Net: NetName=S1_1 Pin=U5_8-11
+Added Pin To Net: NetName=GND Pin=U5_8-12
+Added Pin To Net: NetName=S3_1 Pin=U5_8-13
+Added Pin To Net: NetName=S2_1 Pin=U5_8-14
+Added Pin To Net: NetName=GND Pin=U5_8-15
+Added Pin To Net: NetName=TS_IN9_3 Pin=U5_8-16
+Added Pin To Net: NetName=TS_IN10_3 Pin=U5_8-17
+Added Pin To Net: NetName=TS_IN11_3 Pin=U5_8-18
+Added Pin To Net: NetName=TS_IN12_3 Pin=U5_8-19
+Added Pin To Net: NetName=TS_IN13_3 Pin=U5_8-20
+Added Pin To Net: NetName=TS_IN14_3 Pin=U5_8-21
+Added Pin To Net: NetName=TS_IN15_3 Pin=U5_8-22
+Added Pin To Net: NetName=TS_IN16_3 Pin=U5_8-23
+Added Pin To Net: NetName=5V Pin=U5_8-24
+Added Pin To Net: NetName=TS_IN8_3 Pin=U5_9-2
+Added Pin To Net: NetName=TS_IN7_3 Pin=U5_9-3
+Added Pin To Net: NetName=TS_IN6_3 Pin=U5_9-4
+Added Pin To Net: NetName=TS_IN5_3 Pin=U5_9-5
+Added Pin To Net: NetName=TS_IN4_3 Pin=U5_9-6
+Added Pin To Net: NetName=TS_IN3_3 Pin=U5_9-7
+Added Pin To Net: NetName=TS_IN2_3 Pin=U5_9-8
+Added Pin To Net: NetName=TS_IN1_3 Pin=U5_9-9
+Added Pin To Net: NetName=S0_1 Pin=U5_9-10
+Added Pin To Net: NetName=S1_1 Pin=U5_9-11
+Added Pin To Net: NetName=GND Pin=U5_9-12
+Added Pin To Net: NetName=S3_1 Pin=U5_9-13
+Added Pin To Net: NetName=S2_1 Pin=U5_9-14
+Added Pin To Net: NetName=GND Pin=U5_9-15
+Added Pin To Net: NetName=TS_IN9_3 Pin=U5_9-16
+Added Pin To Net: NetName=TS_IN10_3 Pin=U5_9-17
+Added Pin To Net: NetName=TS_IN11_3 Pin=U5_9-18
+Added Pin To Net: NetName=TS_IN12_3 Pin=U5_9-19
+Added Pin To Net: NetName=TS_IN13_3 Pin=U5_9-20
+Added Pin To Net: NetName=TS_IN14_3 Pin=U5_9-21
+Added Pin To Net: NetName=TS_IN15_3 Pin=U5_9-22
+Added Pin To Net: NetName=TS_IN16_3 Pin=U5_9-23
+Added Pin To Net: NetName=5V Pin=U5_9-24
+Added Pin To Net: NetName=TS_IN8_4 Pin=U5_10-2
+Added Pin To Net: NetName=TS_IN7_4 Pin=U5_10-3
+Added Pin To Net: NetName=TS_IN6_4 Pin=U5_10-4
+Added Pin To Net: NetName=TS_IN5_4 Pin=U5_10-5
+Added Pin To Net: NetName=TS_IN4_4 Pin=U5_10-6
+Added Pin To Net: NetName=TS_IN3_4 Pin=U5_10-7
+Added Pin To Net: NetName=TS_IN2_4 Pin=U5_10-8
+Added Pin To Net: NetName=TS_IN1_4 Pin=U5_10-9
+Added Pin To Net: NetName=S0_1 Pin=U5_10-10
+Added Pin To Net: NetName=S1_1 Pin=U5_10-11
+Added Pin To Net: NetName=GND Pin=U5_10-12
+Added Pin To Net: NetName=S3_1 Pin=U5_10-13
+Added Pin To Net: NetName=S2_1 Pin=U5_10-14
+Added Pin To Net: NetName=GND Pin=U5_10-15
+Added Pin To Net: NetName=TS_IN9_4 Pin=U5_10-16
+Added Pin To Net: NetName=TS_IN10_4 Pin=U5_10-17
+Added Pin To Net: NetName=TS_IN11_4 Pin=U5_10-18
+Added Pin To Net: NetName=TS_IN12_4 Pin=U5_10-19
+Added Pin To Net: NetName=TS_IN13_4 Pin=U5_10-20
+Added Pin To Net: NetName=TS_IN14_4 Pin=U5_10-21
+Added Pin To Net: NetName=TS_IN15_4 Pin=U5_10-22
+Added Pin To Net: NetName=TS_IN16_4 Pin=U5_10-23
+Added Pin To Net: NetName=5V Pin=U5_10-24
+Added Pin To Net: NetName=TS_IN8_4 Pin=U5_11-2
+Added Pin To Net: NetName=TS_IN7_4 Pin=U5_11-3
+Added Pin To Net: NetName=TS_IN6_4 Pin=U5_11-4
+Added Pin To Net: NetName=TS_IN5_4 Pin=U5_11-5
+Added Pin To Net: NetName=TS_IN4_4 Pin=U5_11-6
+Added Pin To Net: NetName=TS_IN3_4 Pin=U5_11-7
+Added Pin To Net: NetName=TS_IN2_4 Pin=U5_11-8
+Added Pin To Net: NetName=TS_IN1_4 Pin=U5_11-9
+Added Pin To Net: NetName=S0_1 Pin=U5_11-10
+Added Pin To Net: NetName=S1_1 Pin=U5_11-11
+Added Pin To Net: NetName=GND Pin=U5_11-12
+Added Pin To Net: NetName=S3_1 Pin=U5_11-13
+Added Pin To Net: NetName=S2_1 Pin=U5_11-14
+Added Pin To Net: NetName=GND Pin=U5_11-15
+Added Pin To Net: NetName=TS_IN9_4 Pin=U5_11-16
+Added Pin To Net: NetName=TS_IN10_4 Pin=U5_11-17
+Added Pin To Net: NetName=TS_IN11_4 Pin=U5_11-18
+Added Pin To Net: NetName=TS_IN12_4 Pin=U5_11-19
+Added Pin To Net: NetName=TS_IN13_4 Pin=U5_11-20
+Added Pin To Net: NetName=TS_IN14_4 Pin=U5_11-21
+Added Pin To Net: NetName=TS_IN15_4 Pin=U5_11-22
+Added Pin To Net: NetName=TS_IN16_4 Pin=U5_11-23
+Added Pin To Net: NetName=5V Pin=U5_11-24
+Added Pin To Net: NetName=TS_IN8_4 Pin=U5_12-2
+Added Pin To Net: NetName=TS_IN7_4 Pin=U5_12-3
+Added Pin To Net: NetName=TS_IN6_4 Pin=U5_12-4
+Added Pin To Net: NetName=TS_IN5_4 Pin=U5_12-5
+Added Pin To Net: NetName=TS_IN4_4 Pin=U5_12-6
+Added Pin To Net: NetName=TS_IN3_4 Pin=U5_12-7
+Added Pin To Net: NetName=TS_IN2_4 Pin=U5_12-8
+Added Pin To Net: NetName=TS_IN1_4 Pin=U5_12-9
+Added Pin To Net: NetName=S0_1 Pin=U5_12-10
+Added Pin To Net: NetName=S1_1 Pin=U5_12-11
+Added Pin To Net: NetName=GND Pin=U5_12-12
+Added Pin To Net: NetName=S3_1 Pin=U5_12-13
+Added Pin To Net: NetName=S2_1 Pin=U5_12-14
+Added Pin To Net: NetName=GND Pin=U5_12-15
+Added Pin To Net: NetName=TS_IN9_4 Pin=U5_12-16
+Added Pin To Net: NetName=TS_IN10_4 Pin=U5_12-17
+Added Pin To Net: NetName=TS_IN11_4 Pin=U5_12-18
+Added Pin To Net: NetName=TS_IN12_4 Pin=U5_12-19
+Added Pin To Net: NetName=TS_IN13_4 Pin=U5_12-20
+Added Pin To Net: NetName=TS_IN14_4 Pin=U5_12-21
+Added Pin To Net: NetName=TS_IN15_4 Pin=U5_12-22
+Added Pin To Net: NetName=TS_IN16_4 Pin=U5_12-23
+Added Pin To Net: NetName=5V Pin=U5_12-24
+Added Pin To Net: NetName=TS_IN8_5 Pin=U5_13-2
+Added Pin To Net: NetName=TS_IN7_5 Pin=U5_13-3
+Added Pin To Net: NetName=TS_IN6_5 Pin=U5_13-4
+Added Pin To Net: NetName=TS_IN5_5 Pin=U5_13-5
+Added Pin To Net: NetName=TS_IN4_5 Pin=U5_13-6
+Added Pin To Net: NetName=TS_IN3_5 Pin=U5_13-7
+Added Pin To Net: NetName=TS_IN2_5 Pin=U5_13-8
+Added Pin To Net: NetName=TS_IN1_5 Pin=U5_13-9
+Added Pin To Net: NetName=S0_1 Pin=U5_13-10
+Added Pin To Net: NetName=S1_1 Pin=U5_13-11
+Added Pin To Net: NetName=GND Pin=U5_13-12
+Added Pin To Net: NetName=S3_1 Pin=U5_13-13
+Added Pin To Net: NetName=S2_1 Pin=U5_13-14
+Added Pin To Net: NetName=GND Pin=U5_13-15
+Added Pin To Net: NetName=TS_IN9_5 Pin=U5_13-16
+Added Pin To Net: NetName=TS_IN10_5 Pin=U5_13-17
+Added Pin To Net: NetName=TS_IN11_5 Pin=U5_13-18
+Added Pin To Net: NetName=TS_IN12_5 Pin=U5_13-19
+Added Pin To Net: NetName=TS_IN13_5 Pin=U5_13-20
+Added Pin To Net: NetName=TS_IN14_5 Pin=U5_13-21
+Added Pin To Net: NetName=TS_IN15_5 Pin=U5_13-22
+Added Pin To Net: NetName=TS_IN16_5 Pin=U5_13-23
+Added Pin To Net: NetName=5V Pin=U5_13-24
+Added Pin To Net: NetName=TS_IN8_5 Pin=U5_14-2
+Added Pin To Net: NetName=TS_IN7_5 Pin=U5_14-3
+Added Pin To Net: NetName=TS_IN6_5 Pin=U5_14-4
+Added Pin To Net: NetName=TS_IN5_5 Pin=U5_14-5
+Added Pin To Net: NetName=TS_IN4_5 Pin=U5_14-6
+Added Pin To Net: NetName=TS_IN3_5 Pin=U5_14-7
+Added Pin To Net: NetName=TS_IN2_5 Pin=U5_14-8
+Added Pin To Net: NetName=TS_IN1_5 Pin=U5_14-9
+Added Pin To Net: NetName=S0_1 Pin=U5_14-10
+Added Pin To Net: NetName=S1_1 Pin=U5_14-11
+Added Pin To Net: NetName=GND Pin=U5_14-12
+Added Pin To Net: NetName=S3_1 Pin=U5_14-13
+Added Pin To Net: NetName=S2_1 Pin=U5_14-14
+Added Pin To Net: NetName=GND Pin=U5_14-15
+Added Pin To Net: NetName=TS_IN9_5 Pin=U5_14-16
+Added Pin To Net: NetName=TS_IN10_5 Pin=U5_14-17
+Added Pin To Net: NetName=TS_IN11_5 Pin=U5_14-18
+Added Pin To Net: NetName=TS_IN12_5 Pin=U5_14-19
+Added Pin To Net: NetName=TS_IN13_5 Pin=U5_14-20
+Added Pin To Net: NetName=TS_IN14_5 Pin=U5_14-21
+Added Pin To Net: NetName=TS_IN15_5 Pin=U5_14-22
+Added Pin To Net: NetName=TS_IN16_5 Pin=U5_14-23
+Added Pin To Net: NetName=5V Pin=U5_14-24
+Added Pin To Net: NetName=TS_IN8_5 Pin=U5_15-2
+Added Pin To Net: NetName=TS_IN7_5 Pin=U5_15-3
+Added Pin To Net: NetName=TS_IN6_5 Pin=U5_15-4
+Added Pin To Net: NetName=TS_IN5_5 Pin=U5_15-5
+Added Pin To Net: NetName=TS_IN4_5 Pin=U5_15-6
+Added Pin To Net: NetName=TS_IN3_5 Pin=U5_15-7
+Added Pin To Net: NetName=TS_IN2_5 Pin=U5_15-8
+Added Pin To Net: NetName=TS_IN1_5 Pin=U5_15-9
+Added Pin To Net: NetName=S0_1 Pin=U5_15-10
+Added Pin To Net: NetName=S1_1 Pin=U5_15-11
+Added Pin To Net: NetName=GND Pin=U5_15-12
+Added Pin To Net: NetName=S3_1 Pin=U5_15-13
+Added Pin To Net: NetName=S2_1 Pin=U5_15-14
+Added Pin To Net: NetName=GND Pin=U5_15-15
+Added Pin To Net: NetName=TS_IN9_5 Pin=U5_15-16
+Added Pin To Net: NetName=TS_IN10_5 Pin=U5_15-17
+Added Pin To Net: NetName=TS_IN11_5 Pin=U5_15-18
+Added Pin To Net: NetName=TS_IN12_5 Pin=U5_15-19
+Added Pin To Net: NetName=TS_IN13_5 Pin=U5_15-20
+Added Pin To Net: NetName=TS_IN14_5 Pin=U5_15-21
+Added Pin To Net: NetName=TS_IN15_5 Pin=U5_15-22
+Added Pin To Net: NetName=TS_IN16_5 Pin=U5_15-23
+Added Pin To Net: NetName=5V Pin=U5_15-24
+Added Pin To Net: NetName=NetR4_1_2 Pin=R4_1-2
+Added Pin To Net: NetName=NetR4_1_2 Pin=R4_2-2
+Added Pin To Net: NetName=NetR4_1_2 Pin=R4_3-2
+Added Pin To Net: NetName=NetR4_1_2 Pin=U5_1-1
+Added Pin To Net: NetName=NetR4_1_2 Pin=U5_2-1
+Added Pin To Net: NetName=NetR4_1_2 Pin=U5_3-1
+Added Net: Name=NetR4_1_2
+Added Pin To Net: NetName=NetR4_4_2 Pin=R4_4-2
+Added Pin To Net: NetName=NetR4_4_2 Pin=R4_5-2
+Added Pin To Net: NetName=NetR4_4_2 Pin=R4_6-2
+Added Pin To Net: NetName=NetR4_4_2 Pin=U5_4-1
+Added Pin To Net: NetName=NetR4_4_2 Pin=U5_5-1
+Added Pin To Net: NetName=NetR4_4_2 Pin=U5_6-1
+Added Net: Name=NetR4_4_2
+Added Pin To Net: NetName=NetR4_7_2 Pin=R4_7-2
+Added Pin To Net: NetName=NetR4_7_2 Pin=R4_8-2
+Added Pin To Net: NetName=NetR4_7_2 Pin=R4_9-2
+Added Pin To Net: NetName=NetR4_7_2 Pin=U5_7-1
+Added Pin To Net: NetName=NetR4_7_2 Pin=U5_8-1
+Added Pin To Net: NetName=NetR4_7_2 Pin=U5_9-1
+Added Net: Name=NetR4_7_2
+Added Pin To Net: NetName=NetR4_10_2 Pin=R4_10-2
+Added Pin To Net: NetName=NetR4_10_2 Pin=R4_11-2
+Added Pin To Net: NetName=NetR4_10_2 Pin=R4_12-2
+Added Pin To Net: NetName=NetR4_10_2 Pin=U5_10-1
+Added Pin To Net: NetName=NetR4_10_2 Pin=U5_11-1
+Added Pin To Net: NetName=NetR4_10_2 Pin=U5_12-1
+Added Net: Name=NetR4_10_2
+Added Pin To Net: NetName=NetR4_13_2 Pin=R4_13-2
+Added Pin To Net: NetName=NetR4_13_2 Pin=R4_14-2
+Added Pin To Net: NetName=NetR4_13_2 Pin=R4_15-2
+Added Pin To Net: NetName=NetR4_13_2 Pin=U5_13-1
+Added Pin To Net: NetName=NetR4_13_2 Pin=U5_14-1
+Added Pin To Net: NetName=NetR4_13_2 Pin=U5_15-1
+Added Net: Name=NetR4_13_2
+Added Class: Name=U_Single_Mux1
+Added Class: Name=U_Single_Mux2
+Added Class: Name=U_Single_Mux3
+Added Class: Name=U_Single_Mux4
+Added Class: Name=U_Single_Mux5
+Added Class: Name=U_Single_Mux6
+Added Class: Name=U_Single_Mux7
+Added Class: Name=U_Single_Mux8
+Added Class: Name=U_Single_Mux9
+Added Class: Name=U_Single_Mux10
+Added Class: Name=U_Single_Mux11
+Added Class: Name=U_Single_Mux12
+Added Class: Name=U_Single_Mux13
+Added Class: Name=U_Single_Mux14
+Added Class: Name=U_Single_Mux15
+Added Class: Name=Single_Mux
+Added Room: Name=U_Single_Mux1
+Added Room: Name=U_Single_Mux2
+Added Room: Name=U_Single_Mux3
+Added Room: Name=U_Single_Mux4
+Added Room: Name=U_Single_Mux5
+Added Room: Name=U_Single_Mux6
+Added Room: Name=U_Single_Mux7
+Added Room: Name=U_Single_Mux8
+Added Room: Name=U_Single_Mux9
+Added Room: Name=U_Single_Mux10
+Added Room: Name=U_Single_Mux11
+Added Room: Name=U_Single_Mux12
+Added Room: Name=U_Single_Mux13
+Added Room: Name=U_Single_Mux14
+Added Room: Name=U_Single_Mux15

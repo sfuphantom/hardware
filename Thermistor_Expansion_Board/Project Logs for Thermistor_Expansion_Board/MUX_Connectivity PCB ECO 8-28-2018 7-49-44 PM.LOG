@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=ADC_OUTC4 Pin=*-15
+Added Pin To Net: NetName=ADC_OUTB4 Pin=*-16
+Added Pin To Net: NetName=ADC_OUTA4 Pin=*-17
+Added Pin To Net: NetName=ADC_OUTC3 Pin=*-18
+Added Pin To Net: NetName=ADC_OUTB3 Pin=*-21
+Added Pin To Net: NetName=ADC_OUTA3 Pin=*-22
+Added Pin To Net: NetName=ADC_OUTC2 Pin=*-23
+Added Pin To Net: NetName=ADC_OUTB2 Pin=*-24
+Added Pin To Net: NetName=ADC_OUTC1 Pin=*-26
+Added Pin To Net: NetName=ADC_OUTB1 Pin=*-27

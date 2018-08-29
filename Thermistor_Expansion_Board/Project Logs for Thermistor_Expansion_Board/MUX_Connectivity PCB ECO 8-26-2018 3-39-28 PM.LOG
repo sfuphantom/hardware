@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=GND Pin=C1_5-1
+Removed Pin From Net: NetName=5V Pin=C1_5-2
+Removed Pin From Net: NetName=GND Pin=C2_5-1
+Removed Pin From Net: NetName=5V Pin=C2_5-2
+Removed Pin From Net: NetName=GND Pin=C3_5-1
+Removed Pin From Net: NetName=5V Pin=C3_5-2
+Removed Pin From Net: NetName=GND Pin=C4_5-1
+Removed Pin From Net: NetName=5V Pin=C4_5-2
+Removed Pin From Net: NetName=GND Pin=C5_5-1
+Removed Pin From Net: NetName=5V Pin=C5_5-2
+Removed Pin From Net: NetName=GND Pin=C6_5-1
+Removed Pin From Net: NetName=5V Pin=C6_5-2
+Removed Pin From Net: NetName=5V Pin=R1_5-1
+Removed Pin From Net: NetName=5V Pin=R2_5-1
+Removed Pin From Net: NetName=5V Pin=R3_5-1
+Removed Pin From Net: NetName=S0_1 Pin=U2_5-10
+Removed Pin From Net: NetName=S1_1 Pin=U2_5-11
+Removed Pin From Net: NetName=GND Pin=U2_5-12
+Removed Pin From Net: NetName=S3_1 Pin=U2_5-13
+Removed Pin From Net: NetName=S2_1 Pin=U2_5-14
+Removed Pin From Net: NetName=GND Pin=U2_5-15
+Removed Pin From Net: NetName=5V Pin=U2_5-24
+Removed Pin From Net: NetName=S0_1 Pin=U3_5-10
+Removed Pin From Net: NetName=S1_1 Pin=U3_5-11
+Removed Pin From Net: NetName=GND Pin=U3_5-12
+Removed Pin From Net: NetName=S3_1 Pin=U3_5-13
+Removed Pin From Net: NetName=S2_1 Pin=U3_5-14
+Removed Pin From Net: NetName=GND Pin=U3_5-15
+Removed Pin From Net: NetName=5V Pin=U3_5-24
+Removed Pin From Net: NetName=S0_1 Pin=U4_5-10
+Removed Pin From Net: NetName=S1_1 Pin=U4_5-11
+Removed Pin From Net: NetName=GND Pin=U4_5-12
+Removed Pin From Net: NetName=S3_1 Pin=U4_5-13
+Removed Pin From Net: NetName=S2_1 Pin=U4_5-14
+Removed Pin From Net: NetName=GND Pin=U4_5-15
+Removed Pin From Net: NetName=5V Pin=U4_5-24
+Change Net Name : Old Net Name=AIN1_4 New Net Name=AIN1
+Change Net Name : Old Net Name=AIN2_4 New Net Name=AIN2
+Change Net Name : Old Net Name=AIN3_4 New Net Name=AIN3
+Change Net Name : Old Net Name=AIN4_4 New Net Name=AIN4
+Change Net Name : Old Net Name=AIN5_4 New Net Name=AIN5
+Change Net Name : Old Net Name=AIN6_4 New Net Name=AIN6
+Change Net Name : Old Net Name=AIN7_4 New Net Name=AIN7
+Change Net Name : Old Net Name=AIN8_4 New Net Name=AIN8
+Change Net Name : Old Net Name=AIN9_4 New Net Name=AIN9
+Change Net Name : Old Net Name=AIN10_4 New Net Name=AIN10
+Change Net Name : Old Net Name=AIN11_4 New Net Name=AIN11
+Added Pin To Net: NetName=ADC_OUT_11 Pin=R1_1-2
+Added Pin To Net: NetName=ADC_OUT_11 Pin=U2_1-1
+Added Net: Name=ADC_OUT_11
+Added Pin To Net: NetName=ADC_OUT_12 Pin=R1_2-2
+Added Pin To Net: NetName=ADC_OUT_12 Pin=U2_2-1
+Added Net: Name=ADC_OUT_12
+Added Pin To Net: NetName=ADC_OUT_13 Pin=R1_3-2
+Added Pin To Net: NetName=ADC_OUT_13 Pin=U2_3-1
+Added Net: Name=ADC_OUT_13
+Added Pin To Net: NetName=ADC_OUT_14 Pin=R1_4-2
+Added Pin To Net: NetName=ADC_OUT_14 Pin=U2_4-1
+Added Net: Name=ADC_OUT_14
+Added Pin To Net: NetName=ADC_OUT_21 Pin=R2_1-2
+Added Pin To Net: NetName=ADC_OUT_21 Pin=U3_1-1
+Added Net: Name=ADC_OUT_21
+Added Pin To Net: NetName=ADC_OUT_22 Pin=R2_2-2
+Added Pin To Net: NetName=ADC_OUT_22 Pin=U3_2-1
+Added Net: Name=ADC_OUT_22
+Added Pin To Net: NetName=ADC_OUT_23 Pin=R2_3-2
+Added Pin To Net: NetName=ADC_OUT_23 Pin=U3_3-1
+Added Net: Name=ADC_OUT_23
+Added Pin To Net: NetName=ADC_OUT_24 Pin=R2_4-2
+Added Pin To Net: NetName=ADC_OUT_24 Pin=U3_4-1
+Added Net: Name=ADC_OUT_24
+Added Pin To Net: NetName=ADC_OUT_31 Pin=R3_1-2
+Added Pin To Net: NetName=ADC_OUT_31 Pin=U4_1-1
+Added Net: Name=ADC_OUT_31
+Added Pin To Net: NetName=ADC_OUT_32 Pin=R3_2-2
+Added Pin To Net: NetName=ADC_OUT_32 Pin=U4_2-1
+Added Net: Name=ADC_OUT_32
+Added Pin To Net: NetName=ADC_OUT_33 Pin=R3_3-2
+Added Pin To Net: NetName=ADC_OUT_33 Pin=U4_3-1
+Added Net: Name=ADC_OUT_33
+Added Pin To Net: NetName=ADC_OUT_34 Pin=R3_4-2
+Added Pin To Net: NetName=ADC_OUT_34 Pin=U4_4-1
+Added Net: Name=ADC_OUT_34
+Added Class: Name=ADC_OUT_[1..12]
