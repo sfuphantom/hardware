@@ -327,6 +327,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KALUNTAO
 
+[Document18]
+DocumentPath=4_Pin_Molex_Connector.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UYQVPQUS
+
 [GeneratedDocument1]
 DocumentPath=Thermistor_Expansion_Board\MUX_Connectivity 8-26-2018 4-52-33 PM.WAS
 DItemRevisionGUID=

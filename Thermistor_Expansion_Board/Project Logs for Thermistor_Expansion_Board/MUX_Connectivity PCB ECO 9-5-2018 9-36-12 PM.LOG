@@ -1,0 +1,205 @@
+Removed Pin From Net: NetName=S0A Pin=U2B-10
+Removed Pin From Net: NetName=S1A Pin=U2B-11
+Removed Pin From Net: NetName=S3A Pin=U2B-13
+Removed Pin From Net: NetName=S2A Pin=U2B-14
+Removed Pin From Net: NetName=S0A Pin=U2C-10
+Removed Pin From Net: NetName=S1A Pin=U2C-11
+Removed Pin From Net: NetName=S3A Pin=U2C-13
+Removed Pin From Net: NetName=S2A Pin=U2C-14
+Removed Pin From Net: NetName=S0A Pin=U2D-10
+Removed Pin From Net: NetName=S1A Pin=U2D-11
+Removed Pin From Net: NetName=S3A Pin=U2D-13
+Removed Pin From Net: NetName=S2A Pin=U2D-14
+Removed Pin From Net: NetName=S0A Pin=U3B-10
+Removed Pin From Net: NetName=S1A Pin=U3B-11
+Removed Pin From Net: NetName=S3A Pin=U3B-13
+Removed Pin From Net: NetName=S2A Pin=U3B-14
+Removed Pin From Net: NetName=S0A Pin=U3C-10
+Removed Pin From Net: NetName=S1A Pin=U3C-11
+Removed Pin From Net: NetName=S3A Pin=U3C-13
+Removed Pin From Net: NetName=S2A Pin=U3C-14
+Removed Pin From Net: NetName=S0A Pin=U3D-10
+Removed Pin From Net: NetName=S1A Pin=U3D-11
+Removed Pin From Net: NetName=S3A Pin=U3D-13
+Removed Pin From Net: NetName=S2A Pin=U3D-14
+Removed Pin From Net: NetName=S0A Pin=U4B-10
+Removed Pin From Net: NetName=S1A Pin=U4B-11
+Removed Pin From Net: NetName=S3A Pin=U4B-13
+Removed Pin From Net: NetName=S2A Pin=U4B-14
+Removed Pin From Net: NetName=S0A Pin=U4C-10
+Removed Pin From Net: NetName=S1A Pin=U4C-11
+Removed Pin From Net: NetName=S3A Pin=U4C-13
+Removed Pin From Net: NetName=S2A Pin=U4C-14
+Removed Pin From Net: NetName=S0A Pin=U4D-10
+Removed Pin From Net: NetName=S1A Pin=U4D-11
+Removed Pin From Net: NetName=S3A Pin=U4D-13
+Removed Pin From Net: NetName=S2A Pin=U4D-14
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=U2A NewDesignator=U1A
+Change Component Designator: OldDesignator=U2B NewDesignator=U1B
+Change Component Designator: OldDesignator=U2C NewDesignator=U1C
+Change Component Designator: OldDesignator=U2D NewDesignator=U1D
+Change Component Designator: OldDesignator=U3A NewDesignator=U2A
+Change Component Designator: OldDesignator=U3B NewDesignator=U2B
+Change Component Designator: OldDesignator=U3C NewDesignator=U2C
+Change Component Designator: OldDesignator=U3D NewDesignator=U2D
+Change Component Designator: OldDesignator=U4A NewDesignator=U3A
+Change Component Designator: OldDesignator=U4B NewDesignator=U3B
+Change Component Designator: OldDesignator=U4C NewDesignator=U3C
+Change Component Designator: OldDesignator=U4D NewDesignator=U3D
+Added Component: Designator=P2A(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2B(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2C(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2D(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3A(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3B(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3C(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3D(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P4A(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P4B(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P4C(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P4D(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S0A Pin=P2A-1
+Added Pin To Net: NetName=S1A Pin=P2A-2
+Added Pin To Net: NetName=S2A Pin=P2A-3
+Added Pin To Net: NetName=S3A Pin=P2A-4
+Added Pin To Net: NetName=S0A Pin=P3A-1
+Added Pin To Net: NetName=S1A Pin=P3A-2
+Added Pin To Net: NetName=S2A Pin=P3A-3
+Added Pin To Net: NetName=S3A Pin=P3A-4
+Added Pin To Net: NetName=S0A Pin=P4A-1
+Added Pin To Net: NetName=S1A Pin=P4A-2
+Added Pin To Net: NetName=S2A Pin=P4A-3
+Added Pin To Net: NetName=S3A Pin=P4A-4
+Added Pin To Net: NetName=S0B Pin=P2B-1
+Added Pin To Net: NetName=S0B Pin=P3B-1
+Added Pin To Net: NetName=S0B Pin=P4B-1
+Added Pin To Net: NetName=S0B Pin=U1B-10
+Added Pin To Net: NetName=S0B Pin=U2B-10
+Added Pin To Net: NetName=S0B Pin=U3B-10
+Added Net: Name=S0B
+Added Pin To Net: NetName=S0C Pin=P2C-1
+Added Pin To Net: NetName=S0C Pin=P3C-1
+Added Pin To Net: NetName=S0C Pin=P4C-1
+Added Pin To Net: NetName=S0C Pin=U1C-10
+Added Pin To Net: NetName=S0C Pin=U2C-10
+Added Pin To Net: NetName=S0C Pin=U3C-10
+Added Net: Name=S0C
+Added Pin To Net: NetName=S0D Pin=P2D-1
+Added Pin To Net: NetName=S0D Pin=P3D-1
+Added Pin To Net: NetName=S0D Pin=P4D-1
+Added Pin To Net: NetName=S0D Pin=U1D-10
+Added Pin To Net: NetName=S0D Pin=U2D-10
+Added Pin To Net: NetName=S0D Pin=U3D-10
+Added Net: Name=S0D
+Added Pin To Net: NetName=S1B Pin=P2B-2
+Added Pin To Net: NetName=S1B Pin=P3B-2
+Added Pin To Net: NetName=S1B Pin=P4B-2
+Added Pin To Net: NetName=S1B Pin=U1B-11
+Added Pin To Net: NetName=S1B Pin=U2B-11
+Added Pin To Net: NetName=S1B Pin=U3B-11
+Added Net: Name=S1B
+Added Pin To Net: NetName=S1C Pin=P2C-2
+Added Pin To Net: NetName=S1C Pin=P3C-2
+Added Pin To Net: NetName=S1C Pin=P4C-2
+Added Pin To Net: NetName=S1C Pin=U1C-11
+Added Pin To Net: NetName=S1C Pin=U2C-11
+Added Pin To Net: NetName=S1C Pin=U3C-11
+Added Net: Name=S1C
+Added Pin To Net: NetName=S1D Pin=P2D-2
+Added Pin To Net: NetName=S1D Pin=P3D-2
+Added Pin To Net: NetName=S1D Pin=P4D-2
+Added Pin To Net: NetName=S1D Pin=U1D-11
+Added Pin To Net: NetName=S1D Pin=U2D-11
+Added Pin To Net: NetName=S1D Pin=U3D-11
+Added Net: Name=S1D
+Added Pin To Net: NetName=S2B Pin=P2B-3
+Added Pin To Net: NetName=S2B Pin=P3B-3
+Added Pin To Net: NetName=S2B Pin=P4B-3
+Added Pin To Net: NetName=S2B Pin=U1B-14
+Added Pin To Net: NetName=S2B Pin=U2B-14
+Added Pin To Net: NetName=S2B Pin=U3B-14
+Added Net: Name=S2B
+Added Pin To Net: NetName=S2C Pin=P2C-3
+Added Pin To Net: NetName=S2C Pin=P3C-3
+Added Pin To Net: NetName=S2C Pin=P4C-3
+Added Pin To Net: NetName=S2C Pin=U1C-14
+Added Pin To Net: NetName=S2C Pin=U2C-14
+Added Pin To Net: NetName=S2C Pin=U3C-14
+Added Net: Name=S2C
+Added Pin To Net: NetName=S2D Pin=P2D-3
+Added Pin To Net: NetName=S2D Pin=P3D-3
+Added Pin To Net: NetName=S2D Pin=P4D-3
+Added Pin To Net: NetName=S2D Pin=U1D-14
+Added Pin To Net: NetName=S2D Pin=U2D-14
+Added Pin To Net: NetName=S2D Pin=U3D-14
+Added Net: Name=S2D
+Added Pin To Net: NetName=S3B Pin=P2B-4
+Added Pin To Net: NetName=S3B Pin=P3B-4
+Added Pin To Net: NetName=S3B Pin=P4B-4
+Added Pin To Net: NetName=S3B Pin=U1B-13
+Added Pin To Net: NetName=S3B Pin=U2B-13
+Added Pin To Net: NetName=S3B Pin=U3B-13
+Added Net: Name=S3B
+Added Pin To Net: NetName=S3C Pin=P2C-4
+Added Pin To Net: NetName=S3C Pin=P3C-4
+Added Pin To Net: NetName=S3C Pin=P4C-4
+Added Pin To Net: NetName=S3C Pin=U1C-13
+Added Pin To Net: NetName=S3C Pin=U2C-13
+Added Pin To Net: NetName=S3C Pin=U3C-13
+Added Net: Name=S3C
+Added Pin To Net: NetName=S3D Pin=P2D-4
+Added Pin To Net: NetName=S3D Pin=P3D-4
+Added Pin To Net: NetName=S3D Pin=P4D-4
+Added Pin To Net: NetName=S3D Pin=U1D-13
+Added Pin To Net: NetName=S3D Pin=U2D-13
+Added Pin To Net: NetName=S3D Pin=U3D-13
+Added Net: Name=S3D
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P2A (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P2B (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P2C (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P2D (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P3A (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P3B (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P3C (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P3D (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P4A (P4) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P4B (P4) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P4C (P4) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P4D (P4) Molex_4Pin
