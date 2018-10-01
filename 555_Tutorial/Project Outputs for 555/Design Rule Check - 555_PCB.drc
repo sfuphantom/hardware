@@ -1,7 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\gabriel\Documents\Phantom\hardware\555_Tutorial\555_PCB.PcbDoc
 Date     : 2018-09-30
-Time     : 6:48:47 PM
+Time     : 7:06:32 PM
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad Free-9(29mm,19.7mm) on Multi-Layer on Net GND
+   Pad Free-8(29mm,4.1mm) on Multi-Layer on Net GND
+   Pad Free-7(2.7mm,4.1mm) on Multi-Layer on Net GND
+   Pad Free-6(2.7mm,19.7mm) on Multi-Layer on Net GND
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
