@@ -1,0 +1,5 @@
+Remove Pin=H1-2 From Net=CRT_SENS
+Remove Pin=H1-3 From Net=BRAKE_SENS
+Remove Pin=H2-1 From Net=BSPD_OUT
+Change Pin Designator/Name:  Old Designator=R3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R3-2 Old Name=2 New Designator =1 New Name=1
