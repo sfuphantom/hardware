@@ -1,21 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [PCB_Project1.PrjPCB]
-   Generated File[PCB1.GTO]
-   Generated File[PCB1.GTP]
-   Generated File[PCB1.GTS]
-   Generated File[PCB1.GTL]
-   Generated File[PCB1.GBL]
-   Generated File[PCB1.GBS]
-   Generated File[PCB1.GBP]
-   Generated File[PCB1.GBO]
-   Generated File[PCB1.GM1]
-   Generated File[PCB1.RUL]
-   Generated File[PCB1.EXTREP]
-   Generated File[PCB1.REP]
 
 
-Files Generated   : 12
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 12:10:30 PM On 11/23/2018
+Finished Output Generation At 12:29:33 PM On 11/23/2018
