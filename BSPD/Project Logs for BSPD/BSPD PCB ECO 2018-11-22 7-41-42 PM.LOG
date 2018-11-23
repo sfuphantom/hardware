@@ -1,0 +1,47 @@
+Added Component: Designator=Q1(MOSFET)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/BSS138LT3G/BSS138LT3GOSCT-ND/2120566/?itemSeq=274498102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Resistance"; Value = "3.5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.94mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "50pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138LT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "225mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "3.5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "225mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.45, 10=0.408, 100=0.2284, 500=0.12234, 1000=0.0832 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "3.5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "195647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LT3GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold Voltage"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FET_GATE Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=BSPD Member=Component Q1 MOSFET-N
