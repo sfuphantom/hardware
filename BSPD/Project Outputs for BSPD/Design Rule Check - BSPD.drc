@@ -1,0 +1,132 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Faraz\Documents\Team Phantom\hardware\BSPD\BSPD.PcbDoc
+Date     : 2018-12-17
+Time     : 9:44:11 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad C1-2(27.85mm,19.8mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Q1-1(21.45mm,13.55mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Q1-3(24.35mm,12.6mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R1-1(18mm,7.45mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R1-2(18mm,5.75mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R2-2(15mm,7.45mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R3-2(12mm,7.45mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R4-1(27.85mm,16.8mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R4-2(26.15mm,16.8mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R5-1(14.7mm,20mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R5-2(13mm,20mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R6-1(26.1mm,22.8mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R6-2(27.9mm,22.8mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R7-2(21mm,7.45mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad R8-2(14.7mm,23mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-1(12.85mm,11mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-2(13.5mm,11mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-3(14.15mm,11mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-5(14.8mm,15.4mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-6(14.15mm,15.4mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U1-7(13.5mm,15.4mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U2-1(21.25mm,18.5mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U2-2(21.9mm,18.5mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U2-3(22.55mm,18.5mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U2-5(21.25mm,20.7mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-1(17.85mm,11.55mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-2(18.35mm,11.55mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-3(18.85mm,11.55mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-5(19.35mm,14.65mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-6(18.85mm,14.65mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-7(18.35mm,14.65mm) on Top Layer And Polygon Region (29 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (1.4mm,4.2mm)(16.45mm,4.2mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (11.3mm,11.4mm)(12.1mm,11.4mm) on Top Layer Location : [X = 12.157mm][Y = 11.539mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12.1mm,11.4mm)(12.85mm,10.65mm) on Top Layer Location : [X = 12.157mm][Y = 11.539mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12.7mm,12.4mm)(13.5mm,11.6mm) on Top Layer Location : [X = 12.757mm][Y = 12.539mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12.85mm,14.35mm)(12.85mm,15.4mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12.85mm,14.35mm)(13.3mm,13.9mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12.85mm,15.4mm)(12.85mm,17.702mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12.85mm,17.702mm)(13mm,17.852mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12mm,7.45mm)(12mm,8.6mm) on Top Layer Location : [X = 11.861mm][Y = 8.657mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (12mm,8.6mm)(13.5mm,10.1mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (13.3mm,13.9mm)(17.4mm,13.9mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (13.5mm,10.1mm)(13.5mm,11mm) on Top Layer Location : [X = 13.639mm][Y = 10.043mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (13mm,17.852mm)(13mm,20mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (16.45mm,4.2mm)(18mm,5.75mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (16.5mm,12.6mm)(17.55mm,11.55mm) on Top Layer Location : [X = 17.493mm][Y = 11.411mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (17.4mm,13.9mm)(17.8mm,14.3mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (17.55mm,11.55mm)(17.85mm,11.55mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (17.85mm,15.85mm)(19.2mm,17.2mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (17.8mm,14.3mm)(17.8mm,15.8mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (17.8mm,15.8mm)(17.85mm,15.85mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (19.2mm,17.2mm)(22mm,17.2mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (22.55mm,17.75mm)(22.55mm,18.5mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (22mm,17.2mm)(22.55mm,17.75mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (22mm,17.2mm)(22mm,17.2mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Track (9.8mm,12.4mm)(12.7mm,12.4mm) on Top Layer Location : [X = 12.757mm][Y = 12.539mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (11.3mm,11.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (14.7mm,18.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (16.4mm,10mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (16.5mm,12.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (16.5mm,14.9mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (19.5mm,21.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (20.5mm,16.1mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (23.9mm,17.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (29 hole(s)) Top Layer And Via (27.9mm,14.9mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+Rule Violations :65
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J1-5(6.1mm,13.4mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J1-6(6.1mm,18.1mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad J2-3(30.9mm,5.7mm) on Multi-Layer Actual Hole Size = 3mm
+Rule Violations :3
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.254mm) Between Pad U2-1(21.25mm,18.5mm) on Top Layer And Pad U2-2(21.9mm,18.5mm) on Top Layer [Top Solder] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.254mm) Between Pad U2-2(21.9mm,18.5mm) on Top Layer And Pad U2-3(22.55mm,18.5mm) on Top Layer [Top Solder] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U3-1(17.85mm,11.55mm) on Top Layer And Pad U3-2(18.35mm,11.55mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U3-2(18.35mm,11.55mm) on Top Layer And Pad U3-3(18.85mm,11.55mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U3-3(18.85mm,11.55mm) on Top Layer And Pad U3-4(19.35mm,11.55mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U3-5(19.35mm,14.65mm) on Top Layer And Pad U3-6(18.85mm,14.65mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U3-6(18.85mm,14.65mm) on Top Layer And Pad U3-7(18.35mm,14.65mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Pad U3-7(18.35mm,14.65mm) on Top Layer And Pad U3-8(17.85mm,14.65mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+Rule Violations :8
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-1(12.85mm,11mm) on Top Layer And Track (12.275mm,12.05mm)(15.375mm,12.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-2(13.5mm,11mm) on Top Layer And Track (12.275mm,12.05mm)(15.375mm,12.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-3(14.15mm,11mm) on Top Layer And Track (12.275mm,12.05mm)(15.375mm,12.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-4(14.8mm,11mm) on Top Layer And Track (12.275mm,12.05mm)(15.375mm,12.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-5(14.8mm,15.4mm) on Top Layer And Track (12.275mm,14.35mm)(15.375mm,14.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-6(14.15mm,15.4mm) on Top Layer And Track (12.275mm,14.35mm)(15.375mm,14.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-7(13.5mm,15.4mm) on Top Layer And Track (12.275mm,14.35mm)(15.375mm,14.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad U1-8(12.85mm,15.4mm) on Top Layer And Track (12.275mm,14.35mm)(15.375mm,14.35mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
+Rule Violations :8
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 84
+Waived Violations : 0
+Time Elapsed        : 00:00:00
