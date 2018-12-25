@@ -1,0 +1,16 @@
+Added Component: Designator=P1(10x2 pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TMS Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=TDI Pin=P1-3
+Added Pin To Net: NetName=VTref Pin=P1-5
+Added Pin To Net: NetName=Key Pin=P1-6
+Added Pin To Net: NetName=TDO Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=NetP1_11 Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=NetP1_15 Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Member To Class: ClassName=20to10pin Member=Component P1 55510-320TRLF
+Added Member To Class: ClassName=20to10pin Member=Component P2 55510-310TRLF
