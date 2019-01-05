@@ -1,0 +1,351 @@
+Change Component Designator: OldDesignator=C1A NewDesignator=C1_U_Single_Mux1
+Change Component Designator: OldDesignator=C1B NewDesignator=C1_U_Single_Mux2
+Change Component Designator: OldDesignator=C1C NewDesignator=C1_U_Single_Mux3
+Change Component Designator: OldDesignator=C1D NewDesignator=C1_U_Single_Mux4
+Change Component Designator: OldDesignator=C2A NewDesignator=C2_U_Single_Mux1
+Change Component Designator: OldDesignator=C2B NewDesignator=C2_U_Single_Mux2
+Change Component Designator: OldDesignator=C2C NewDesignator=C2_U_Single_Mux3
+Change Component Designator: OldDesignator=C2D NewDesignator=C2_U_Single_Mux4
+Change Component Designator: OldDesignator=C3A NewDesignator=C3_U_Single_Mux1
+Change Component Designator: OldDesignator=C3B NewDesignator=C3_U_Single_Mux2
+Change Component Designator: OldDesignator=C3C NewDesignator=C3_U_Single_Mux3
+Change Component Designator: OldDesignator=C3D NewDesignator=C3_U_Single_Mux4
+Change Component Designator: OldDesignator=C4A NewDesignator=C4_U_Single_Mux1
+Change Component Designator: OldDesignator=C4B NewDesignator=C4_U_Single_Mux2
+Change Component Designator: OldDesignator=C4C NewDesignator=C4_U_Single_Mux3
+Change Component Designator: OldDesignator=C4D NewDesignator=C4_U_Single_Mux4
+Change Component Designator: OldDesignator=C5A NewDesignator=C5_U_Single_Mux1
+Change Component Designator: OldDesignator=C5B NewDesignator=C5_U_Single_Mux2
+Change Component Designator: OldDesignator=C5C NewDesignator=C5_U_Single_Mux3
+Change Component Designator: OldDesignator=C5D NewDesignator=C5_U_Single_Mux4
+Change Component Designator: OldDesignator=C6A NewDesignator=C6_U_Single_Mux1
+Change Component Designator: OldDesignator=C6B NewDesignator=C6_U_Single_Mux2
+Change Component Designator: OldDesignator=C6C NewDesignator=C6_U_Single_Mux3
+Change Component Designator: OldDesignator=C6D NewDesignator=C6_U_Single_Mux4
+Change Component Designator: OldDesignator=P1A NewDesignator=P1_U_AHK50H-ND_THERM_CONNECTOR1
+Change Component Designator: OldDesignator=P1B NewDesignator=P1_U_AHK50H-ND_THERM_CONNECTOR2
+Change Component Designator: OldDesignator=P1C NewDesignator=P1_U_AHK50H-ND_THERM_CONNECTOR3
+Change Component Designator: OldDesignator=P1D NewDesignator=P1_U_AHK50H-ND_THERM_CONNECTOR4
+Change Component Designator: OldDesignator=P2A NewDesignator=P2_U_Single_Mux1
+Change Component Designator: OldDesignator=P2B NewDesignator=P2_U_Single_Mux2
+Change Component Designator: OldDesignator=P2C NewDesignator=P2_U_Single_Mux3
+Change Component Designator: OldDesignator=P2D NewDesignator=P2_U_Single_Mux4
+Change Component Designator: OldDesignator=P3A NewDesignator=P3_U_Single_Mux1
+Change Component Designator: OldDesignator=P3B NewDesignator=P3_U_Single_Mux2
+Change Component Designator: OldDesignator=P3C NewDesignator=P3_U_Single_Mux3
+Change Component Designator: OldDesignator=P3D NewDesignator=P3_U_Single_Mux4
+Change Component Designator: OldDesignator=P4A NewDesignator=P4_U_Single_Mux1
+Change Component Designator: OldDesignator=P4B NewDesignator=P4_U_Single_Mux2
+Change Component Designator: OldDesignator=P4C NewDesignator=P4_U_Single_Mux3
+Change Component Designator: OldDesignator=P4D NewDesignator=P4_U_Single_Mux4
+Change Component Designator: OldDesignator=R1A NewDesignator=R1_U_Single_Mux1
+Change Component Designator: OldDesignator=R1B NewDesignator=R1_U_Single_Mux2
+Change Component Designator: OldDesignator=R1C NewDesignator=R1_U_Single_Mux3
+Change Component Designator: OldDesignator=R1D NewDesignator=R1_U_Single_Mux4
+Change Component Designator: OldDesignator=R2A NewDesignator=R2_U_Single_Mux1
+Change Component Designator: OldDesignator=R2B NewDesignator=R2_U_Single_Mux2
+Change Component Designator: OldDesignator=R2C NewDesignator=R2_U_Single_Mux3
+Change Component Designator: OldDesignator=R2D NewDesignator=R2_U_Single_Mux4
+Change Component Designator: OldDesignator=R3A NewDesignator=R3_U_Single_Mux1
+Change Component Designator: OldDesignator=R3B NewDesignator=R3_U_Single_Mux2
+Change Component Designator: OldDesignator=R3C NewDesignator=R3_U_Single_Mux3
+Change Component Designator: OldDesignator=R3D NewDesignator=R3_U_Single_Mux4
+Change Component Designator: OldDesignator=U1A NewDesignator=U1_U_Single_Mux1
+Change Component Designator: OldDesignator=U1B NewDesignator=U1_U_Single_Mux2
+Change Component Designator: OldDesignator=U1C NewDesignator=U1_U_Single_Mux3
+Change Component Designator: OldDesignator=U1D NewDesignator=U1_U_Single_Mux4
+Change Component Designator: OldDesignator=U2A NewDesignator=U2_U_Single_Mux1
+Change Component Designator: OldDesignator=U2B NewDesignator=U2_U_Single_Mux2
+Change Component Designator: OldDesignator=U2C NewDesignator=U2_U_Single_Mux3
+Change Component Designator: OldDesignator=U2D NewDesignator=U2_U_Single_Mux4
+Change Component Designator: OldDesignator=U3A NewDesignator=U3_U_Single_Mux1
+Change Component Designator: OldDesignator=U3B NewDesignator=U3_U_Single_Mux2
+Change Component Designator: OldDesignator=U3C NewDesignator=U3_U_Single_Mux3
+Change Component Designator: OldDesignator=U3D NewDesignator=U3_U_Single_Mux4
+Added Component: Designator=P5(Power_Connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RESC1608X06M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESR03EZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.14, 10=0.126, 100=0.0484, 1000=0.0213, 2500=0.0184 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "250527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/ref5025a-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/ref5025a-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "REF5025AQDRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "800uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "1.2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.54, 10=3.182, 100=2.607, 500=2.2193, 1000=1.8717 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "800uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Type"; Value = "Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-24222-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "3ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002677oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_AN Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=NetC9_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=+3.3V_AN Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetR4_2 Pin=U5-5
+Added Pin To Net: NetName=NetC8_1 Pin=U5-6
+Change Net Name : Old Net Name=S0A New Net Name=S0_U_Single_Mux1
+Change Net Name : Old Net Name=S0B New Net Name=S0_U_Single_Mux2
+Change Net Name : Old Net Name=S0C New Net Name=S0_U_Single_Mux3
+Change Net Name : Old Net Name=S0D New Net Name=S0_U_Single_Mux4
+Change Net Name : Old Net Name=S1A New Net Name=S1_U_Single_Mux1
+Change Net Name : Old Net Name=S1B New Net Name=S1_U_Single_Mux2
+Change Net Name : Old Net Name=S1C New Net Name=S1_U_Single_Mux3
+Change Net Name : Old Net Name=S1D New Net Name=S1_U_Single_Mux4
+Change Net Name : Old Net Name=S2A New Net Name=S2_U_Single_Mux1
+Change Net Name : Old Net Name=S2B New Net Name=S2_U_Single_Mux2
+Change Net Name : Old Net Name=S2C New Net Name=S2_U_Single_Mux3
+Change Net Name : Old Net Name=S2D New Net Name=S2_U_Single_Mux4
+Change Net Name : Old Net Name=S3A New Net Name=S3_U_Single_Mux1
+Change Net Name : Old Net Name=S3B New Net Name=S3_U_Single_Mux2
+Change Net Name : Old Net Name=S3C New Net Name=S3_U_Single_Mux3
+Change Net Name : Old Net Name=S3D New Net Name=S3_U_Single_Mux4
+Change Net Name : Old Net Name=TS_IN1A New Net Name=TS_IN1_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN1B New Net Name=TS_IN1_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN1C New Net Name=TS_IN1_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN1D New Net Name=TS_IN1_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN2A New Net Name=TS_IN2_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN2B New Net Name=TS_IN2_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN2C New Net Name=TS_IN2_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN2D New Net Name=TS_IN2_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN3A New Net Name=TS_IN3_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN3B New Net Name=TS_IN3_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN3C New Net Name=TS_IN3_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN3D New Net Name=TS_IN3_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN4A New Net Name=TS_IN4_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN4B New Net Name=TS_IN4_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN4C New Net Name=TS_IN4_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN4D New Net Name=TS_IN4_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN5A New Net Name=TS_IN5_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN5B New Net Name=TS_IN5_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN5C New Net Name=TS_IN5_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN5D New Net Name=TS_IN5_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN6A New Net Name=TS_IN6_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN6B New Net Name=TS_IN6_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN6C New Net Name=TS_IN6_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN6D New Net Name=TS_IN6_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN7A New Net Name=TS_IN7_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN7B New Net Name=TS_IN7_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN7C New Net Name=TS_IN7_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN7D New Net Name=TS_IN7_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN8A New Net Name=TS_IN8_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN8B New Net Name=TS_IN8_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN8C New Net Name=TS_IN8_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN8D New Net Name=TS_IN8_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN9A New Net Name=TS_IN9_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN9B New Net Name=TS_IN9_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN9C New Net Name=TS_IN9_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN9D New Net Name=TS_IN9_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN10A New Net Name=TS_IN10_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN10B New Net Name=TS_IN10_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN10C New Net Name=TS_IN10_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN10D New Net Name=TS_IN10_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN11A New Net Name=TS_IN11_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN11B New Net Name=TS_IN11_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN11C New Net Name=TS_IN11_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN11D New Net Name=TS_IN11_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN12A New Net Name=TS_IN12_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN12B New Net Name=TS_IN12_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN12C New Net Name=TS_IN12_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN12D New Net Name=TS_IN12_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN13A New Net Name=TS_IN13_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN13B New Net Name=TS_IN13_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN13C New Net Name=TS_IN13_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN13D New Net Name=TS_IN13_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN14A New Net Name=TS_IN14_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN14B New Net Name=TS_IN14_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN14C New Net Name=TS_IN14_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN14D New Net Name=TS_IN14_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN15A New Net Name=TS_IN15_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN15B New Net Name=TS_IN15_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN15C New Net Name=TS_IN15_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN15D New Net Name=TS_IN15_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN16A New Net Name=TS_IN16_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN16B New Net Name=TS_IN16_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN16C New Net Name=TS_IN16_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN16D New Net Name=TS_IN16_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN17A New Net Name=TS_IN17_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN17B New Net Name=TS_IN17_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN17C New Net Name=TS_IN17_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN17D New Net Name=TS_IN17_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN18A New Net Name=TS_IN18_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN18B New Net Name=TS_IN18_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN18C New Net Name=TS_IN18_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN18D New Net Name=TS_IN18_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN19A New Net Name=TS_IN19_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN19B New Net Name=TS_IN19_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN19C New Net Name=TS_IN19_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN19D New Net Name=TS_IN19_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN20A New Net Name=TS_IN20_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN20B New Net Name=TS_IN20_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN20C New Net Name=TS_IN20_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN20D New Net Name=TS_IN20_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN21A New Net Name=TS_IN21_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN21B New Net Name=TS_IN21_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN21C New Net Name=TS_IN21_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN21D New Net Name=TS_IN21_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN22A New Net Name=TS_IN22_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN22B New Net Name=TS_IN22_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN22C New Net Name=TS_IN22_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN22D New Net Name=TS_IN22_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN23A New Net Name=TS_IN23_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN23B New Net Name=TS_IN23_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN23C New Net Name=TS_IN23_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN23D New Net Name=TS_IN23_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN24A New Net Name=TS_IN24_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN24B New Net Name=TS_IN24_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN24C New Net Name=TS_IN24_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN24D New Net Name=TS_IN24_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN25A New Net Name=TS_IN25_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN25B New Net Name=TS_IN25_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN25C New Net Name=TS_IN25_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN25D New Net Name=TS_IN25_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN26A New Net Name=TS_IN26_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN26B New Net Name=TS_IN26_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN26C New Net Name=TS_IN26_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN26D New Net Name=TS_IN26_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN27A New Net Name=TS_IN27_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN27B New Net Name=TS_IN27_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN27C New Net Name=TS_IN27_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN27D New Net Name=TS_IN27_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN28A New Net Name=TS_IN28_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN28B New Net Name=TS_IN28_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN28C New Net Name=TS_IN28_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN28D New Net Name=TS_IN28_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN29A New Net Name=TS_IN29_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN29B New Net Name=TS_IN29_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN29C New Net Name=TS_IN29_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN29D New Net Name=TS_IN29_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN30A New Net Name=TS_IN30_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN30B New Net Name=TS_IN30_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN30C New Net Name=TS_IN30_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN30D New Net Name=TS_IN30_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN31A New Net Name=TS_IN31_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN31B New Net Name=TS_IN31_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN31C New Net Name=TS_IN31_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN31D New Net Name=TS_IN31_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN32A New Net Name=TS_IN32_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN32B New Net Name=TS_IN32_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN32C New Net Name=TS_IN32_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN32D New Net Name=TS_IN32_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN33A New Net Name=TS_IN33_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN33B New Net Name=TS_IN33_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN33C New Net Name=TS_IN33_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN33D New Net Name=TS_IN33_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN34A New Net Name=TS_IN34_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN34B New Net Name=TS_IN34_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN34C New Net Name=TS_IN34_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN34D New Net Name=TS_IN34_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN35A New Net Name=TS_IN35_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN35B New Net Name=TS_IN35_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN35C New Net Name=TS_IN35_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN35D New Net Name=TS_IN35_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN36A New Net Name=TS_IN36_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN36B New Net Name=TS_IN36_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN36C New Net Name=TS_IN36_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN36D New Net Name=TS_IN36_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN37A New Net Name=TS_IN37_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN37B New Net Name=TS_IN37_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN37C New Net Name=TS_IN37_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN37D New Net Name=TS_IN37_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN38A New Net Name=TS_IN38_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN38B New Net Name=TS_IN38_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN38C New Net Name=TS_IN38_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN38D New Net Name=TS_IN38_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN39A New Net Name=TS_IN39_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN39B New Net Name=TS_IN39_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN39C New Net Name=TS_IN39_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN39D New Net Name=TS_IN39_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN40A New Net Name=TS_IN40_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN40B New Net Name=TS_IN40_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN40C New Net Name=TS_IN40_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN40D New Net Name=TS_IN40_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN41A New Net Name=TS_IN41_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN41B New Net Name=TS_IN41_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN41C New Net Name=TS_IN41_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN41D New Net Name=TS_IN41_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN42A New Net Name=TS_IN42_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN42B New Net Name=TS_IN42_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN42C New Net Name=TS_IN42_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN42D New Net Name=TS_IN42_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN43A New Net Name=TS_IN43_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN43B New Net Name=TS_IN43_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN43C New Net Name=TS_IN43_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN43D New Net Name=TS_IN43_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN44A New Net Name=TS_IN44_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN44B New Net Name=TS_IN44_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN44C New Net Name=TS_IN44_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN44D New Net Name=TS_IN44_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN45A New Net Name=TS_IN45_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN45B New Net Name=TS_IN45_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN45C New Net Name=TS_IN45_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN45D New Net Name=TS_IN45_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN46A New Net Name=TS_IN46_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN46B New Net Name=TS_IN46_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN46C New Net Name=TS_IN46_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN46D New Net Name=TS_IN46_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN47A New Net Name=TS_IN47_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN47B New Net Name=TS_IN47_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN47C New Net Name=TS_IN47_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN47D New Net Name=TS_IN47_U_AHK50H-ND_THERM_CONNECTOR4
+Change Net Name : Old Net Name=TS_IN48A New Net Name=TS_IN48_U_AHK50H-ND_THERM_CONNECTOR1
+Change Net Name : Old Net Name=TS_IN48B New Net Name=TS_IN48_U_AHK50H-ND_THERM_CONNECTOR2
+Change Net Name : Old Net Name=TS_IN48C New Net Name=TS_IN48_U_AHK50H-ND_THERM_CONNECTOR3
+Change Net Name : Old Net Name=TS_IN48D New Net Name=TS_IN48_U_AHK50H-ND_THERM_CONNECTOR4
+Added Class: Name=Power
+Added Class: Name=50Pin_Connector
+Added Class: Name=MID
+Added Class: Name=Multiplexers
+Added Member To Class: ClassName=U_Data_Conversion Member=Component R4 10Kohm_REFV_RESISTOR
+Added Member To Class: ClassName=U_Data_Conversion Member=Component U5 8Pin_ADC_REF_V
+Added Room: Name=Power

@@ -1,0 +1,6 @@
+Added Component: Designator=P5(Power_Connector)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V_AN Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Member To Class: ClassName=Power Member=Component P5 Power_Connector
+Added Room: Name=Power

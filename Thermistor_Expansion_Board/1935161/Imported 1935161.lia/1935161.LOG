@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : 1935161.LibPkg
+
+Section : D:\Formula SAE\GIT - TEAM PHANTOM\hardware\Thermistor_Expansion_Board\1935161\1935161.lia
+    Section : PCB Library - 1935161.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 119
+            Warning - 1 : Skipping Token isVisible On Line 120
+            Warning - 1 : Skipping Token isVisible On Line 128
+            Warning - 1 : Skipping Token isVisible On Line 129
+            Warning - 1 : Skipping Token 1935161 On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 180
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1935161.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 122
+        EndSection
+
+        Section : Generating SCH Library - 1935161.SchLib
+        EndSection
+    EndSection
+EndSection

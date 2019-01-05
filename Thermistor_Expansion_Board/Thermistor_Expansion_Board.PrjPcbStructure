@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=NEW_TOP.SchDoc
+Record=SheetSymbol|SourceDocument=NEW_TOP.SchDoc|Designator=Power|SchDesignator=Power|FileName=5V_Power_Supply.SchDoc|SymbolType=Normal|RawFileName=5V_Power_Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=NEW_TOP.SchDoc|Designator=new_top_Sheet1|SchDesignator=Repeat(new_top_Sheet,1,4)|FileName=TOP_SHEET.SchDoc|SymbolType=Normal|RawFileName=TOP_SHEET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=NEW_TOP.SchDoc|Designator=new_top_Sheet2|SchDesignator=Repeat(new_top_Sheet,1,4)|FileName=TOP_SHEET.SchDoc|SymbolType=Normal|RawFileName=TOP_SHEET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=NEW_TOP.SchDoc|Designator=new_top_Sheet3|SchDesignator=Repeat(new_top_Sheet,1,4)|FileName=TOP_SHEET.SchDoc|SymbolType=Normal|RawFileName=TOP_SHEET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

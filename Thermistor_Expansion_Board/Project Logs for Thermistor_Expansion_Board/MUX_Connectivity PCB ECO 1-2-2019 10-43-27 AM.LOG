@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5V_AN Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=+5V_AN Pin=U4-4
+Removed Pin From Net: NetName=+5V_AN Pin=U4-5
+Added Component: Designator=C7(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0.1uF_Kemet)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14477-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P6(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5V_AN Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=SDO_4 Pin=P6-1
+Added Pin To Net: NetName=SDI_4 Pin=P6-2
+Added Pin To Net: NetName=SCLK_4 Pin=P6-3
+Added Pin To Net: NetName=C\S\_4 Pin=P6-4
+Change Net Name : Old Net Name=+5V_AN New Net Name=+3.3V_AN
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U4-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Net: Name=NetC9_1
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=U_Data_Conversion Member=Component C7 0.1uF Cap
+Added Member To Class: ClassName=U_Data_Conversion Member=Component C8 0.1uF Cap
+Added Member To Class: ClassName=U_Data_Conversion Member=Component C9 0.1uF Cap
+Added Member To Class: ClassName=U_Data_Conversion Member=Component P6 Molex_4Pin
