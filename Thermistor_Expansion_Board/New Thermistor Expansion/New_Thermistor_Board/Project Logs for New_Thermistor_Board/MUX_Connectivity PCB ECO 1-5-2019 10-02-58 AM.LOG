@@ -1,0 +1,75 @@
+Added Component: Designator=P2_U_Single_Mux1(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_Single_Mux2(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_Single_Mux3(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2_U_Single_Mux4(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_U_Single_Mux1(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_U_Single_Mux2(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_U_Single_Mux3(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_U_Single_Mux4(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S0_U_Single_Mux1 Pin=P2_U_Single_Mux1-1
+Added Pin To Net: NetName=S1_U_Single_Mux1 Pin=P2_U_Single_Mux1-2
+Added Pin To Net: NetName=S3_U_Single_Mux1 Pin=P2_U_Single_Mux1-3
+Added Pin To Net: NetName=S2_U_Single_Mux1 Pin=P2_U_Single_Mux1-4
+Added Pin To Net: NetName=S0_U_Single_Mux2 Pin=P2_U_Single_Mux2-1
+Added Pin To Net: NetName=S1_U_Single_Mux2 Pin=P2_U_Single_Mux2-2
+Added Pin To Net: NetName=S3_U_Single_Mux2 Pin=P2_U_Single_Mux2-3
+Added Pin To Net: NetName=S2_U_Single_Mux2 Pin=P2_U_Single_Mux2-4
+Added Pin To Net: NetName=S0_U_Single_Mux3 Pin=P2_U_Single_Mux3-1
+Added Pin To Net: NetName=S1_U_Single_Mux3 Pin=P2_U_Single_Mux3-2
+Added Pin To Net: NetName=S3_U_Single_Mux3 Pin=P2_U_Single_Mux3-3
+Added Pin To Net: NetName=S2_U_Single_Mux3 Pin=P2_U_Single_Mux3-4
+Added Pin To Net: NetName=S0_U_Single_Mux4 Pin=P2_U_Single_Mux4-1
+Added Pin To Net: NetName=S1_U_Single_Mux4 Pin=P2_U_Single_Mux4-2
+Added Pin To Net: NetName=S3_U_Single_Mux4 Pin=P2_U_Single_Mux4-3
+Added Pin To Net: NetName=S2_U_Single_Mux4 Pin=P2_U_Single_Mux4-4
+Added Pin To Net: NetName=S0_U_Single_Mux1 Pin=P3_U_Single_Mux1-1
+Added Pin To Net: NetName=S1_U_Single_Mux1 Pin=P3_U_Single_Mux1-2
+Added Pin To Net: NetName=S3_U_Single_Mux1 Pin=P3_U_Single_Mux1-3
+Added Pin To Net: NetName=S2_U_Single_Mux1 Pin=P3_U_Single_Mux1-4
+Added Pin To Net: NetName=S0_U_Single_Mux2 Pin=P3_U_Single_Mux2-1
+Added Pin To Net: NetName=S1_U_Single_Mux2 Pin=P3_U_Single_Mux2-2
+Added Pin To Net: NetName=S3_U_Single_Mux2 Pin=P3_U_Single_Mux2-3
+Added Pin To Net: NetName=S2_U_Single_Mux2 Pin=P3_U_Single_Mux2-4
+Added Pin To Net: NetName=S0_U_Single_Mux3 Pin=P3_U_Single_Mux3-1
+Added Pin To Net: NetName=S1_U_Single_Mux3 Pin=P3_U_Single_Mux3-2
+Added Pin To Net: NetName=S3_U_Single_Mux3 Pin=P3_U_Single_Mux3-3
+Added Pin To Net: NetName=S2_U_Single_Mux3 Pin=P3_U_Single_Mux3-4
+Added Pin To Net: NetName=S0_U_Single_Mux4 Pin=P3_U_Single_Mux4-1
+Added Pin To Net: NetName=S1_U_Single_Mux4 Pin=P3_U_Single_Mux4-2
+Added Pin To Net: NetName=S3_U_Single_Mux4 Pin=P3_U_Single_Mux4-3
+Added Pin To Net: NetName=S2_U_Single_Mux4 Pin=P3_U_Single_Mux4-4
+Added Member To Class: ClassName=U_Data_Conversion Member=Component C7 0.1uF Cap
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P2_U_Single_Mux1 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P2_U_Single_Mux2 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P2_U_Single_Mux3 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P2_U_Single_Mux4 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P3_U_Single_Mux1 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P3_U_Single_Mux2 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P3_U_Single_Mux3 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P3_U_Single_Mux4 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Data_Conversion Member=Component U5 8Pin_ADC_REF_V
+Change Room Scope: Old Scope=InComponentClass('All Components') New Scope=InComponentClass('U_Data_Conversion')
