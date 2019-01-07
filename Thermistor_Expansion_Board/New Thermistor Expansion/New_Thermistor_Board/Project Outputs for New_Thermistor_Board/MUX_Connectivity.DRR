@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MUX_Connectivity.PcbDoc   1/5/2019  5:29:40 PM
+NCDrill File Report For: MUX_Connectivity.PcbDoc   1/6/2019  5:38:26 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,16 +7,14 @@ ASCII RoundHoles File : MUX_Connectivity.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             61        PTH        25.48inch (647.18mm)
-T2      12mil (0.305mm)                                           Round             218       PTH        52.05inch (1322.02mm)
-T3      47mil (1.2mm)           +/-10mil (0.25mm)                 Round             4         PTH        4.76inch (121.00mm)
-T4      47mil (1.2mm)                                             Round             1         PTH        0.00inch (0.00mm)
-T5      50mil (1.27mm)          +/-10mil (0.25mm)                 Round             12        PTH        7.99inch (203.05mm)
-T6      50mil (1.27mm)                                            Round             3         PTH        0.39inch (10.00mm)
-T7      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.00mm)
-T8      59mil (1.5mm)           +0mil (0.003mm)/-0mil (0.001mm)   Round             192       PTH        43.15inch (1096.05mm)
-T9      106mil (2.7mm)          +/-2mil (0.05mm)                  Round             8         PTH        24.42inch (620.21mm)
+T1      10mil (0.254mm)                                           Round             61        PTH        25.49inch (647.43mm)
+T2      12mil (0.305mm)                                           Round             218       PTH        52.04inch (1321.87mm)
+T3      47mil (1.2mm)                                             Round             5         PTH        6.88inch (174.63mm)
+T4      50mil (1.27mm)                                            Round             15        PTH        8.30inch (210.70mm)
+T5      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T6      59mil (1.5mm)           +0mil (0.003mm)/-0mil (0.001mm)   Round             192       PTH        43.15inch (1096.05mm)
+T7      106mil (2.7mm)          +/-2mil (0.05mm)                  Round             8         PTH        24.42inch (620.21mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              501
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,72 @@
+Added Component: Designator=P2_1(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2_2(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2_3(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2_4(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_1(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_2(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_3(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3_4(MUX_SEL_CON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM13967-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S0_1 Pin=P2_1-1
+Added Pin To Net: NetName=S1_1 Pin=P2_1-2
+Added Pin To Net: NetName=S3_1 Pin=P2_1-3
+Added Pin To Net: NetName=S2_1 Pin=P2_1-4
+Added Pin To Net: NetName=S0_2 Pin=P2_2-1
+Added Pin To Net: NetName=S1_2 Pin=P2_2-2
+Added Pin To Net: NetName=S3_2 Pin=P2_2-3
+Added Pin To Net: NetName=S2_2 Pin=P2_2-4
+Added Pin To Net: NetName=S0_3 Pin=P2_3-1
+Added Pin To Net: NetName=S1_3 Pin=P2_3-2
+Added Pin To Net: NetName=S3_3 Pin=P2_3-3
+Added Pin To Net: NetName=S2_3 Pin=P2_3-4
+Added Pin To Net: NetName=S0_4 Pin=P2_4-1
+Added Pin To Net: NetName=S1_4 Pin=P2_4-2
+Added Pin To Net: NetName=S3_4 Pin=P2_4-3
+Added Pin To Net: NetName=S2_4 Pin=P2_4-4
+Added Pin To Net: NetName=S0_1 Pin=P3_1-1
+Added Pin To Net: NetName=S1_1 Pin=P3_1-2
+Added Pin To Net: NetName=S3_1 Pin=P3_1-3
+Added Pin To Net: NetName=S2_1 Pin=P3_1-4
+Added Pin To Net: NetName=S0_2 Pin=P3_2-1
+Added Pin To Net: NetName=S1_2 Pin=P3_2-2
+Added Pin To Net: NetName=S3_2 Pin=P3_2-3
+Added Pin To Net: NetName=S2_2 Pin=P3_2-4
+Added Pin To Net: NetName=S0_3 Pin=P3_3-1
+Added Pin To Net: NetName=S1_3 Pin=P3_3-2
+Added Pin To Net: NetName=S3_3 Pin=P3_3-3
+Added Pin To Net: NetName=S2_3 Pin=P3_3-4
+Added Pin To Net: NetName=S0_4 Pin=P3_4-1
+Added Pin To Net: NetName=S1_4 Pin=P3_4-2
+Added Pin To Net: NetName=S3_4 Pin=P3_4-3
+Added Pin To Net: NetName=S2_4 Pin=P3_4-4
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P2_1 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P2_2 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P2_3 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P2_4 (P2) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component P3_1 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component P3_2 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux3 Member=Component P3_3 (P3) Molex_4Pin
+Added Member To Class: ClassName=U_Single_Mux4 Member=Component P3_4 (P3) Molex_4Pin
