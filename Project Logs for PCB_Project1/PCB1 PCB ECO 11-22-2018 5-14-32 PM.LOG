@@ -1,8 +1,0 @@
-Change Component Designator: OldDesignator=Connector_5x2 NewDesignator=P2
-Change Net Name : Old Net Name=NetConnector_5x2_1 New Net Name=NetP1_5
-Change Net Name : Old Net Name=NetConnector_5x2_2 New Net Name=NetP1_1
-Change Net Name : Old Net Name=NetConnector_5x2_4 New Net Name=NetP2_4
-Change Net Name : Old Net Name=NetConnector_5x2_6 New Net Name=NetP1_7
-Change Net Name : Old Net Name=NetConnector_5x2_7 New Net Name=NetP1_6
-Change Net Name : Old Net Name=NetConnector_5x2_8 New Net Name=NetP1_3
-Change Net Name : Old Net Name=NetConnector_5x2_10 New Net Name=NetP2_10
