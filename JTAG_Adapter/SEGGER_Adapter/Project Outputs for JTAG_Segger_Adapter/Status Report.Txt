@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [JTAG_Segger_Adapter.PrjPcb]
+   Generated File[BOARD.TXT]
+   Generated File[BOARD.LDP]
+   Generated File[BOARD.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:08:21 PM On 2019-01-08
