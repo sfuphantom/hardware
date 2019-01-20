@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Faraz\Documents\Team Phantom\hardware\BSPD\BSPD.PcbDoc
-Date     : 1/17/19
-Time     : 2:19:02 AM
+Date     : 1/20/19
+Time     : 3:23:51 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -46,14 +46,14 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 Waived Violations Of Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad U2-1(29.95mm,26.3mm) on Top Layer And Pad U2-2(29.3mm,26.3mm) on Top Layer [Top Solder] Mask Sliver [0.097mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad U2-2(29.3mm,26.3mm) on Top Layer And Pad U2-3(28.65mm,26.3mm) on Top Layer [Top Solder] Mask Sliver [0.097mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-1(24.95mm,12.25mm) on Top Layer And Pad U3-2(25.45mm,12.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-2(25.45mm,12.25mm) on Top Layer And Pad U3-3(25.95mm,12.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-3(25.95mm,12.25mm) on Top Layer And Pad U3-4(26.45mm,12.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-5(26.45mm,15.35mm) on Top Layer And Pad U3-6(25.95mm,15.35mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-6(25.95mm,15.35mm) on Top Layer And Pad U3-7(25.45mm,15.35mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-7(25.45mm,15.35mm) on Top Layer And Pad U3-8(24.95mm,15.35mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/17/19 1:54:43 AMDistance defined in footprint by manufacturer.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad U2-1(29.95mm,26.3mm) on Top Layer And Pad U2-2(29.3mm,26.3mm) on Top Layer [Top Solder] Mask Sliver [0.097mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad U2-2(29.3mm,26.3mm) on Top Layer And Pad U2-3(28.65mm,26.3mm) on Top Layer [Top Solder] Mask Sliver [0.097mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-1(24.95mm,12.25mm) on Top Layer And Pad U3-2(25.45mm,12.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-2(25.45mm,12.25mm) on Top Layer And Pad U3-3(25.95mm,12.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-3(25.95mm,12.25mm) on Top Layer And Pad U3-4(26.45mm,12.25mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-5(26.45mm,15.35mm) on Top Layer And Pad U3-6(25.95mm,15.35mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-6(25.95mm,15.35mm) on Top Layer And Pad U3-7(25.45mm,15.35mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.1mm) Between Pad U3-7(25.45mm,15.35mm) on Top Layer And Pad U3-8(24.95mm,15.35mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]Waived by Faraz Borghei at 1/20/19 3:23:17 PMDefined in IC footprint from datasheet provided by DigiKey.
 Waived Violations :8
 
 
