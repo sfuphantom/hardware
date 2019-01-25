@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=TRIGGER Pin=R2-2
+Added Pin To Net: NetName=LED_DRIVE Pin=R3-2
+Added Member To Class: ClassName=SCHEMATIC Member=Component C1 10nF
+Added Member To Class: ClassName=SCHEMATIC Member=Component C2 10uF
+Added Member To Class: ClassName=SCHEMATIC Member=Component D1 Green
+Added Member To Class: ClassName=SCHEMATIC Member=Component R1 1k
+Added Member To Class: ClassName=SCHEMATIC Member=Component R2 10k
+Added Member To Class: ClassName=SCHEMATIC Member=Component R3 1k
+Added Member To Class: ClassName=SCHEMATIC Member=Component U1 NE555S-13
