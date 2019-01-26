@@ -1,19 +1,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BOARD.PcbDoc   2019-01-11  11:38:10 AM
+NCDrill File Report For: PCB1.PcbDoc   2019-01-11  11:36:15 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : BOARD.TXT
+ASCII RoundHoles File : PCB1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             14        PTH        1.99inch (50.48mm)
-T2      39mil (1mm)             +4mil (0.1mm)                     Round             20        PTH        1.90inch (48.26mm)
+T1      16mil (0.4mm)                                             Round             12        PTH        1.69inch (42.81mm)
+T2      39mil (1mm)             +4mil (0.1mm)                     Round             2         PTH        0.40inch (10.16mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              34
-
-Two holes at same point : 1
------------------------
-14600,7285
+Totals                                                                              14
 
 Total Processing Time (hh:mm:ss) : 00:00:00
