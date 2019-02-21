@@ -1,0 +1,15 @@
+Added Member To Class: ClassName=BSPD Member=Component C1 10uF
+Added Member To Class: ClassName=BSPD Member=Component J1 MOLEX4PIN
+Added Member To Class: ClassName=BSPD Member=Component J2 MOLEX2PIN
+Added Member To Class: ClassName=BSPD Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=BSPD Member=Component R1 2K
+Added Member To Class: ClassName=BSPD Member=Component R2 5.23K
+Added Member To Class: ClassName=BSPD Member=Component R3 10K
+Added Member To Class: ClassName=BSPD Member=Component R4 500
+Added Member To Class: ClassName=BSPD Member=Component R5 3.48K
+Added Member To Class: ClassName=BSPD Member=Component R6 50k
+Added Member To Class: ClassName=BSPD Member=Component R7 10K
+Added Member To Class: ClassName=BSPD Member=Component R8 6.04K
+Added Member To Class: ClassName=BSPD Member=Component U1 TLV3202AIDGKR
+Added Member To Class: ClassName=BSPD Member=Component U2 SN74AHC1G04DCKR
+Added Member To Class: ClassName=BSPD Member=Component U3 SN74LVC2G08DCUR
