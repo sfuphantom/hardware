@@ -1,9 +1,23 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [BSPD.PrjPCB]
+   Generated File[BSPD.GTL]
+   Generated File[BSPD.GBL]
+   Generated File[BSPD.GTO]
+   Generated File[BSPD.GTP]
+   Generated File[BSPD.GTS]
+   Generated File[BSPD.GBS]
+   Generated File[BSPD.GBP]
+   Generated File[BSPD.GBO]
+   Generated File[BSPD.GM1]
+   Generated File[BSPD.GM13]
+   Generated File[BSPD.GM15]
+   Generated File[BSPD.RUL]
+   Generated File[BSPD.EXTREP]
+   Generated File[BSPD.REP]
 
 
-Files Generated   : 0
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 5:48:32 PM On 2/20/19
+Finished Output Generation At 10:57:49 PM On 2019-02-28
