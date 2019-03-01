@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [BSPD.PrjPCB]
@@ -21,3 +22,15 @@ Files Generated   : 14
 Documents Printed : 0
 
 Finished Output Generation At 10:57:49 PM On 2019-02-28
+=======
+Output: Differences Report
+Type  : DiffReport
+From  : PCB Document [BSPD.PcbDoc]
+   Generated File[BSPD.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:26:08 PM On 2/28/19
+>>>>>>> Stashed changes
