@@ -1,0 +1,6 @@
+Added Component: Designator=J8(2PIN_HEADER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Member To Class: ClassName=SR latch Schematic Member=Component J8 2 Pin Header
+Added Room: Name=SR latch Schematic

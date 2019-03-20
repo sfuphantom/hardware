@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Footprint for SR latch.PrjPCB]
+   Generated File[SR_Latch_PCB.GTO]
+   Generated File[SR_Latch_PCB.GTP]
+   Generated File[SR_Latch_PCB.GTS]
+   Generated File[SR_Latch_PCB.GTL]
+   Generated File[SR_Latch_PCB.GBL]
+   Generated File[SR_Latch_PCB.GBS]
+   Generated File[SR_Latch_PCB.GBP]
+   Generated File[SR_Latch_PCB.GBO]
+   Generated File[SR_Latch_PCB.GM1]
+   Generated File[SR_Latch_PCB.GM13]
+   Generated File[SR_Latch_PCB.GM15]
+   Generated File[SR_Latch_PCB.RUL]
+   Generated File[SR_Latch_PCB.EXTREP]
+   Generated File[SR_Latch_PCB.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 3:09:19 PM On 2019-03-20
