@@ -71,6 +71,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTELHNQQ
 
+[Document3]
+DocumentPath=Sch_TSAL.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DXFYBCEC
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
