@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=TS_IN21_1 Pin=P2_1-51
+Removed Pin From Net: NetName=TS_IN21_2 Pin=P2_2-51
+Removed Pin From Net: NetName=S2_1 Pin=P4_1-1
+Removed Pin From Net: NetName=S0_1 Pin=P4_1-3
+Removed Pin From Net: NetName=S2_1 Pin=U3_2-9
+Removed Pin From Net: NetName=S1_1 Pin=U3_2-10
+Removed Pin From Net: NetName=S0_1 Pin=U3_2-11
+Removed Pin From Net: NetName=S2_1 Pin=U4_2-9
+Removed Pin From Net: NetName=S1_1 Pin=U4_2-10
+Removed Pin From Net: NetName=S0_1 Pin=U4_2-11
+Removed Pin From Net: NetName=S2_1 Pin=U5_2-9
+Removed Pin From Net: NetName=S1_1 Pin=U5_2-10
+Removed Pin From Net: NetName=S0_1 Pin=U5_2-11
+Change Component Footprint: Designator=P3 Old Footprint=MUX_SEL_CON New Footprint=4pos_MUX_Select
+Change Component Comment : Designator=P3 Old Comment=Molex_4Pin New Comment=4pos_MUX_Select
+Change component parameters: Designator = "P3"; Footprint = "4pos_MUX_Select"; UniqueID = "\IQCOBAJT\VJKLQHJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0393570004_TERMINAL_BLOCKS.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0393570004_TERMINAL_BLOCKS.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2031130.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2031130.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Terminal Block"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "17.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.51mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "39357-0004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.6, 10=1.121, 25=1.046, 50=0.9492, 100=0.945, 250=0.798, 500=0.756, 1000=0.672, 5000=0.546 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "3331"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM7860-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "7.29mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "16AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Max)"; Value = "16AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Min)"; Value = "28AWG"; VariantName = "[No Variations]"
+Added Component: Designator=P4_2(3-Screw-terminal-Mux-Select)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1442217.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1442217.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691103110003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.138inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.1, 10=0.986, 50=0.851, 100=0.762, 500=0.717, 980=0.672 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2746-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S0_1 Pin=P4_1-1
+Added Pin To Net: NetName=S2_1 Pin=P4_1-3
+Added Pin To Net: NetName=S0_2 Pin=P4_2-1
+Added Pin To Net: NetName=S1_2 Pin=P4_2-2
+Added Pin To Net: NetName=S2_2 Pin=P4_2-3
+Added Pin To Net: NetName=S2_2 Pin=U3_2-9
+Added Pin To Net: NetName=S1_2 Pin=U3_2-10
+Added Pin To Net: NetName=S0_2 Pin=U3_2-11
+Added Pin To Net: NetName=S2_2 Pin=U4_2-9
+Added Pin To Net: NetName=S1_2 Pin=U4_2-10
+Added Pin To Net: NetName=S0_2 Pin=U4_2-11
+Added Pin To Net: NetName=S2_2 Pin=U5_2-9
+Added Pin To Net: NetName=S1_2 Pin=U5_2-10
+Added Pin To Net: NetName=S0_2 Pin=U5_2-11
+Added Member To Class: ClassName=Data_TransferB_U_Single_Mux2 Member=Component P4_2 (P4) Mux_Sel
+Added Member To Class: ClassName=Data_TransferA_U_Single_Mux1 Member=Component U4_1 (U4) 8:1 - MUX
+Added Room: Name=Data_TransferA_U_AHK50H-ND_THERM_CONNECTOR1
+Added Room: Name=Data_TransferA_U_Single_Mux1
+Added Room: Name=Data_TransferB_U_AHK50H-ND_THERM_CONNECTOR2
+Added Room: Name=Data_TransferB_U_Single_Mux2
+Added Room: Name=U_Data_Conversion
