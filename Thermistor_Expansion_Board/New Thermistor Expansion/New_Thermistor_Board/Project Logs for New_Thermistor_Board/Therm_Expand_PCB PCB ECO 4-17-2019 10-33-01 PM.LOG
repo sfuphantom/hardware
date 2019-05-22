@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=C5_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=C6_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=C7_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=C8_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=C9_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=C10_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=R1_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=R2_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=R3_2-2
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=U2-11
+Removed Pin From Net: NetName=ADC_OUTA1 Pin=U2-12
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=U2-13
+Removed Pin From Net: NetName=ADC_OUTA1 Pin=U2-14
+Removed Pin From Net: NetName=ADC_OUTA1 Pin=U2-16
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=U3_2-16
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=U4_2-16
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=U5_2-16
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C5_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C6_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C7_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C8_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C9_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=C10_2-2
+Added Pin To Net: NetName=ADC_OUTA2 Pin=R1_2-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R1_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R2_2-2
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R3_2-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U2-5
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U3_2-3
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U3_2-16
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U4_2-16
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U5_2-16
+Change Net Name : Old Net Name=ADC_OUTA1 New Net Name=+3.3V_AN
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R1_1-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U2-16
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U3_1-3
+Added Net: Name=ADC_OUTA1
+Added Pin To Net: NetName=ADC_OUTB1 Pin=R2_1-1
+Added Pin To Net: NetName=ADC_OUTB1 Pin=U2-14
+Added Pin To Net: NetName=ADC_OUTB1 Pin=U4_1-3
+Added Net: Name=ADC_OUTB1
+Added Pin To Net: NetName=ADC_OUTB2 Pin=R2_2-1
+Added Pin To Net: NetName=ADC_OUTB2 Pin=U2-13
+Added Pin To Net: NetName=ADC_OUTB2 Pin=U4_2-3
+Added Net: Name=ADC_OUTB2
+Added Pin To Net: NetName=ADC_OUTC1 Pin=R3_1-1
+Added Pin To Net: NetName=ADC_OUTC1 Pin=U2-12
+Added Pin To Net: NetName=ADC_OUTC1 Pin=U5_1-3
+Added Net: Name=ADC_OUTC1
+Added Pin To Net: NetName=ADC_OUTC2 Pin=R3_2-1
+Added Pin To Net: NetName=ADC_OUTC2 Pin=U2-11
+Added Pin To Net: NetName=ADC_OUTC2 Pin=U5_2-3
+Added Net: Name=ADC_OUTC2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Net: Name=NetP1_2
+Added Class: Name=ADC_OUTB[1..2]
+Added Class: Name=ADC_OUTC[1..2]

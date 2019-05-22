@@ -1,0 +1,388 @@
+Added Component: Designator=U3_1(SOP127P600X175)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATPWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 10=0.646, 100=0.4951, 500=0.3914, 1000=0.3131 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-19260-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002169oz"; VariantName = "[No Variations]"
+Added Component: Designator=U3_2(SOP127P600X175)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATPWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 10=0.646, 100=0.4951, 500=0.3914, 1000=0.3131 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-19260-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002169oz"; VariantName = "[No Variations]"
+Added Component: Designator=U4_1(SOP127P600X175)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATPWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 10=0.646, 100=0.4951, 500=0.3914, 1000=0.3131 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-19260-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002169oz"; VariantName = "[No Variations]"
+Added Component: Designator=U4_2(SOP127P600X175)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATPWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 10=0.646, 100=0.4951, 500=0.3914, 1000=0.3131 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-19260-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002169oz"; VariantName = "[No Variations]"
+Added Component: Designator=U5_1(SOP127P600X175)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATPWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 10=0.646, 100=0.4951, 500=0.3914, 1000=0.3131 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-19260-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002169oz"; VariantName = "[No Variations]"
+Added Component: Designator=U5_2(SOP127P600X175)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Bandwidth"; Value = "35MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/gpn/sn74lv4051a-q1?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=137249&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://focus.ti.com/lit/ds/symlink/sn74lv4051a-q1.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1100000-1199999/001187277-da-01-en-IC_MUX_DE_SN74LV4051ATPWRQ1_TSSOP_16_TID.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Multiplexer,Demultiplexer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051ATPWRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.73, 10=0.646, 100=0.4951, 500=0.3914, 1000=0.3131 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "41099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-19260-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002169oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TS_IN5_1 Pin=U3_1-1
+Added Pin To Net: NetName=TS_IN7_1 Pin=U3_1-2
+Added Pin To Net: NetName=NetR1_1_1 Pin=U3_1-3
+Added Pin To Net: NetName=TS_IN8_1 Pin=U3_1-4
+Added Pin To Net: NetName=TS_IN6_1 Pin=U3_1-5
+Added Pin To Net: NetName=GND Pin=U3_1-7
+Added Pin To Net: NetName=GND Pin=U3_1-8
+Added Pin To Net: NetName=S2_1 Pin=U3_1-9
+Added Pin To Net: NetName=S1_1 Pin=U3_1-10
+Added Pin To Net: NetName=S0_1 Pin=U3_1-11
+Added Pin To Net: NetName=TS_IN4_1 Pin=U3_1-12
+Added Pin To Net: NetName=TS_IN1_1 Pin=U3_1-13
+Added Pin To Net: NetName=TS_IN3_1 Pin=U3_1-15
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U3_1-16
+Added Pin To Net: NetName=TS_IN5_2 Pin=U3_2-1
+Added Pin To Net: NetName=TS_IN7_2 Pin=U3_2-2
+Added Pin To Net: NetName=NetR1_2_1 Pin=U3_2-3
+Added Pin To Net: NetName=TS_IN8_2 Pin=U3_2-4
+Added Pin To Net: NetName=TS_IN6_2 Pin=U3_2-5
+Added Pin To Net: NetName=GND Pin=U3_2-7
+Added Pin To Net: NetName=GND Pin=U3_2-8
+Added Pin To Net: NetName=S2_2 Pin=U3_2-9
+Added Pin To Net: NetName=S1_2 Pin=U3_2-10
+Added Pin To Net: NetName=S0_2 Pin=U3_2-11
+Added Pin To Net: NetName=TS_IN4_2 Pin=U3_2-12
+Added Pin To Net: NetName=TS_IN1_2 Pin=U3_2-13
+Added Pin To Net: NetName=TS_IN3_2 Pin=U3_2-15
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U3_2-16
+Added Pin To Net: NetName=TS_IN13_1 Pin=U4_1-1
+Added Pin To Net: NetName=TS_IN15_1 Pin=U4_1-2
+Added Pin To Net: NetName=NetR2_1_1 Pin=U4_1-3
+Added Pin To Net: NetName=TS_IN16_1 Pin=U4_1-4
+Added Pin To Net: NetName=TS_IN14_1 Pin=U4_1-5
+Added Pin To Net: NetName=GND Pin=U4_1-7
+Added Pin To Net: NetName=GND Pin=U4_1-8
+Added Pin To Net: NetName=S2_1 Pin=U4_1-9
+Added Pin To Net: NetName=S1_1 Pin=U4_1-10
+Added Pin To Net: NetName=S0_1 Pin=U4_1-11
+Added Pin To Net: NetName=TS_IN12_1 Pin=U4_1-12
+Added Pin To Net: NetName=TS_IN9_1 Pin=U4_1-13
+Added Pin To Net: NetName=TS_IN11_1 Pin=U4_1-15
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U4_1-16
+Added Pin To Net: NetName=TS_IN13_2 Pin=U4_2-1
+Added Pin To Net: NetName=TS_IN15_2 Pin=U4_2-2
+Added Pin To Net: NetName=NetR2_2_1 Pin=U4_2-3
+Added Pin To Net: NetName=TS_IN16_2 Pin=U4_2-4
+Added Pin To Net: NetName=TS_IN14_2 Pin=U4_2-5
+Added Pin To Net: NetName=GND Pin=U4_2-7
+Added Pin To Net: NetName=GND Pin=U4_2-8
+Added Pin To Net: NetName=S2_2 Pin=U4_2-9
+Added Pin To Net: NetName=S1_2 Pin=U4_2-10
+Added Pin To Net: NetName=S0_2 Pin=U4_2-11
+Added Pin To Net: NetName=TS_IN12_2 Pin=U4_2-12
+Added Pin To Net: NetName=TS_IN9_2 Pin=U4_2-13
+Added Pin To Net: NetName=TS_IN11_2 Pin=U4_2-15
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U4_2-16
+Added Pin To Net: NetName=TS_IN21_1 Pin=U5_1-1
+Added Pin To Net: NetName=NetR3_1_1 Pin=U5_1-3
+Added Pin To Net: NetName=TS_IN22_1 Pin=U5_1-5
+Added Pin To Net: NetName=GND Pin=U5_1-7
+Added Pin To Net: NetName=GND Pin=U5_1-8
+Added Pin To Net: NetName=S2_1 Pin=U5_1-9
+Added Pin To Net: NetName=S1_1 Pin=U5_1-10
+Added Pin To Net: NetName=S0_1 Pin=U5_1-11
+Added Pin To Net: NetName=TS_IN20_1 Pin=U5_1-12
+Added Pin To Net: NetName=TS_IN17_1 Pin=U5_1-13
+Added Pin To Net: NetName=TS_IN19_1 Pin=U5_1-15
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U5_1-16
+Added Pin To Net: NetName=TS_IN21_2 Pin=U5_2-1
+Added Pin To Net: NetName=NetR3_2_1 Pin=U5_2-3
+Added Pin To Net: NetName=TS_IN22_2 Pin=U5_2-5
+Added Pin To Net: NetName=GND Pin=U5_2-7
+Added Pin To Net: NetName=GND Pin=U5_2-8
+Added Pin To Net: NetName=S2_2 Pin=U5_2-9
+Added Pin To Net: NetName=S1_2 Pin=U5_2-10
+Added Pin To Net: NetName=S0_2 Pin=U5_2-11
+Added Pin To Net: NetName=TS_IN20_2 Pin=U5_2-12
+Added Pin To Net: NetName=TS_IN17_2 Pin=U5_2-13
+Added Pin To Net: NetName=TS_IN19_2 Pin=U5_2-15
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U5_2-16
+Added Pin To Net: NetName=NetU3_1_6 Pin=U3_1-6
+Added Net: Name=NetU3_1_6
+Added Pin To Net: NetName=NetU3_2_6 Pin=U3_2-6
+Added Net: Name=NetU3_2_6
+Added Pin To Net: NetName=NetU4_1_6 Pin=U4_1-6
+Added Net: Name=NetU4_1_6
+Added Pin To Net: NetName=NetU4_2_6 Pin=U4_2-6
+Added Net: Name=NetU4_2_6
+Added Pin To Net: NetName=NetU5_1_2 Pin=U5_1-2
+Added Net: Name=NetU5_1_2
+Added Pin To Net: NetName=NetU5_1_4 Pin=U5_1-4
+Added Net: Name=NetU5_1_4
+Added Pin To Net: NetName=NetU5_1_6 Pin=U5_1-6
+Added Net: Name=NetU5_1_6
+Added Pin To Net: NetName=NetU5_2_2 Pin=U5_2-2
+Added Net: Name=NetU5_2_2
+Added Pin To Net: NetName=NetU5_2_4 Pin=U5_2-4
+Added Net: Name=NetU5_2_4
+Added Pin To Net: NetName=NetU5_2_6 Pin=U5_2-6
+Added Net: Name=NetU5_2_6
+Added Member To Class: ClassName=Data_TransferA_U_Single_Mux1 Member=Component U3_1 (U3) 8:1 - MUX
+Added Member To Class: ClassName=Data_TransferB_U_Single_Mux2 Member=Component U3_2 (U3) 8:1 - MUX
+Added Member To Class: ClassName=Data_TransferA_U_Single_Mux1 Member=Component U4_1 (U4) 8:1 - MUX
+Added Member To Class: ClassName=Data_TransferB_U_Single_Mux2 Member=Component U4_2 (U4) 8:1 - MUX
+Added Member To Class: ClassName=Data_TransferA_U_Single_Mux1 Member=Component U5_1 (U5) 8:1 - MUX
+Added Member To Class: ClassName=Data_TransferB_U_Single_Mux2 Member=Component U5_2 (U5) 8:1 - MUX
