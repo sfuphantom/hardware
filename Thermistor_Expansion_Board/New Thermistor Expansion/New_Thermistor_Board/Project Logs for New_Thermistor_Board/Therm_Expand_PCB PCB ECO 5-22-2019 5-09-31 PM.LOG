@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=TS_IN21_2 Pin=P2_2-51
+Removed Pin From Net: NetName=NetP3_4 Pin=U2-1
+Removed Pin From Net: NetName=NetP3_3 Pin=U2-2
+Removed Pin From Net: NetName=NetP3_2 Pin=U2-3
+Removed Pin From Net: NetName=NetP3_1 Pin=U2-18
+Removed Pin From Net: NetName=S2_1 Pin=U3_2-9
+Removed Pin From Net: NetName=S1_1 Pin=U3_2-10
+Removed Pin From Net: NetName=S0_1 Pin=U3_2-11
+Removed Pin From Net: NetName=S2_1 Pin=U4_2-9
+Removed Pin From Net: NetName=S1_1 Pin=U4_2-10
+Removed Pin From Net: NetName=S0_1 Pin=U4_2-11
+Removed Pin From Net: NetName=S2_1 Pin=U5_2-9
+Removed Pin From Net: NetName=S1_1 Pin=U5_2-10
+Removed Pin From Net: NetName=S0_1 Pin=U5_2-11
+Added Component: Designator=P4_2(3-Screw-terminal-Mux-Select)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1442217.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1442217.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691103110003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.138inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.1, 10=0.986, 50=0.851, 100=0.762, 500=0.717, 980=0.672 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2746-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S2_2 Pin=P4_2-1
+Added Pin To Net: NetName=S1_2 Pin=P4_2-2
+Added Pin To Net: NetName=S0_2 Pin=P4_2-3
+Added Pin To Net: NetName=NetP3_1 Pin=U2-1
+Added Pin To Net: NetName=NetP3_2 Pin=U2-2
+Added Pin To Net: NetName=NetP3_3 Pin=U2-3
+Added Pin To Net: NetName=NetP3_4 Pin=U2-18
+Added Pin To Net: NetName=S2_2 Pin=U3_2-9
+Added Pin To Net: NetName=S1_2 Pin=U3_2-10
+Added Pin To Net: NetName=S0_2 Pin=U3_2-11
+Added Pin To Net: NetName=S2_2 Pin=U4_2-9
+Added Pin To Net: NetName=S1_2 Pin=U4_2-10
+Added Pin To Net: NetName=S0_2 Pin=U4_2-11
+Added Pin To Net: NetName=S2_2 Pin=U5_2-9
+Added Pin To Net: NetName=S1_2 Pin=U5_2-10
+Added Pin To Net: NetName=S0_2 Pin=U5_2-11
+Added Member To Class: ClassName=Data_TransferB_U_Single_Mux2 Member=Component P4_2 (P4) Mux_Sel
+Added Room: Name=Data_TransferA_U_AHK50H-ND_THERM_CONNECTOR1
+Added Room: Name=Data_TransferA_U_Single_Mux1
+Added Room: Name=Data_TransferB_U_AHK50H-ND_THERM_CONNECTOR2
+Added Room: Name=Data_TransferB_U_Single_Mux2
+Added Room: Name=U_Data_Conversion
