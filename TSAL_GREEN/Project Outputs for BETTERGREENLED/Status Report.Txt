@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BETTERGREENLED.PrjPcb]
+   Generated File[GREENLED_PCB.TXT]
+   Generated File[GREENLED_PCB.LDP]
+   Generated File[GREENLED_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:53:28 PM On 5/24/2019
