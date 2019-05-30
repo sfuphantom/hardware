@@ -174,82 +174,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=BSPD.cmp
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for BSPD\BSPD.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for BSPD\BSPD.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for BSPD\BSPD.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for BSPD\BSPD.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for BSPD\BSPD.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for BSPD\BSPD.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for BSPD\BSPD.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for BSPD\BSPD.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for BSPD\BSPD.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for BSPD\BSPD.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for BSPD\BSPD.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for BSPD\BSPD.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for BSPD\BSPD.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for BSPD\BSPD.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for BSPD\BSPD.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for BSPD\BSPD.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for BSPD\BSPD.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for BSPD\BSPD.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for BSPD\Design Rule Check - BSPD.html
 DItemRevisionGUID=
 
@@ -865,11 +861,6 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=BOM_Violations
-OutputName7=BOM Checks Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1050,7 +1041,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1118,7 +1108,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
