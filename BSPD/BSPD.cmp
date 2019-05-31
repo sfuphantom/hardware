@@ -1,12 +1,14 @@
-Component Name : ERA6AEB3483V
+Component   : SN74AHC1G04DCKR
+PCB Library : BSPD.PcbLib
+Date        : 2018-12-22
+Time        : 6:30:35 AM
 
-Part Count : 2
 
-Part : *
-     Pins - (Normal) : 0
-          Hidden Pins : 
 
-Part : *
-     Pins - (Normal) : 0
-          Hidden Pins : 
+Dimension : 3.658 x 2.997 mm
 
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       0          4        0       1        0
