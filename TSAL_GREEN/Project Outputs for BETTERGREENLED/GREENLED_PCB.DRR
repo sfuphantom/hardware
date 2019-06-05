@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: GREENLED_PCB.PcbDoc   5/24/2019  5:53:27 PM
+NCDrill File Report For: GREENLED_PCB.PcbDoc   2019-06-05  11:24:14 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : GREENLED_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      43mil (1.09mm)          +/-3mil (0.08mm)                  Round             2         PTH        0.00inch (0.00mm)
-T2      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T1      43mil (1.09mm)          +/-3mil (0.08mm)                  Round             2         PTH        0.10inch (2.54mm)
+T2      118mil (3mm)                                              Round             4         PTH        3.10inch (78.83mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              6
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -2,24 +2,139 @@
 FileName = GREENLED_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : GREENLED_PCB.GM2
+Generating : Top Layer
+      File : GREENLED_PCB.GTL
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D10
     D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : GREENLED_PCB.GBO
+Generating : Bottom Layer
+      File : GREENLED_PCB.GBL
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : GREENLED_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D26
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : GREENLED_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : GREENLED_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : GREENLED_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D47
+    D48
 *************************************************************
 
 *************************************************************
@@ -37,136 +152,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : GREENLED_PCB.GBS
+Generating : Bottom Overlay
+      File : GREENLED_PCB.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D45
-    D46
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : GREENLED_PCB.GTS
+Generating : Board Outline
+      File : GREENLED_PCB.GM2
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : GREENLED_PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
     D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : GREENLED_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : GREENLED_PCB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : GREENLED_PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D47
 *************************************************************
 
