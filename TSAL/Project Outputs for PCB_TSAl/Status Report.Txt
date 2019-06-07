@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_TSAl.PrjPCB]
+   Generated File[PCB_Tsal.TXT]
+   Generated File[PCB_Tsal.LDP]
+   Generated File[PCB_Tsal.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:05:22 PM On 2019-06-07
