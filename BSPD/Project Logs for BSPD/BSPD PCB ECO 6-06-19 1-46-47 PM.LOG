@@ -1,0 +1,53 @@
+Added Component: Designator=U1(TLV3202AIDGK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "VSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "70dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey.ca"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/texas-instruments/TLV3202AIDGK/296-34992-ND/3588984"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/12288/tlv3202-193866-12288098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/12288/tlv3202-193866-12288098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/23702/1645741-23702136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/23702/1645741-23702136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/8066/1645741-8066013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/8066/1645741-8066013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hysteresis"; Value = "1.2mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "50pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage (Vos)"; Value = "5mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLV3202AIDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Current"; Value = "50pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "40uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "85dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.77, 80=1.5, 160=1.278, 560=1.05, 1040=0.87 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "50ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "0.047us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "14534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-34992-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.1mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BRAKE_SENS Pin=R12-2
+Added Pin To Net: NetName=CRT_THRES Pin=U1-1
+Added Pin To Net: NetName=CRT_SENS Pin=U1-2
+Added Pin To Net: NetName=VREF_CRT_SENS Pin=U1-3
+Added Pin To Net: NetName=BRAKE_SENS Pin=U1-6
+Added Member To Class: ClassName=BSPD Member=Component U1 TLV3202AIDGK
+Added Member To Class: ClassName=BSPD Member=Component U1 TLV3202AIDGK
