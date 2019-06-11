@@ -39,6 +39,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PCB_Library.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LFKKNGGG
+
+[Document2]
 DocumentPath=Schematic_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,23 +71,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROCMKNEA
-
-[Document2]
-DocumentPath=PCB_Librayr.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LFKKNGGG
 
 [Document3]
 DocumentPath=Data_Conversion.SchDoc
@@ -173,86 +173,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOBEUVGT
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for New_Thermistor_Board\Design Rule Check - MUX_Connectivity.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for New_Thermistor_Board\MUX_Connectivity.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
