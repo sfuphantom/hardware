@@ -2,80 +2,6 @@
 FileName = BSPD.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : BSPD.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : BSPD.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : BSPD.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D46
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : BSPD.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : BSPD.GM1
 
@@ -87,50 +13,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : BSPD.GBS
+Generating : Bottom Overlay
+      File : BSPD.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D37
-    D38
-    D39
-    D40
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : BSPD.GTS
+Generating : Mechanical 13
+      File : BSPD.GM13
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
+    D49
 *************************************************************
 
 *************************************************************
@@ -148,24 +48,63 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : BSPD.GM13
+Generating : Mechanical 15
+      File : BSPD.GM15
 
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : BSPD.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BSPD.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BSPD.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
@@ -191,5 +130,70 @@ Used DCodes :
     D23
     D24
     D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BSPD.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BSPD.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : BSPD.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
 *************************************************************
 

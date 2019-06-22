@@ -1,23 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [BSPD.PrjPCB]
-   Generated File[BSPD.GTO]
-   Generated File[BSPD.GTP]
-   Generated File[BSPD.GTS]
-   Generated File[BSPD.GTL]
-   Generated File[BSPD.GBL]
-   Generated File[BSPD.GBS]
-   Generated File[BSPD.GBP]
-   Generated File[BSPD.GBO]
-   Generated File[BSPD.GM1]
-   Generated File[BSPD.GM13]
-   Generated File[BSPD.GM15]
-   Generated File[BSPD.RUL]
-   Generated File[BSPD.EXTREP]
-   Generated File[BSPD.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BSPD.PrjPCB]
+   Generated File[BSPD.TXT]
+   Generated File[BSPD.LDP]
+   Generated File[BSPD.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:03:13 PM On 6/09/19
+Finished Output Generation At 12:00:21 AM On 6/22/19
