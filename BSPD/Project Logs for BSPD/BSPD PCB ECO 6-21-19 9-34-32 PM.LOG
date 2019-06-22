@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CRT_SENS Pin=U1-2
+Removed Pin From Net: NetName=VREF_CRT_SENS Pin=U1-3
+Removed Pin From Net: NetName=VREF_BRAKE_SENS Pin=U1-5
+Removed Pin From Net: NetName=BRAKE_SENS Pin=U1-6
+Added Pin To Net: NetName=VREF_CRT_SENS Pin=U1-2
+Added Pin To Net: NetName=CRT_SENS Pin=U1-3
+Added Pin To Net: NetName=BRAKE_SENS Pin=U1-5
+Added Pin To Net: NetName=VREF_BRAKE_SENS Pin=U1-6
