@@ -2,11 +2,12 @@ Output: NC Drill Files
 Type  : NC Drill
 From  : Project [BSPD.PrjPCB]
    Generated File[BSPD.TXT]
+   Generated File[BSPD.DRL]
    Generated File[BSPD.LDP]
    Generated File[BSPD.DRR]
 
 
-Files Generated   : 3
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 12:00:21 AM On 6/22/19
+Finished Output Generation At 1:28:13 AM On 6/25/19
