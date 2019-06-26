@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BSPD.GBR   6/25/19  1:26:15 AM
+Gerber File Extension Report For: BSPD.GBR   2019-06-26  2:04:39 PM
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
