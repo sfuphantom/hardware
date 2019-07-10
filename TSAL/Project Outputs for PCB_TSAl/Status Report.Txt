@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Output: Bill of Materials
 Type  : BOM
 From  : Variant [[No Variations]] of Project [PCB_TSAl.PrjPCB]
@@ -7,3 +8,17 @@ Files Generated   : 0
 Documents Printed : 0
 
 Finished Output Generation At 7:49:35 PM On 7/4/2019
+=======
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_TSAl.PrjPCB]
+   Generated File[PCB_Tsal.TXT]
+   Generated File[PCB_Tsal.LDP]
+   Generated File[PCB_Tsal.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:05:22 PM On 2019-06-07
+>>>>>>> e1bdb177b1e198825a64b542cb231ce646917008
