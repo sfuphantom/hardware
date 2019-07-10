@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Added Member To Class: ClassName=Sch_TSAL Member=Component R5 140 Ohm

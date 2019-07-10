@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=N Drain Pin=R5-1
+Removed Pin From Net: NetName=LV+ Pin=R5-2
+Removed Member From Class: ClassName=Sch_TSAL Member=R5
+Change Net Name : Old Net Name=GATE N New Net Name=N GATE
+Change Net Name : Old Net Name=HV+ New Net Name=R IN
+Change Net Name : Old Net Name=R IN New Net Name=INPUT
