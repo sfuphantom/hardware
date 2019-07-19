@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=DISCHARGE Pin=R1-2
+Added Pin To Net: NetName=TRIGGER Pin=R2-2
+Added Pin To Net: NetName=OUTPUT Pin=R3-2

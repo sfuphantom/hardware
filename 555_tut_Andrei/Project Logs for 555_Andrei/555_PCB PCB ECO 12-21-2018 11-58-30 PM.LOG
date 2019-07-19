@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TRIGGER Pin=R2-2
+Added Pin To Net: NetName=TRIGGER Pin=R2-1
+Added Pin To Net: NetName=DISCHARGE Pin=R2-2
+Change Net Name : Old Net Name=TRIGGER New Net Name=NetC2_1
