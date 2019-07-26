@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=Thermistor_Expansion_System.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Thermistor_Expansion_PCB_GND\Thermistor_Expansion_PCB_GND.PrjPcb
+Record=SubProject|SourceDocument=Thermistor_Expansion_System.MbsDoc|ProjectPath=..\Thermistor_Expansion_PCB_GND\Thermistor_Expansion_PCB_GND.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Thermistor_Expansion_System.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\New_Thermistor_Board.PrjPcb
+Record=SubProject|SourceDocument=Thermistor_Expansion_System.MbsDoc|ProjectPath=..\New_Thermistor_Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Thermistor_Expansion_System.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\New_Thermistor_Board.PrjPcb
+Record=SubProject|SourceDocument=Thermistor_Expansion_System.MbsDoc|ProjectPath=..\New_Thermistor_Board.PrjPcb
