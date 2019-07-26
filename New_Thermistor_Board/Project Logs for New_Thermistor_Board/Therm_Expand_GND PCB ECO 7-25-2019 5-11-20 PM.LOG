@@ -1,0 +1,11 @@
+Added Component: Designator=TP10(Test Point)
+Add component. Clean all parameters for all variants
+Added Net: Name=GND
+Added Class: Name=Data_TransferA_U_AHK50H-ND_THERM_CONNECTOR1
+Added Class: Name=Data_TransferA_U_Single_Mux1
+Added Class: Name=Data_TransferB_U_AHK50H-ND_THERM_CONNECTOR2
+Added Class: Name=Data_TransferB_U_Single_Mux2
+Added Class: Name=U_Data_Conversion
+Added Class: Name=50Pin_Connector
+Added Class: Name=MID
+Added Class: Name=Multiplexers
