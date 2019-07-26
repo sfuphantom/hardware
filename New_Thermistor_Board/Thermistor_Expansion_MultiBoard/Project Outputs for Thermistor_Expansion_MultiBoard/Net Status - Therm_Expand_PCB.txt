@@ -1,0 +1,73 @@
+Net Status Report
+Filename     : D:\Formula SAE\Git Hardware\hardware\New_Thermistor_Board\Therm_Expand_PCB.PcbDoc
+Date         : 7/25/2019
+Time         : 6:32:12 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +3.3V_AN, Signal Layers Only, 228.5336mm
+    ADC_OUTA1, Signal Layers Only, 45.0881mm
+    ADC_OUTA2, Signal Layers Only, 22.6749mm
+    ADC_OUTB1, Signal Layers Only, 52.4674mm
+    ADC_OUTB2, Signal Layers Only, 33.2949mm
+    ADC_OUTC1, Signal Layers Only, 50.0574mm
+    ADC_OUTC2, Signal Layers Only, 40.3778mm
+    GND, Signal Layers Only, 68.3277mm
+    NetC3_1, Signal Layers Only, 4.3611mm
+    NetD1_2, Signal Layers Only, 1.257mm
+    NetP1_1, Signal Layers Only, 28.3506mm
+    NetP1_2, Signal Layers Only, 29.8332mm
+    NetP1_3, Signal Layers Only, 35.4648mm
+    NetP1_4, Signal Layers Only, 29.9272mm
+    S0_1, Signal Layers Only, 100.0701mm
+    S0_2, Signal Layers Only, 0mm
+    S1_1, Signal Layers Only, 112.6199mm
+    S1_2, Signal Layers Only, 0mm
+    S2_1, Signal Layers Only, 121.9847mm
+    S2_2, Signal Layers Only, 0mm
+    TS_IN10_1, Signal Layers Only, 12.5146mm
+    TS_IN10_2, Signal Layers Only, 18.5847mm
+    TS_IN11_1, Signal Layers Only, 12.3536mm
+    TS_IN11_2, Signal Layers Only, 18.2477mm
+    TS_IN12_1, Signal Layers Only, 15.8331mm
+    TS_IN12_2, Signal Layers Only, 21.9777mm
+    TS_IN13_1, Signal Layers Only, 7.9184mm
+    TS_IN13_2, Signal Layers Only, 12.2934mm
+    TS_IN14_1, Signal Layers Only, 16.7253mm
+    TS_IN14_2, Signal Layers Only, 21.6143mm
+    TS_IN15_1, Signal Layers Only, 10.1456mm
+    TS_IN15_2, Signal Layers Only, 15.2294mm
+    TS_IN16_1, Signal Layers Only, 17.0338mm
+    TS_IN16_2, Signal Layers Only, 20.6499mm
+    TS_IN17_1, Signal Layers Only, 11.9629mm
+    TS_IN17_2, Signal Layers Only, 14.9426mm
+    TS_IN18_1, Signal Layers Only, 12.3548mm
+    TS_IN18_2, Signal Layers Only, 14.4177mm
+    TS_IN19_1, Signal Layers Only, 9.0965mm
+    TS_IN19_2, Signal Layers Only, 10.8778mm
+    TS_IN1_1, Signal Layers Only, 15.9666mm
+    TS_IN1_2, Signal Layers Only, 18.4753mm
+    TS_IN20_1, Signal Layers Only, 16.9906mm
+    TS_IN20_2, Signal Layers Only, 16.5749mm
+    TS_IN21_1, Signal Layers Only, 5.9664mm
+    TS_IN21_2, Signal Layers Only, 9.5598mm
+    TS_IN22_1, Signal Layers Only, 15.5182mm
+    TS_IN22_2, Signal Layers Only, 17.2325mm
+    TS_IN2_1, Signal Layers Only, 16.8349mm
+    TS_IN2_2, Signal Layers Only, 18.4723mm
+    TS_IN3_1, Signal Layers Only, 11.2874mm
+    TS_IN3_2, Signal Layers Only, 22.2325mm
+    TS_IN4_1, Signal Layers Only, 16.9264mm
+    TS_IN4_2, Signal Layers Only, 26.7405mm
+    TS_IN5_1, Signal Layers Only, 13.6093mm
+    TS_IN5_2, Signal Layers Only, 15.7795mm
+    TS_IN6_1, Signal Layers Only, 24.6349mm
+    TS_IN6_2, Signal Layers Only, 26.7181mm
+    TS_IN7_1, Signal Layers Only, 17.9328mm
+    TS_IN7_2, Signal Layers Only, 18.5786mm
+    TS_IN8_1, Signal Layers Only, 25.1201mm
+    TS_IN8_2, Signal Layers Only, 25.4241mm
+    TS_IN9_1, Signal Layers Only, 11.7763mm
+    TS_IN9_2, Signal Layers Only, 16.9064mm
+    Vref, Signal Layers Only, 9.2751mm
+count : 65
