@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RBPHTXHA
 
 [Document2]
-DocumentPath=..\..\..\..\Desktop\New folder\TSW-102-XX-X-S--Symbol-Altium-44987.PcbLib
+DocumentPath=TSW-102-XX-X-S--Symbol-Altium-44987.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IVQIOGQD
+DocumentUniqueId=GPKGXCLX
 
 [Document3]
 DocumentPath=latch_sdc_pcblib.PcbLib
@@ -241,7 +241,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSONC3C0FB (WF-3720 Series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
