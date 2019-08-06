@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ROCMKNEA
 
 [Document3]
-DocumentPath=..\Therm_Expand_GND.PcbDoc
+DocumentPath=GND_PCB_Data_Conversion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WGUDTRVS
+DocumentUniqueId=OZMCVHZM
 
 [Document4]
 DocumentPath=4X_22_GND_Pin_Connector.SchDoc
@@ -104,6 +104,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VZNISDBO
+
+[Document5]
+DocumentPath=Therm_Expand_GND.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TFIMBOKB
 
 [Configuration1]
 Name=Sources
