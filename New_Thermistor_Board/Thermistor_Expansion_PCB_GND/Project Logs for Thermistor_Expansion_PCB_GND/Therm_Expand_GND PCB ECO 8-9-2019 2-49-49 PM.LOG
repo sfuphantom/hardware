@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=S1-S1
+Removed Pin From Net: NetName=GND Pin=S2-S2
+Removed Pin From Net: NetName=GND Pin=S3-S3
+Removed Pin From Net: NetName=GND Pin=S4-S4
+Removed Pin From Net: NetName=GND Pin=SPI Connector -1
+Removed Pin From Net: NetName=GND Pin=SPI Connector -2
+Removed Pin From Net: NetName=GND Pin=SPI Connector -3
+Removed Pin From Net: NetName=GND Pin=SPI Connector -4
+Removed Pin From Net: NetName=GND Pin=SPI Connector -4
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Room: Name=4X_22_GND_Pin_Connector
