@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WGUDTRVS
 
 [Document2]
 DocumentPath=..\Therm_Expand_PCB.PcbDoc
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=92ee4447-f65f-49f5-a7a9-3e2fa794edee
+DocumentUniqueId=a990a40b-1477-4013-a465-1d2b5440bdc3
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Thermistor_Expansion_MultiBoard\Net Status - Therm_Expand_PCB.html

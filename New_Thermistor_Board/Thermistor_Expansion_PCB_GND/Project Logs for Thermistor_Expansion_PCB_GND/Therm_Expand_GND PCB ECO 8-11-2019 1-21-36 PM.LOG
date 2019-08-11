@@ -1,0 +1,4 @@
+Added Component: Designator=R13(0 Ohm Resistor)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AGND Pin=R13-1
+Added Pin To Net: NetName=DGND Pin=R13-2
