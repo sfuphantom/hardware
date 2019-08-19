@@ -1,0 +1,185 @@
+Added Pin To Net: NetName=+3.3V_AN Pin=C5_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C5_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C6_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C6_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C7_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C7_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C8_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C8_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C9_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C9_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C10_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=C10_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R1_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R1_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R2_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R2_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R3_1-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R3_2-2
+Added Pin To Net: NetName=+3.3V_AN Pin=R4-2
+Added Pin To Net: NetName=+3.3V_AN Pin=U3_1-16
+Added Pin To Net: NetName=+3.3V_AN Pin=U3_2-16
+Added Pin To Net: NetName=+3.3V_AN Pin=U4_1-16
+Added Pin To Net: NetName=+3.3V_AN Pin=U4_2-16
+Added Pin To Net: NetName=+3.3V_AN Pin=U5_1-16
+Added Pin To Net: NetName=+3.3V_AN Pin=U5_2-16
+Added Net: Name=+3.3V_AN
+Added Pin To Net: NetName=NetD1_2 Pin=R4-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=S0_1 Pin=P4_1-1
+Added Pin To Net: NetName=S0_1 Pin=U3_1-11
+Added Pin To Net: NetName=S0_1 Pin=U4_1-11
+Added Pin To Net: NetName=S0_1 Pin=U5_1-11
+Added Net: Name=S0_1
+Added Pin To Net: NetName=S0_2 Pin=U3_2-11
+Added Pin To Net: NetName=S0_2 Pin=U4_2-11
+Added Pin To Net: NetName=S0_2 Pin=U5_2-11
+Added Net: Name=S0_2
+Added Pin To Net: NetName=S1_1 Pin=P4_1-2
+Added Pin To Net: NetName=S1_1 Pin=U3_1-10
+Added Pin To Net: NetName=S1_1 Pin=U4_1-10
+Added Pin To Net: NetName=S1_1 Pin=U5_1-10
+Added Net: Name=S1_1
+Added Pin To Net: NetName=S1_2 Pin=U3_2-10
+Added Pin To Net: NetName=S1_2 Pin=U4_2-10
+Added Pin To Net: NetName=S1_2 Pin=U5_2-10
+Added Net: Name=S1_2
+Added Pin To Net: NetName=S2_1 Pin=P4_1-3
+Added Pin To Net: NetName=S2_1 Pin=U3_1-9
+Added Pin To Net: NetName=S2_1 Pin=U4_1-9
+Added Pin To Net: NetName=S2_1 Pin=U5_1-9
+Added Net: Name=S2_1
+Added Pin To Net: NetName=S2_2 Pin=U3_2-9
+Added Pin To Net: NetName=S2_2 Pin=U4_2-9
+Added Pin To Net: NetName=S2_2 Pin=U5_2-9
+Added Net: Name=S2_2
+Added Pin To Net: NetName=TS_IN1_1 Pin=Thermistor Connector-1
+Added Pin To Net: NetName=TS_IN1_1 Pin=U3_1-13
+Added Net: Name=TS_IN1_1
+Added Pin To Net: NetName=TS_IN1_2 Pin=Thermistor Connector-1
+Added Pin To Net: NetName=TS_IN1_2 Pin=U3_2-13
+Added Net: Name=TS_IN1_2
+Added Pin To Net: NetName=TS_IN2_1 Pin=Thermistor Connector-2
+Added Pin To Net: NetName=TS_IN2_1 Pin=U3_1-14
+Added Net: Name=TS_IN2_1
+Added Pin To Net: NetName=TS_IN2_2 Pin=Thermistor Connector-2
+Added Pin To Net: NetName=TS_IN2_2 Pin=U3_2-14
+Added Net: Name=TS_IN2_2
+Added Pin To Net: NetName=TS_IN3_1 Pin=Thermistor Connector-3
+Added Pin To Net: NetName=TS_IN3_1 Pin=U3_1-15
+Added Net: Name=TS_IN3_1
+Added Pin To Net: NetName=TS_IN3_2 Pin=Thermistor Connector-3
+Added Pin To Net: NetName=TS_IN3_2 Pin=U3_2-15
+Added Net: Name=TS_IN3_2
+Added Pin To Net: NetName=TS_IN4_1 Pin=Thermistor Connector-4
+Added Pin To Net: NetName=TS_IN4_1 Pin=U3_1-12
+Added Net: Name=TS_IN4_1
+Added Pin To Net: NetName=TS_IN4_2 Pin=Thermistor Connector-4
+Added Pin To Net: NetName=TS_IN4_2 Pin=U3_2-12
+Added Net: Name=TS_IN4_2
+Added Pin To Net: NetName=TS_IN5_1 Pin=Thermistor Connector-5
+Added Pin To Net: NetName=TS_IN5_1 Pin=U3_1-1
+Added Net: Name=TS_IN5_1
+Added Pin To Net: NetName=TS_IN5_2 Pin=Thermistor Connector-5
+Added Pin To Net: NetName=TS_IN5_2 Pin=U3_2-1
+Added Net: Name=TS_IN5_2
+Added Pin To Net: NetName=TS_IN6_1 Pin=Thermistor Connector-6
+Added Pin To Net: NetName=TS_IN6_1 Pin=U3_1-5
+Added Net: Name=TS_IN6_1
+Added Pin To Net: NetName=TS_IN6_2 Pin=Thermistor Connector-6
+Added Pin To Net: NetName=TS_IN6_2 Pin=U3_2-5
+Added Net: Name=TS_IN6_2
+Added Pin To Net: NetName=TS_IN7_1 Pin=Thermistor Connector-7
+Added Pin To Net: NetName=TS_IN7_1 Pin=U3_1-2
+Added Net: Name=TS_IN7_1
+Added Pin To Net: NetName=TS_IN7_2 Pin=Thermistor Connector-7
+Added Pin To Net: NetName=TS_IN7_2 Pin=U3_2-2
+Added Net: Name=TS_IN7_2
+Added Pin To Net: NetName=TS_IN8_1 Pin=Thermistor Connector-8
+Added Pin To Net: NetName=TS_IN8_1 Pin=U3_1-4
+Added Net: Name=TS_IN8_1
+Added Pin To Net: NetName=TS_IN8_2 Pin=Thermistor Connector-8
+Added Pin To Net: NetName=TS_IN8_2 Pin=U3_2-4
+Added Net: Name=TS_IN8_2
+Added Pin To Net: NetName=TS_IN9_1 Pin=Thermistor Connector-9
+Added Pin To Net: NetName=TS_IN9_1 Pin=U4_1-13
+Added Net: Name=TS_IN9_1
+Added Pin To Net: NetName=TS_IN9_2 Pin=Thermistor Connector-9
+Added Pin To Net: NetName=TS_IN9_2 Pin=U4_2-13
+Added Net: Name=TS_IN9_2
+Added Pin To Net: NetName=TS_IN10_1 Pin=Thermistor Connector-10
+Added Pin To Net: NetName=TS_IN10_1 Pin=U4_1-14
+Added Net: Name=TS_IN10_1
+Added Pin To Net: NetName=TS_IN10_2 Pin=Thermistor Connector-10
+Added Pin To Net: NetName=TS_IN10_2 Pin=U4_2-14
+Added Net: Name=TS_IN10_2
+Added Pin To Net: NetName=TS_IN11_1 Pin=Thermistor Connector-11
+Added Pin To Net: NetName=TS_IN11_1 Pin=U4_1-15
+Added Net: Name=TS_IN11_1
+Added Pin To Net: NetName=TS_IN11_2 Pin=Thermistor Connector-11
+Added Pin To Net: NetName=TS_IN11_2 Pin=U4_2-15
+Added Net: Name=TS_IN11_2
+Added Pin To Net: NetName=TS_IN12_1 Pin=Thermistor Connector-12
+Added Pin To Net: NetName=TS_IN12_1 Pin=U4_1-12
+Added Net: Name=TS_IN12_1
+Added Pin To Net: NetName=TS_IN12_2 Pin=Thermistor Connector-12
+Added Pin To Net: NetName=TS_IN12_2 Pin=U4_2-12
+Added Net: Name=TS_IN12_2
+Added Pin To Net: NetName=TS_IN13_1 Pin=Thermistor Connector-13
+Added Pin To Net: NetName=TS_IN13_1 Pin=U4_1-1
+Added Net: Name=TS_IN13_1
+Added Pin To Net: NetName=TS_IN13_2 Pin=Thermistor Connector-13
+Added Pin To Net: NetName=TS_IN13_2 Pin=U4_2-1
+Added Net: Name=TS_IN13_2
+Added Pin To Net: NetName=TS_IN14_1 Pin=Thermistor Connector-14
+Added Pin To Net: NetName=TS_IN14_1 Pin=U4_1-5
+Added Net: Name=TS_IN14_1
+Added Pin To Net: NetName=TS_IN14_2 Pin=Thermistor Connector-14
+Added Pin To Net: NetName=TS_IN14_2 Pin=U4_2-5
+Added Net: Name=TS_IN14_2
+Added Pin To Net: NetName=TS_IN15_1 Pin=Thermistor Connector-15
+Added Pin To Net: NetName=TS_IN15_1 Pin=U4_1-2
+Added Net: Name=TS_IN15_1
+Added Pin To Net: NetName=TS_IN15_2 Pin=Thermistor Connector-15
+Added Pin To Net: NetName=TS_IN15_2 Pin=U4_2-2
+Added Net: Name=TS_IN15_2
+Added Pin To Net: NetName=TS_IN16_1 Pin=Thermistor Connector-16
+Added Pin To Net: NetName=TS_IN16_1 Pin=U4_1-4
+Added Net: Name=TS_IN16_1
+Added Pin To Net: NetName=TS_IN16_2 Pin=Thermistor Connector-16
+Added Pin To Net: NetName=TS_IN16_2 Pin=U4_2-4
+Added Net: Name=TS_IN16_2
+Added Pin To Net: NetName=TS_IN17_1 Pin=Thermistor Connector-17
+Added Pin To Net: NetName=TS_IN17_1 Pin=U5_1-13
+Added Net: Name=TS_IN17_1
+Added Pin To Net: NetName=TS_IN17_2 Pin=Thermistor Connector-17
+Added Pin To Net: NetName=TS_IN17_2 Pin=U5_2-13
+Added Net: Name=TS_IN17_2
+Added Pin To Net: NetName=TS_IN18_1 Pin=Thermistor Connector-18
+Added Pin To Net: NetName=TS_IN18_1 Pin=U5_1-14
+Added Net: Name=TS_IN18_1
+Added Pin To Net: NetName=TS_IN18_2 Pin=Thermistor Connector-18
+Added Pin To Net: NetName=TS_IN18_2 Pin=U5_2-14
+Added Net: Name=TS_IN18_2
+Added Pin To Net: NetName=TS_IN19_1 Pin=Thermistor Connector-19
+Added Pin To Net: NetName=TS_IN19_1 Pin=U5_1-15
+Added Net: Name=TS_IN19_1
+Added Pin To Net: NetName=TS_IN19_2 Pin=Thermistor Connector-19
+Added Pin To Net: NetName=TS_IN19_2 Pin=U5_2-15
+Added Net: Name=TS_IN19_2
+Added Pin To Net: NetName=TS_IN20_1 Pin=Thermistor Connector-20
+Added Pin To Net: NetName=TS_IN20_1 Pin=U5_1-12
+Added Net: Name=TS_IN20_1
+Added Pin To Net: NetName=TS_IN20_2 Pin=Thermistor Connector-20
+Added Pin To Net: NetName=TS_IN20_2 Pin=U5_2-12
+Added Net: Name=TS_IN20_2
+Added Pin To Net: NetName=TS_IN21_1 Pin=U5_1-1
+Added Net: Name=TS_IN21_1
+Added Pin To Net: NetName=TS_IN21_2 Pin=U5_2-1
+Added Net: Name=TS_IN21_2
+Added Pin To Net: NetName=TS_IN22_1 Pin=Thermistor Connector-22
+Added Pin To Net: NetName=TS_IN22_1 Pin=U5_1-5
+Added Net: Name=TS_IN22_1
+Added Pin To Net: NetName=TS_IN22_2 Pin=Thermistor Connector-22
+Added Pin To Net: NetName=TS_IN22_2 Pin=U5_2-5
+Added Net: Name=TS_IN22_2

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ADC_OUTA1 Pin=P1-1
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=P1-2
+Removed Pin From Net: NetName=ADC_OUTB1 Pin=P1-3
+Removed Pin From Net: NetName=ADC_OUTB2 Pin=P1-4
+Removed Pin From Net: NetName=ADC_OUTC1 Pin=P1-5
+Removed Pin From Net: NetName=ADC_OUTC2 Pin=P1-6
+Added Pin To Net: NetName=ADC_OUTB1 Pin=P1-7
+Added Pin To Net: NetName=ADC_OUTC2 Pin=P1-8
+Added Pin To Net: NetName=ADC_OUTC1 Pin=P1-9
+Added Pin To Net: NetName=ADC_OUTA1 Pin=P1-10
+Added Pin To Net: NetName=ADC_OUTB2 Pin=P1-11
+Added Pin To Net: NetName=ADC_OUTA2 Pin=P1-12

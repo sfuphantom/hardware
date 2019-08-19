@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=ADC_OUTA1 Pin=P1-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=R1_1-1
+Added Pin To Net: NetName=ADC_OUTA1 Pin=U3_1-3
+Added Net: Name=ADC_OUTA1
+Added Pin To Net: NetName=ADC_OUTA2 Pin=P1-2
+Added Pin To Net: NetName=ADC_OUTA2 Pin=R1_2-1
+Added Pin To Net: NetName=ADC_OUTA2 Pin=U3_2-3
+Added Net: Name=ADC_OUTA2
+Added Pin To Net: NetName=ADC_OUTB1 Pin=P1-3
+Added Pin To Net: NetName=ADC_OUTB1 Pin=R2_1-1
+Added Pin To Net: NetName=ADC_OUTB1 Pin=U4_1-3
+Added Net: Name=ADC_OUTB1
+Added Pin To Net: NetName=ADC_OUTB2 Pin=P1-4
+Added Pin To Net: NetName=ADC_OUTB2 Pin=R2_2-1
+Added Pin To Net: NetName=ADC_OUTB2 Pin=U4_2-3
+Added Net: Name=ADC_OUTB2
+Added Pin To Net: NetName=ADC_OUTC1 Pin=P1-5
+Added Pin To Net: NetName=ADC_OUTC1 Pin=R3_1-1
+Added Pin To Net: NetName=ADC_OUTC1 Pin=U5_1-3
+Added Net: Name=ADC_OUTC1
+Added Pin To Net: NetName=ADC_OUTC2 Pin=P1-6
+Added Pin To Net: NetName=ADC_OUTC2 Pin=R3_2-1
+Added Pin To Net: NetName=ADC_OUTC2 Pin=U5_2-3
+Added Net: Name=ADC_OUTC2
