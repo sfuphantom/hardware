@@ -1,0 +1,4 @@
+Added Component: Designator=P3(2 Pos Power Header - duplicate)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V_AN Pin=P3-1
+Added Pin To Net: NetName=AGND Pin=P3-2
