@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: charger_sdc_pcb.PcbDoc   2019-08-21  11:24:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : charger_sdc_pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             18        PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Round             18        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             6         PTH        0.00inch (0.00mm)
+T4      42mil (1.06mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T5      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T6      157mil (4mm)                                              Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              58
+
+Total Processing Time (hh:mm:ss) : 00:00:00
