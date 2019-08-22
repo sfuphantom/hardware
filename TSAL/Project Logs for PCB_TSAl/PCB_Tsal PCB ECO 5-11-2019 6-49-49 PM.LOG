@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=LV+ Pin=R7-2
-Removed Member From Class: ClassName=Sch_TSAL Member=R7
-Added Pin To Net: NetName=GATE N Pin=J3-1
-Added Pin To Net: NetName=LV+ Pin=Q1-4
-Added Pin To Net: NetName=LV+ Pin=R6-2

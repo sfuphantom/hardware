@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=HV+ Pin=J1-1
-Added Pin To Net: NetName=NetF1_1 Pin=J1-1
-Change Net Name : Old Net Name=NetJ4_2 New Net Name=N Drain
-Added Member To Class: ClassName=Sch_TSAL Member=Component R4 560 Ohm
