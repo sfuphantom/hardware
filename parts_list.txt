@@ -1,0 +1,2 @@
+Time Delay Relay: H3FA-A-DC12V
+Mechanical Relay: G2RL-24 DC12
