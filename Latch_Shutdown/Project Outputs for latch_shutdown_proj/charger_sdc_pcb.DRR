@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: charger_sdc_pcb.PcbDoc   2019-08-21  11:24:59 PM
+NCDrill File Report For: charger_sdc_pcb.PcbDoc   2019-09-04  9:26:56 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,12 @@ ASCII RoundHoles File : charger_sdc_pcb.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      28mil (0.711mm)                                           Round             18        PTH        0.00inch (0.00mm)
-T2      30mil (0.762mm)                                           Round             18        PTH        0.00inch (0.00mm)
-T3      39mil (1mm)                                               Round             6         PTH        0.00inch (0.00mm)
-T4      42mil (1.06mm)                                            Round             8         PTH        0.00inch (0.00mm)
-T5      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
-T6      157mil (4mm)                                              Round             4         NPTH       0.00inch (0.00mm)
+T1      28mil (0.711mm)                                           Round             19        PTH        4.85inch (123.10mm)
+T2      30mil (0.762mm)                                           Round             18        PTH        6.61inch (167.89mm)
+T3      42mil (1.06mm)                                            Round             8         PTH        1.74inch (44.30mm)
+T4      118mil (3mm)                                              Round             4         PTH        1.63inch (41.30mm)
+T5      157mil (4mm)                                              Round             4         NPTH       6.46inch (164.10mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              58
+Totals                                                                              53
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

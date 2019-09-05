@@ -1,19 +1,22 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: charger_sdc_pcb.GBR   2019-08-21  11:23:18 PM
+Gerber File Extension Report For: charger_sdc_pcb.GBR   2019-09-04  9:25:34 PM
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM12               Mechanical 12                           
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
+.GM29               Mechanical 29                           
 ------------------------------------------------------------------------------------------
