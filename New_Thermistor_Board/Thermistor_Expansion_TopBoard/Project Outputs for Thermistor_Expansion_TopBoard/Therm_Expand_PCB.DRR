@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Therm_Expand_PCB.PcbDoc   9/7/2019  1:59:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Therm_Expand_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             124       PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)           +/-4mil (0.1mm)                   Round             44        PTH        0.00inch (0.00mm)
+T3      40mil (1.02mm)          +/-1mil (0.02mm)                  Round             3         PTH        0.00inch (0.00mm)
+T4      40mil (1.02mm)          +/-3mil (0.08mm)                  Round             14        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)           +/-4mil (0.1mm)                   Round             3         PTH        0.00inch (0.00mm)
+T6      157mil (4mm)            +/-4mil (0.1mm)                   Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              192
+
+Total Processing Time (hh:mm:ss) : 00:00:00

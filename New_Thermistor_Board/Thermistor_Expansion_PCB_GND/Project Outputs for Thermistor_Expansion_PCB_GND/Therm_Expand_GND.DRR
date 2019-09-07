@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Therm_Expand_GND.PcbDoc   9/7/2019  1:54:49 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Therm_Expand_GND.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             18        PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             33        PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)           +4mil (0.1mm)/-0mil (0mm)         Round             44        PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)           +/-4mil (0.1mm)                   Round             44        PTH        0.00inch (0.00mm)
+T5      40mil (1.02mm)          +/-3mil (0.08mm)                  Round             14        PTH        0.00inch (0.00mm)
+T6      43mil (1.09mm)          +/-3mil (0.08mm)                  Round             4         PTH        0.00inch (0.00mm)
+T7      157mil (4mm)            +/-4mil (0.1mm)                   Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              161
+
+Two holes at same point : 1
+-----------------------
+1843,572
+
+Total Processing Time (hh:mm:ss) : 00:00:00
