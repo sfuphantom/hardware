@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=AGND Pin=S1-S1
+Removed Pin From Net: NetName=AGND Pin=S2-S2
+Removed Pin From Net: NetName=AGND Pin=S3-S3
+Removed Pin From Net: NetName=AGND Pin=S4-S4
+Change Component Footprint: Designator=S1 Old Footprint=#6-32 Stand Off New Footprint=Female - Male 3/8" Standoff
+Change Component Footprint: Designator=S2 Old Footprint=#6-32 Stand Off New Footprint=Female - Male 3/8" Standoff
+Change Component Footprint: Designator=S3 Old Footprint=#6-32 Stand Off New Footprint=Female - Male 3/8" Standoff
+Change Component Footprint: Designator=S4 Old Footprint=#6-32 Stand Off New Footprint=Female - Male 3/8" Standoff
+Change Component Comment : Designator=S1 Old Comment=#6-32 Standoff New Comment=Female - Male 3/8" Al Standoff
+Change Component Comment : Designator=S2 Old Comment=#6-32 Standoff New Comment=Female - Male 3/8" Al Standoff
+Change Component Comment : Designator=S3 Old Comment=#6-32 Standoff New Comment=Female - Male 3/8" Al Standoff
+Change Component Comment : Designator=S4 Old Comment=#6-32 Standoff New Comment=Female - Male 3/8" Al Standoff
+Change component parameters: Designator = "S1"; Footprint = "Female - Male 3/8" Standoff"; UniqueID = "\IQCOBAJT\ITTPGEGC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Aluminum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male to Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.375inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RAF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "4532-632-AL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.40000, 25=0.27200, 100=0.23140, 250=0.21984, 500=0.20826, 1000=0.19669 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Hex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "661"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1772-1332-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2"; Footprint = "Female - Male 3/8" Standoff"; UniqueID = "\IQCOBAJT\HKZKLJRO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Aluminum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male to Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.375inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RAF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "4532-632-AL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.40000, 25=0.27200, 100=0.23140, 250=0.21984, 500=0.20826, 1000=0.19669 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Hex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "661"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1772-1332-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S3"; Footprint = "Female - Male 3/8" Standoff"; UniqueID = "\IQCOBAJT\ECDGMQKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Aluminum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male to Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.375inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RAF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "4532-632-AL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.40000, 25=0.27200, 100=0.23140, 250=0.21984, 500=0.20826, 1000=0.19669 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Hex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "661"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1772-1332-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S4"; Footprint = "Female - Male 3/8" Standoff"; UniqueID = "\IQCOBAJT\TSGVEBPC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Aluminum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/30179/202-30179641.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-13528314.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/4532-632-AL-RAF-datasheet-9593939.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male to Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.375inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "RAF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "4532-632-AL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.40000, 25=0.27200, 100=0.23140, 250=0.21984, 500=0.20826, 1000=0.19669 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Hex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "661"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1772-1332-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=S1-1
+Added Pin To Net: NetName=AGND Pin=S2-1
+Added Pin To Net: NetName=AGND Pin=S3-1
+Added Pin To Net: NetName=AGND Pin=S4-1
