@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Formula SAE\Git Hardware\hardware\New_Thermistor_Board\Therm_Expand_PCB.PcbDoc
+DRC Rules Export File for PCB: D:\Formula SAE\Git Hardware\hardware\New_Thermistor_Board\Thermistor_Expansion_TopBoard\Therm_Expand_PCB.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00

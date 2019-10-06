@@ -1,12 +1,25 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Thermistor_Expansion_TopBoard.PrjPcb]
-   Generated File[Therm_Expand_PCB.TXT]
-   Generated File[Therm_Expand_PCB.LDP]
-   Generated File[Therm_Expand_PCB.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Thermistor_Expansion_TopBoard.PrjPcb]
+   Generated File[Therm_Expand_PCB.GTO]
+   Generated File[Therm_Expand_PCB.GTP]
+   Generated File[Therm_Expand_PCB.GTS]
+   Generated File[Therm_Expand_PCB.GTL]
+   Generated File[Therm_Expand_PCB.GBL]
+   Generated File[Therm_Expand_PCB.GBS]
+   Generated File[Therm_Expand_PCB.GBP]
+   Generated File[Therm_Expand_PCB.GBO]
+   Generated File[Therm_Expand_PCB.GM1]
+   Generated File[Therm_Expand_PCB.GM4]
+   Generated File[Therm_Expand_PCB.GM13]
+   Generated File[Therm_Expand_PCB.GM15]
+   Generated File[Therm_Expand_PCB.GM16]
+   Generated File[Therm_Expand_PCB.RUL]
+   Generated File[Therm_Expand_PCB.EXTREP]
+   Generated File[Therm_Expand_PCB.REP]
 
 
-Files Generated   : 3
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 1:59:25 PM On 9/7/2019
+Finished Output Generation At 5:14:02 PM On 10/5/2019
