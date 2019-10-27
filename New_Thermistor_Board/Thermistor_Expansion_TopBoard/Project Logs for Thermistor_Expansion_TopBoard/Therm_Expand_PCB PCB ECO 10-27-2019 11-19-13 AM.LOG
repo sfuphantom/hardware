@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=S0_U_Single_Mux1 Pin=P4_U_Single_Mux1-1
+Removed Pin From Net: NetName=S2_U_Single_Mux1 Pin=P4_U_Single_Mux1-3
+Removed Pin From Net: NetName=S0_U_Single_Mux2 Pin=P4_U_Single_Mux2-1
+Removed Pin From Net: NetName=S2_U_Single_Mux2 Pin=P4_U_Single_Mux2-3
+Removed Pin From Net: NetName=S0_U_Single_Mux1 Pin=P5_U_Single_Mux1-1
+Removed Pin From Net: NetName=S2_U_Single_Mux1 Pin=P5_U_Single_Mux1-3
+Removed Pin From Net: NetName=S0_U_Single_Mux2 Pin=P5_U_Single_Mux2-1
+Removed Pin From Net: NetName=S2_U_Single_Mux2 Pin=P5_U_Single_Mux2-3
+Added Pin To Net: NetName=S2_U_Single_Mux1 Pin=P4_U_Single_Mux1-1
+Added Pin To Net: NetName=S0_U_Single_Mux1 Pin=P4_U_Single_Mux1-3
+Added Pin To Net: NetName=S2_U_Single_Mux2 Pin=P4_U_Single_Mux2-1
+Added Pin To Net: NetName=S0_U_Single_Mux2 Pin=P4_U_Single_Mux2-3
+Added Pin To Net: NetName=S2_U_Single_Mux1 Pin=P5_U_Single_Mux1-1
+Added Pin To Net: NetName=S0_U_Single_Mux1 Pin=P5_U_Single_Mux1-3
+Added Pin To Net: NetName=S2_U_Single_Mux2 Pin=P5_U_Single_Mux2-1
+Added Pin To Net: NetName=S0_U_Single_Mux2 Pin=P5_U_Single_Mux2-3

@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component R2_U_Single_Mux1 (R2) 6.49kOhm SMD Resistor
+Added Member To Class: ClassName=U_Single_Mux2 Member=Component R3_U_Single_Mux2 (R3) 6.49kOhm SMD Resistor
+Added Member To Class: ClassName=U_Data_Conversion Member=Component S3 #6-32 Standoff
+Added Member To Class: ClassName=U_Single_Mux1 Member=Component U3_U_Single_Mux1 (U3) 8:1 - MUX
