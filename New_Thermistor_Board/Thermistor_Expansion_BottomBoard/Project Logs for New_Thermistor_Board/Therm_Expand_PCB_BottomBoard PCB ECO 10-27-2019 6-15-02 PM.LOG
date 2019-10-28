@@ -1,0 +1,17 @@
+Added Component: Designator=P7(6POS_ADC_Volt_TEST)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "5055780671"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.02000, 10=0.89300, 100=0.77050 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3435"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM17945CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=ADC_OUTC2 Pin=P7-1
+Added Pin To Net: NetName=ADC_OUTC1 Pin=P7-2
+Added Pin To Net: NetName=ADC_OUTA2 Pin=P7-3
+Added Pin To Net: NetName=ADC_OUTB2 Pin=P7-4
+Added Pin To Net: NetName=ADC_OUTA1 Pin=P7-5
+Added Pin To Net: NetName=ADC_OUTB1 Pin=P7-6

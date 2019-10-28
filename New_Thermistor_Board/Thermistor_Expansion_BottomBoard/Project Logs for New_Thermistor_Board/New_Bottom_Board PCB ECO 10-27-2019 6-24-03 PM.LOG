@@ -1,0 +1,69 @@
+Added Pin To Net: NetName=+3.3V_AN Pin=P6-1
+Added Net: Name=+3.3V_AN
+Added Pin To Net: NetName=ADC_OUTA1 Pin=P7-5
+Added Net: Name=ADC_OUTA1
+Added Pin To Net: NetName=ADC_OUTA2 Pin=P7-3
+Added Net: Name=ADC_OUTA2
+Added Pin To Net: NetName=ADC_OUTB1 Pin=P7-6
+Added Net: Name=ADC_OUTB1
+Added Pin To Net: NetName=ADC_OUTB2 Pin=P7-4
+Added Net: Name=ADC_OUTB2
+Added Pin To Net: NetName=ADC_OUTC1 Pin=P7-2
+Added Net: Name=ADC_OUTC1
+Added Pin To Net: NetName=ADC_OUTC2 Pin=P7-1
+Added Net: Name=ADC_OUTC2
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Pin To Net: NetName=AGND Pin=P6-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Net: Name=NetD1_2
+Added Net: Name=S0_1
+Added Net: Name=S0_2
+Added Net: Name=S1_1
+Added Net: Name=S1_2
+Added Net: Name=S2_1
+Added Net: Name=S2_2
+Added Net: Name=TS_IN1_1
+Added Net: Name=TS_IN1_2
+Added Net: Name=TS_IN2_1
+Added Net: Name=TS_IN2_2
+Added Net: Name=TS_IN3_1
+Added Net: Name=TS_IN3_2
+Added Net: Name=TS_IN4_1
+Added Net: Name=TS_IN4_2
+Added Net: Name=TS_IN5_1
+Added Net: Name=TS_IN5_2
+Added Net: Name=TS_IN6_1
+Added Net: Name=TS_IN6_2
+Added Net: Name=TS_IN7_1
+Added Net: Name=TS_IN7_2
+Added Net: Name=TS_IN8_1
+Added Net: Name=TS_IN8_2
+Added Net: Name=TS_IN9_1
+Added Net: Name=TS_IN9_2
+Added Net: Name=TS_IN10_1
+Added Net: Name=TS_IN10_2
+Added Net: Name=TS_IN11_1
+Added Net: Name=TS_IN11_2
+Added Net: Name=TS_IN12_1
+Added Net: Name=TS_IN12_2
+Added Net: Name=TS_IN13_1
+Added Net: Name=TS_IN13_2
+Added Net: Name=TS_IN14_1
+Added Net: Name=TS_IN14_2
+Added Net: Name=TS_IN15_1
+Added Net: Name=TS_IN15_2
+Added Net: Name=TS_IN16_1
+Added Net: Name=TS_IN16_2
+Added Net: Name=TS_IN17_1
+Added Net: Name=TS_IN17_2
+Added Net: Name=TS_IN18_1
+Added Net: Name=TS_IN18_2
+Added Net: Name=TS_IN19_1
+Added Net: Name=TS_IN19_2
+Added Net: Name=TS_IN20_1
+Added Net: Name=TS_IN20_2
+Added Net: Name=TS_IN21_1
+Added Net: Name=TS_IN21_2
+Added Net: Name=TS_IN22_1
+Added Net: Name=TS_IN22_2
