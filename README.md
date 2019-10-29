@@ -14,9 +14,10 @@ the main workflow is usually like this:
 5. now if you navigate to that folder in your normal file browser, you should see the repository folder with all the files in it
 6. you can now edit the files and add new files into the repository folder like normal, as you would any folder system
 7. to register new added files you have placed in the repository folder in your file browser, use the command `git add -A` in your terminal window while in the directory of your repository (`cd /documents/phantom` will change your active directory to /documents/phantom, and `cd ..` will change your active directory up one level)
-8. `git add -A` will add all new files repo folder to be tracked by git
-9. to save the changes you have made and the files you have added, use the command `git commit -m "fill in your update here"` to commit your changes and save them with a useful message
-10. when you are ready to update the centralized repository on github with your changed localized cloned repository, use the command `git push` and you should see your changes show up on github
+8. Make sure you create a new branch before editing any files! Branching instructions down below
+9. Once in your new branch, `git add -A` will add all new files repo folder to be tracked by git
+10. to save the changes you have made and the files you have added, use the command `git commit -m "fill in your update here"` to commit your changes and save them with a useful message
+11. when you are ready to update the centralized repository on github with your changed localized cloned repository, use the command `git push` and you should see your changes show up on github
 
 http://rogerdudler.github.io/git-guide/
 
