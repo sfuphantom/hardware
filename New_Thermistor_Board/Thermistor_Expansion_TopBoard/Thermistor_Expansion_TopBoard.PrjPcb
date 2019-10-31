@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ROCMKNEA
 
 [Document7]
-DocumentPath=Therm_Expand_PCB.PcbDoc
+DocumentPath=Therm_Expand_PCB_Bottom.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
