@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R2_Mux1 NewDesignator=R2_U_Single_Mux1
+Change Component Designator: OldDesignator=R2_Mux2 NewDesignator=R2_U_Single_Mux2
+Change Component Designator: OldDesignator=R3_Mux1 NewDesignator=R3_U_Single_Mux1
+Change Component Designator: OldDesignator=R3_Mux2 NewDesignator=R3_U_Single_Mux2
+Change Component Designator: OldDesignator=R4_Mux1 NewDesignator=R4_U_Single_Mux1
+Change Component Designator: OldDesignator=R4_Mux2 NewDesignator=R4_U_Single_Mux2

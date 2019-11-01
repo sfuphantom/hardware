@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=NetD2_U_Single_Mux1_2 Pin=D2_U_Single_Mux1-2
+Added Pin To Net: NetName=NetD2_U_Single_Mux1_2 Pin=R5_U_Single_Mux1-2
+Added Net: Name=NetD2_U_Single_Mux1_2
+Added Pin To Net: NetName=NetD2_U_Single_Mux2_2 Pin=D2_U_Single_Mux2-2
+Added Pin To Net: NetName=NetD2_U_Single_Mux2_2 Pin=R5_U_Single_Mux2-2
+Added Net: Name=NetD2_U_Single_Mux2_2
+Added Pin To Net: NetName=NetD3_U_Single_Mux1_2 Pin=D3_U_Single_Mux1-2
+Added Pin To Net: NetName=NetD3_U_Single_Mux1_2 Pin=R6_U_Single_Mux1-2
+Added Net: Name=NetD3_U_Single_Mux1_2
+Added Pin To Net: NetName=NetD3_U_Single_Mux2_2 Pin=D3_U_Single_Mux2-2
+Added Pin To Net: NetName=NetD3_U_Single_Mux2_2 Pin=R6_U_Single_Mux2-2
+Added Net: Name=NetD3_U_Single_Mux2_2
+Added Pin To Net: NetName=NetD4_U_Single_Mux1_2 Pin=D4_U_Single_Mux1-2
+Added Pin To Net: NetName=NetD4_U_Single_Mux1_2 Pin=R7_U_Single_Mux1-2
+Added Net: Name=NetD4_U_Single_Mux1_2
+Added Pin To Net: NetName=NetD4_U_Single_Mux2_2 Pin=D4_U_Single_Mux2-2
+Added Pin To Net: NetName=NetD4_U_Single_Mux2_2 Pin=R7_U_Single_Mux2-2
+Added Net: Name=NetD4_U_Single_Mux2_2
