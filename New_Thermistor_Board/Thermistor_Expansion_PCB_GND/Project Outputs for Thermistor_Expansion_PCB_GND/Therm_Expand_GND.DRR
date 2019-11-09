@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Therm_Expand_GND.PcbDoc   10/5/2019  5:16:01 PM
+NCDrill File Report For: Therm_Expand_GND.PcbDoc   11/8/2019  10:56:03 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,18 +7,19 @@ ASCII RoundHoles File : Therm_Expand_GND.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             18        PTH        0.00inch (0.00mm)
-T2      15mil (0.381mm)                                           Round             33        PTH        0.00inch (0.00mm)
-T3      32mil (0.8mm)           +4mil (0.1mm)/-0mil (0mm)         Round             44        PTH        0.00inch (0.00mm)
-T4      32mil (0.8mm)           +/-4mil (0.1mm)                   Round             44        PTH        0.00inch (0.00mm)
-T5      40mil (1.02mm)          +/-3mil (0.08mm)                  Round             14        PTH        0.00inch (0.00mm)
-T6      43mil (1.09mm)          +/-3mil (0.08mm)                  Round             4         PTH        0.00inch (0.00mm)
-T7      157mil (4mm)            +/-4mil (0.1mm)                   Round             4         PTH        0.00inch (0.00mm)
+T1      0.254mm (10mil)                                           Round             8         PTH        0.00mm (0.00inch)
+T2      0.381mm (15mil)                                           Round             34        PTH        0.00mm (0.00inch)
+T3      0.711mm (28mil)                                           Round             3         PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)           +0.1mm (4mil)/-0mm (0mil)         Round             44        PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)           +/-0.1mm (4mil)                   Round             44        PTH        0.00mm (0.00inch)
+T6      1.02mm (40mil)          +/-0.08mm (3mil)                  Round             14        PTH        0.00mm (0.00inch)
+T7      1.09mm (43mil)          +/-0.08mm (3mil)                  Round             4         PTH        0.00mm (0.00inch)
+T8      4mm (157mil)            +/-0.1mm (4mil)                   Round             4         PTH        0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              161
+Totals                                                                              155
 
 Two holes at same point : 1
 -----------------------
-1843,572
+1925,2449
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Formula SAE\Git Hardware\hardware\New_Thermistor_Board\Thermistor_Expansion_TopBoard\Therm_Expand_PCB_Bottom.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
