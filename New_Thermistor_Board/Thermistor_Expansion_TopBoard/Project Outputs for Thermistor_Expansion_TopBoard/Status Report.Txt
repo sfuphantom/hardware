@@ -1,12 +1,25 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Thermistor_Expansion_TopBoard.PrjPcb]
-   Generated File[Therm_Expand_PCB_Bottom.TXT]
-   Generated File[Therm_Expand_PCB_Bottom.LDP]
-   Generated File[Therm_Expand_PCB_Bottom.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Thermistor_Expansion_TopBoard.PrjPcb]
+   Generated File[Therm_Expand_PCB_Bottom.GTO]
+   Generated File[Therm_Expand_PCB_Bottom.GTP]
+   Generated File[Therm_Expand_PCB_Bottom.GTS]
+   Generated File[Therm_Expand_PCB_Bottom.GTL]
+   Generated File[Therm_Expand_PCB_Bottom.GBL]
+   Generated File[Therm_Expand_PCB_Bottom.GBS]
+   Generated File[Therm_Expand_PCB_Bottom.GBP]
+   Generated File[Therm_Expand_PCB_Bottom.GBO]
+   Generated File[Therm_Expand_PCB_Bottom.GM1]
+   Generated File[Therm_Expand_PCB_Bottom.GM4]
+   Generated File[Therm_Expand_PCB_Bottom.GM13]
+   Generated File[Therm_Expand_PCB_Bottom.GM15]
+   Generated File[Therm_Expand_PCB_Bottom.GM16]
+   Generated File[Therm_Expand_PCB_Bottom.RUL]
+   Generated File[Therm_Expand_PCB_Bottom.EXTREP]
+   Generated File[Therm_Expand_PCB_Bottom.REP]
 
 
-Files Generated   : 3
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 10:56:44 PM On 11/8/2019
+Finished Output Generation At 11:25:31 PM On 11/8/2019

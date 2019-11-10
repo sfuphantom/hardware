@@ -2,6 +2,27 @@
 FileName = Therm_Expand_GND.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 13
+      File : Therm_Expand_GND.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Therm_Expand_GND.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : Therm_Expand_GND.GBP
 
@@ -17,30 +38,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : Therm_Expand_GND.GM13
+Generating : Mechanical 15
+      File : Therm_Expand_GND.GM15
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
     D61
+    D63
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Therm_Expand_GND.GTO
+Generating : Mechanical 1
+      File : Therm_Expand_GND.GM1
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D10
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Therm_Expand_GND.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
     D11
-    D12
-    D13
-    D14
-    D15
 *************************************************************
 
 *************************************************************
@@ -81,6 +110,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : Therm_Expand_GND.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Therm_Expand_GND.GBL
 
@@ -92,7 +137,7 @@ Generating : Bottom Layer
 Used DCodes :
     D10
     D41
-    D43
+    D42
     D44
     D47
     D48
@@ -108,14 +153,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : Therm_Expand_GND.GM2
+Generating : Top Paste
+      File : Therm_Expand_GND.GTP
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -170,62 +227,5 @@ Used DCodes :
     D38
     D39
     D40
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Therm_Expand_GND.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Therm_Expand_GND.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Therm_Expand_GND.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D61
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Therm_Expand_GND.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
 *************************************************************
 

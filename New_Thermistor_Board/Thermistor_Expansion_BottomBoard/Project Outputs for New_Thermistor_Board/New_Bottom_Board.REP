@@ -2,39 +2,6 @@
 FileName = New_Bottom_Board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : New_Bottom_Board.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : New_Bottom_Board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Board
-      File : New_Bottom_Board.GM2
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D69
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : New_Bottom_Board.GBP
 
@@ -46,6 +13,46 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : New_Bottom_Board.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : New_Bottom_Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
@@ -105,75 +112,48 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : New_Bottom_Board.GTP
+Generating : Mechanical 1
+      File : New_Bottom_Board.GM1
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
+    D69
+    D70
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : New_Bottom_Board.GTO
+Generating : Board
+      File : New_Bottom_Board.GM2
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Board
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D69
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : New_Bottom_Board.GBL
+Generating : Bottom Overlay
+      File : New_Bottom_Board.GBO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D13
-    D30
-    D51
-    D52
-    D53
-    D55
-    D57
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : New_Bottom_Board.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D71
+    D72
 *************************************************************
 
 *************************************************************
@@ -218,5 +198,48 @@ Used DCodes :
     D63
     D64
     D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : New_Bottom_Board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D30
+    D51
+    D52
+    D53
+    D55
+    D57
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : New_Bottom_Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 

@@ -2,20 +2,6 @@
 FileName = Therm_Expand_PCB_Bottom.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : Therm_Expand_PCB_Bottom.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : Therm_Expand_PCB_Bottom.GTL
 
@@ -56,127 +42,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Therm_Expand_PCB_Bottom.GBO
+Generating : Bottom Paste
+      File : Therm_Expand_PCB_Bottom.GBP
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : Therm_Expand_PCB_Bottom.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Therm_Expand_PCB_Bottom.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Therm_Expand_PCB_Bottom.GBS
-
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D41
-    D42
-    D43
-    D44
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Therm_Expand_PCB_Bottom.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D63
-    D64
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Therm_Expand_PCB_Bottom.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Therm_Expand_PCB_Bottom.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D45
-    D47
-    D50
-    D51
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : Therm_Expand_PCB_Bottom.GM16
-
-    Adding Layer      : Mechanical 16
 
 
 Used DCodes :
@@ -211,10 +84,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Therm_Expand_PCB_Bottom.GBP
+Generating : Bottom Solder
+      File : Therm_Expand_PCB_Bottom.GBS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -222,6 +95,102 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D41
+    D42
+    D43
+    D44
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Therm_Expand_PCB_Bottom.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Therm_Expand_PCB_Bottom.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Therm_Expand_PCB_Bottom.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Therm_Expand_PCB_Bottom.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D45
+    D47
+    D50
+    D51
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Therm_Expand_PCB_Bottom.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D63
+    D64
 *************************************************************
 
 *************************************************************
@@ -234,5 +203,36 @@ Generating : Board Outline
 Used DCodes :
     D61
     D62
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Therm_Expand_PCB_Bottom.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Therm_Expand_PCB_Bottom.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Therm_Expand_PCB_Bottom.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
