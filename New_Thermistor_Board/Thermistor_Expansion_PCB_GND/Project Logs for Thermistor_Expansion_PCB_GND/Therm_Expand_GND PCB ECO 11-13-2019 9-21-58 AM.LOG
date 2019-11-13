@@ -1,0 +1,129 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C13
+Change Component Designator: OldDesignator=C2 NewDesignator=C14
+Change Component Designator: OldDesignator=C3 NewDesignator=C15
+Change Component Designator: OldDesignator=C4 NewDesignator=C1
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C7
+Change Component Designator: OldDesignator=C11 NewDesignator=C8
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C11
+Change Component Designator: OldDesignator=C15 NewDesignator=C12
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=R2(0603_MD_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://datasheet.octopart.com/RNCF0603DTE47K5-Stackpole-Electronics-datasheet-10788241.pdf?src-supplier=Stackpole+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheet.octopart.com/RNCF0603DTE47K5-Stackpole-Electronics-datasheet-10788241.pdf?src-supplier=Stackpole+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/RNCF0603DTE47K5-Stackpole-Electronics-datasheet-12511394.pdf?src-supplier=Stackpole+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/RNCF0603DTE47K5-Stackpole-Electronics-datasheet-12511394.pdf?src-supplier=Stackpole+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/RNCF0603DTE47K5-Stackpole-Electronics-datasheet-11755897.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/RNCF0603DTE47K5-Stackpole-Electronics-datasheet-11755897.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RNCF0603DTE47K5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.15000, 10=0.12700, 100=0.04970, 1000=0.02079, 2500=0.01906 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47.5kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCF0603DTE47K5CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetP6_1
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP6_2
+Change Net Name : Old Net Name=NetP3_3 New Net Name=NetP6_3
+Change Net Name : Old Net Name=NetP3_4 New Net Name=NetP6_4
+Change Net Name : Old Net Name=NetU2_7 New Net Name=NetU1_7
+Added Pin To Net: NetName=+VBD Pin=C13-2
+Added Pin To Net: NetName=+VBD Pin=R1-2
+Added Pin To Net: NetName=+VBD Pin=R2-2
+Added Pin To Net: NetName=+VBD Pin=U1-36
+Added Pin To Net: NetName=+VBD Pin=U2-5
+Added Net: Name=+VBD
+Added Net: Name=GPIO_RANG
+Added Pin To Net: NetName=GPIO Range Pin=R2-1
+Added Pin To Net: NetName=GPIO Range Pin=U1-1
+Added Net: Name=GPIO Range
+Added Pin To Net: NetName=High Alarm Pin=U1-37
+Added Net: Name=High Alarm
+Added Pin To Net: NetName=Low Alarm Pin=U1-38
+Added Net: Name=Low Alarm
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U2-4
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=U3-5
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetP6_5 Pin=ADC Interboard Header-5
+Added Pin To Net: NetName=NetP6_5 Pin=R10-1
+Added Net: Name=NetP6_5
+Added Pin To Net: NetName=NetP6_6 Pin=ADC Interboard Header-6
+Added Pin To Net: NetName=NetP6_6 Pin=R9-1
+Added Net: Name=NetP6_6
+Added Pin To Net: NetName=NetP6_7 Pin=ADC Interboard Header-7
+Added Pin To Net: NetName=NetP6_7 Pin=R8-1
+Added Net: Name=NetP6_7
+Added Pin To Net: NetName=NetP6_8 Pin=ADC Interboard Header-8
+Added Pin To Net: NetName=NetP6_8 Pin=R7-1
+Added Net: Name=NetP6_8
+Added Pin To Net: NetName=NetP6_9 Pin=ADC Interboard Header-9
+Added Pin To Net: NetName=NetP6_9 Pin=R6-1
+Added Net: Name=NetP6_9
+Added Pin To Net: NetName=NetP6_10 Pin=ADC Interboard Header-10
+Added Pin To Net: NetName=NetP6_10 Pin=R5-1
+Added Net: Name=NetP6_10
+Added Pin To Net: NetName=NetP6_11 Pin=ADC Interboard Header-11
+Added Pin To Net: NetName=NetP6_11 Pin=R4-1
+Added Net: Name=NetP6_11
+Added Pin To Net: NetName=NetP6_12 Pin=ADC Interboard Header-12
+Added Pin To Net: NetName=NetP6_12 Pin=R3-1
+Added Net: Name=NetP6_12
+Added Pin To Net: NetName=NetP7_1 Pin=SPI Test Connector-1
+Added Pin To Net: NetName=NetP7_1 Pin=U1-34
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP7_2 Pin=SPI Test Connector-2
+Added Pin To Net: NetName=NetP7_2 Pin=U1-33
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP7_3 Pin=SPI Test Connector-3
+Added Pin To Net: NetName=NetP7_3 Pin=U1-32
+Added Net: Name=NetP7_3
+Added Pin To Net: NetName=NetP7_4 Pin=SPI Test Connector-4
+Added Pin To Net: NetName=NetP7_4 Pin=U1-31
+Added Net: Name=NetP7_4
+Added Pin To Net: NetName=Power Down Pin=R1-1
+Added Pin To Net: NetName=Power Down Pin=U1-2
+Added Net: Name=Power Down

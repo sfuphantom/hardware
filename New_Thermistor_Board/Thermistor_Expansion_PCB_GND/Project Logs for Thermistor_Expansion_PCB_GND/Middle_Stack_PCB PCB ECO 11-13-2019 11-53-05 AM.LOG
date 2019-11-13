@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U3 Old Footprint=3.3V Dig ADC Supply New Footprint=SOIC127P600X175-8N
+Change Component Footprint: Designator=U2 Old Footprint=SOIC127P600X175-8N New Footprint=3.3V Dig ADC Supply
+Change Component Comment : Designator=U3 Old Comment=3.3V Digital ADC Supply New Comment=8Pin_ADC_REF_V
+Change Component Comment : Designator=U2 Old Comment=8Pin_ADC_REF_V New Comment=3.3V Digital ADC Supply
+Added Pin To Net: NetName=VREF Pin=U3-6
+Added Pin To Net: NetName=AGND Pin=U3-8

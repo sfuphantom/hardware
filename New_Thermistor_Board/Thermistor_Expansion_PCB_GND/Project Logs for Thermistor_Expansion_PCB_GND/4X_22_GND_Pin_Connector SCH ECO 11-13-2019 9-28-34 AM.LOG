@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=C? Old Footprint=0.1uF Bypass Capacitor New Footprint=2.2uF LDO Output Bypass Cap
+Change Component Footprint: Designator=C? Old Footprint=2.2uF LDO Output Bypass Cap New Footprint=0.1uF Bypass Capacitor
+Change Component Footprint: Designator=U? Old Footprint=3.3V Dig ADC Supply New Footprint=SOIC127P600X175-8N
+Change Component Footprint: Designator=R? Old Footprint=0603_MD_RES New Footprint=Green_LED_Resistor_90.9
+Change Component Footprint: Designator=U? Old Footprint=SOIC127P600X175-8N New Footprint=3.3V Dig ADC Supply
+Change Component Comment: Designator=C? Old Comment=0.1uF New Comment=2.2uF LDO Bypass Cap
+Change Component Comment: Designator=C? Old Comment=2.2uF LDO Bypass Cap New Comment=0.1uF
+Change Component Comment: Designator=U? Old Comment=3.3V Digital ADC Supply New Comment=8Pin_ADC_REF_V
+Change Component Comment: Designator=U? Old Comment=8Pin_ADC_REF_V New Comment=3.3V Digital ADC Supply
+Change Component Comment: Designator=R? Old Comment=47.5k PullUp RES ADC New Comment=Green
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=P? NewDesignator=
+Change Component Designator: OldDesignator=P? NewDesignator=
+Change Component Designator: OldDesignator=P? NewDesignator=ADC Interboard Header
+Change Component Designator: OldDesignator=P? NewDesignator=SPI Test Connector
+Change Component Designator: OldDesignator=P? NewDesignator=Thermistor GND Connections
+Change Component Designator: OldDesignator=P? NewDesignator=Thermistor GND Connections
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Change Component Designator: OldDesignator=S? NewDesignator=S4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3

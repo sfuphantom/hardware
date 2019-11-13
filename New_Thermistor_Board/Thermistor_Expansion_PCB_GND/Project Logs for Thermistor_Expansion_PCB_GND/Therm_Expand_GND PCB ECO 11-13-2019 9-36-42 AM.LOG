@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=4X_22_GND_Pin_Connector Member=P1
+Removed Member From Class: ClassName=4X_22_GND_Pin_Connector Member=P2
+Removed Member From Class: ClassName=4X_22_GND_Pin_Connector Member=P3
+Added Member To Class: ClassName=4X_22_GND_Pin_Connector Member=Component Thermistor GND Connections 22-Pin-Connector
+Added Member To Class: ClassName=4X_22_GND_Pin_Connector Member=Component  22-Pin-Connector-Recepticle
+Added Room: Name=4X_22_GND_Pin_Connector
+Added Room: Name=GND_PCB_Data_Conversion
