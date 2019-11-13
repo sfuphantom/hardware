@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=S2_2 Pin=MUX SEL CON-1
+Removed Pin From Net: NetName=S0_2 Pin=MUX SEL CON-3
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator= NewDesignator=S2
+Change Component Designator: OldDesignator= NewDesignator=S3
+Change Component Designator: OldDesignator= NewDesignator=S4

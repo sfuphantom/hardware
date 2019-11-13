@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=StackedThermistorAssembly.MbaDoc
+DocumentPath=newassembly.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=173a5eec-aef0-496b-9229-d1b260b66514
+DocumentUniqueId=ab3a8f8a-c903-4bca-bc95-f7e1111d8f15
 
 [OutputGroup1]
 Name=Netlist Outputs
