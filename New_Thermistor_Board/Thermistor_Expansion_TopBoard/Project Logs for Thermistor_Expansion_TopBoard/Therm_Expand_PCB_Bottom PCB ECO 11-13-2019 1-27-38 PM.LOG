@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=ADC_OUTB1 Pin=Interboard ADC Input CON-7
+Removed Pin From Net: NetName=ADC_OUTC2 Pin=Interboard ADC Input CON-8
+Removed Pin From Net: NetName=ADC_OUTC1 Pin=Interboard ADC Input CON-9
+Removed Pin From Net: NetName=ADC_OUTA1 Pin=Interboard ADC Input CON-10
+Removed Pin From Net: NetName=ADC_OUTB2 Pin=Interboard ADC Input CON-11
+Removed Pin From Net: NetName=ADC_OUTA2 Pin=Interboard ADC Input CON-12
+Added Component: Designator=P2(12POS Dual Header W/O 3D Body)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/42715320S8912076N3321?src-supplier=Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/42715320S8912076N3321?src-supplier=Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.mouser.com/ds/2/1/ts0769-35914.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mouser.com/ds/2/1/ts0769-35914.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://multimedia.3m.com/mws/mediawebserver?66666UuZjcFSLXTtmXME5x46EVuQEcuZgVs6EVs6E666666--?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://multimedia.3m.com/mws/mediawebserver?66666UuZjcFSLXTtmXME5x46EVuQEcuZgVs6EVs6E666666--?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.318inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "929715-06-06-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.86000, 10=1.69000, 25=1.58600, 50=1.51720, 100=1.44820, 250=1.31024, 500=1.20680 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3M156375-12-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_OUTB1 Pin=P2-7
+Added Pin To Net: NetName=ADC_OUTC2 Pin=P2-8
+Added Pin To Net: NetName=ADC_OUTC1 Pin=P2-9
+Added Pin To Net: NetName=ADC_OUTA1 Pin=P2-10
+Added Pin To Net: NetName=ADC_OUTB2 Pin=P2-11
+Added Pin To Net: NetName=ADC_OUTA2 Pin=P2-12
