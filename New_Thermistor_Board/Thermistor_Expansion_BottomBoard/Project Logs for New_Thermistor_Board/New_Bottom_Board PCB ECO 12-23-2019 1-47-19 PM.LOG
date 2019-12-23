@@ -1,0 +1,15 @@
+Added Component: Designator=P5_1(Mux Select 3 Pos Header Pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16476/page-292-295-16476086.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16476/page-292-295-16476086.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adam Equipment"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PH1RA-03-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.12000, 10=0.11300, 100=0.06960, 500=0.05760, 1000=0.05040, 5000=0.04320, 10000=0.04200 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4630"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2057-PH1RA-03-UA-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S2_1 Pin=P5_1-1
+Added Pin To Net: NetName=S1_1 Pin=P5_1-2
+Added Pin To Net: NetName=S0_1 Pin=P5_1-3

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=S2_2 Pin=MUX SEL TP-1
+Removed Pin From Net: NetName=S1_2 Pin=MUX SEL TP-2
+Removed Pin From Net: NetName=S0_2 Pin=MUX SEL TP-3
+Removed Member From Class: ClassName=Data_TransferB_U_Single_Mux2 Member=MUX SEL TP
