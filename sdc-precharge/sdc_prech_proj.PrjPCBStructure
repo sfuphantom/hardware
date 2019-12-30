@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=shutdown_circuit.SchDoc
+Record=SheetSymbol|SourceDocument=shutdown_circuit.SchDoc|Designator=U_relay_latch_circuit_A|SchDesignator=U_relay_latch_circuit_A|FileName=relay_latch_circuit_A.SchDoc|SymbolType=Normal|RawFileName=relay_latch_circuit_A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=shutdown_circuit.SchDoc|Designator=U_relay_latch_circuit_A|SchDesignator=U_relay_latch_circuit_A|FileName=relay_latch_circuit_A.SchDoc|SymbolType=Normal|RawFileName=relay_latch_circuit_A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
