@@ -123,40 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SUSNNKON
 
 [Document6]
-DocumentPath=relay_latch_circuit_A.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NDKIDYFX
-
-[Document7]
-DocumentPath=relay_latch_circuit_B.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WEXONLSR
-
-[Document8]
 DocumentPath=precharge_circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,6 +138,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXYQRHJH
+
+[Document7]
+DocumentPath=relay_latch_circuit_v2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUVPCFAK
 
 [Configuration1]
 Name=Sources
@@ -1495,8 +1478,8 @@ ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=sdc_prech_schlib.SchLib
-ComponentDesignItemID6=H3FAAUDC24
-ComponentSymbolReference6=H3FAAUDC24
+ComponentDesignItemID6=H3FA-A-DC12
+ComponentSymbolReference6=H3FA-A-DC12
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
