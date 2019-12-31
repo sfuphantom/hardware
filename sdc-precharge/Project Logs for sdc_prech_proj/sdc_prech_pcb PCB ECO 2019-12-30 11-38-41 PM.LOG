@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=12V New Net Name=SDC IN
+Change Net Name : Old Net Name=NetK3_L1_4 New Net Name=RELAY L1/L2
+Change Net Name : Old Net Name=NetK3_L2_4 New Net Name=RELAY L2/L3
+Change Net Name : Old Net Name=NetK3_L3_4 New Net Name=RELAY L3/L4
+Added Member To Class: ClassName=L1 Member=Component U1_L1 (U1A) SSM6N7002CFU,LF

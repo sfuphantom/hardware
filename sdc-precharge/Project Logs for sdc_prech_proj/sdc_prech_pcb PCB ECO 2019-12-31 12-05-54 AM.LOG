@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=HV+ AIR Pin=M3-2
+Removed Pin From Net: NetName=Precharge AIR Pin=M3-3
+Removed Pin From Net: NetName=HV+ AIR Pin=R3-1
+Removed Pin From Net: NetName=Precharge AIR Pin=R4-1
+Added Pin To Net: NetName=Precharge AIR Pin=M3-2
+Added Pin To Net: NetName=HV+ AIR Pin=M3-3
+Added Pin To Net: NetName=Precharge AIR Pin=R3-1
+Added Pin To Net: NetName=HV+ AIR Pin=R4-1
