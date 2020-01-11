@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+12V_TO_AIR Pin=M4-1
+Removed Member From Class: ClassName=latch_sdc_sch Member=M5
+Change Component Designator: OldDesignator=M5 NewDesignator=M4
+Added Room: Name=latch_sdc_sch

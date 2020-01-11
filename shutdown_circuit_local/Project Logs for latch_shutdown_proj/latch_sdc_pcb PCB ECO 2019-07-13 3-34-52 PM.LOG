@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+12V_TO_AIR Pin=M4-1
+Added Pin To Net: NetName=+12V_TO_AIR Pin=M4-2
+Added Room: Name=latch_sdc_sch
