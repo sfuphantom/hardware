@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=+12 Pin=K1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=K1-3
+Removed Pin From Net: NetName=+12 Pin=K1-4
+Removed Pin From Net: NetName=NetK1_5 Pin=K1-5
+Removed Pin From Net: NetName=NetD2_1 Pin=K2-3
+Removed Pin From Net: NetName=+12 Pin=K2-4
+Removed Pin From Net: NetName=NetK2_5 Pin=K2-5
+Removed Pin From Net: NetName=NetD3_1 Pin=K3-3
+Removed Pin From Net: NetName=+12 Pin=K3-4
+Removed Pin From Net: NetName=NetK3_5 Pin=K3-5
+Removed Pin From Net: NetName=+12V_TO_AIR Pin=K3-6
+Added Pin To Net: NetName=NetD1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_5 Pin=K1-3
+Added Pin To Net: NetName=+12 Pin=K1-5
+Added Pin To Net: NetName=+12 Pin=K1-6
+Added Pin To Net: NetName=NetD2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_5 Pin=K2-3
+Added Pin To Net: NetName=+12 Pin=K2-6
+Added Pin To Net: NetName=NetD3_1 Pin=K3-1
+Added Pin To Net: NetName=NetK3_5 Pin=K3-3
+Added Pin To Net: NetName=+12V_TO_AIR Pin=K3-4
+Added Pin To Net: NetName=+12 Pin=K3-6
+Change Net Name : Old Net Name=NetK1_5 New Net Name=NetK1_3
+Change Net Name : Old Net Name=NetK2_5 New Net Name=NetK2_3
+Change Net Name : Old Net Name=NetK3_5 New Net Name=NetK3_3
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=K2-5
+Added Pin To Net: NetName=NetK1_4 Pin=R8-2
+Added Pin To Net: NetName=NetK1_4 Pin=R9-1
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK2_4 Pin=K2-4
+Added Pin To Net: NetName=NetK2_4 Pin=K3-5
+Added Pin To Net: NetName=NetK2_4 Pin=R9-2
+Added Pin To Net: NetName=NetK2_4 Pin=R10-1
+Added Net: Name=NetK2_4
+Added Member To Class: ClassName=latch_sdc_sch Member=Component K1 3A

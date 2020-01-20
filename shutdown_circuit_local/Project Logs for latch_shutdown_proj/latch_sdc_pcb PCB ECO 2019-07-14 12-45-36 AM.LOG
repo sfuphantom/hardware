@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SET/RESET Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=SET/RESET Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Member From Class: ClassName=latch_sdc_sch Member=R8
+Removed Member From Class: ClassName=latch_sdc_sch Member=R9
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7

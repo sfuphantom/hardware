@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R11 Old Comment=DNP New Comment=0R
+Change Component Comment : Designator=R12 Old Comment=DNP New Comment=0R
+Change Component Comment : Designator=R13 Old Comment=DNP New Comment=0R
+Change Component Comment : Designator=R8 Old Comment=RMCF0603ZT0R00 New Comment=0R
+Change Component Comment : Designator=R9 Old Comment=RMCF0603ZT0R00 New Comment=0R
+Change Component Comment : Designator=R10 Old Comment=RMCF0603ZT0R00 New Comment=0R
+Added Pin To Net: NetName=GND Pin=M4-1
