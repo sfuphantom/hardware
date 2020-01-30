@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=IsoPowerSupply Member=X?
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=X? NewDesignator=X8
+Change Component Designator: OldDesignator=X? NewDesignator=X9
+Added Member To Class: ClassName=IsoPowerSupply Member=Component X2 1723102202
+Added Member To Class: ClassName=IsoPowerSupply Member=Component X8 1723102202

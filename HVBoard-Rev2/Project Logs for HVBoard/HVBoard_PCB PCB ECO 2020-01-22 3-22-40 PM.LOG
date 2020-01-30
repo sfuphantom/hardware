@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND-HV Pin=D2-2
+Removed Pin From Net: NetName=NetC8_2 Pin=R4-2
+Removed Member From Class: ClassName=IsoPowerSupply Member=D2
+Removed Member From Class: ClassName=IsoPowerSupply Member=R4

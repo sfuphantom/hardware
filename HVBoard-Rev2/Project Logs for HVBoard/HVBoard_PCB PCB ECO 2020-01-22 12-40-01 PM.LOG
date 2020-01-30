@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND-LV Pin=R9-2
+Added Pin To Net: NetName=GND-LV Pin=R10-2
+Added Member To Class: ClassName=IsoPowerSupply Member=Component C8 22uF
+Added Member To Class: ClassName=IsoPowerSupply Member=Component C11 10uF
