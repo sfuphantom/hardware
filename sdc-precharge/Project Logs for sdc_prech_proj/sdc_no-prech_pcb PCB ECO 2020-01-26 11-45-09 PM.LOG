@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=12V Pin=M1-2
+Added Member To Class: ClassName=shutdown_circuit Member=Component M2 0436500428
+Added Member To Class: ClassName=L3 Member=Component U1_L3 (U1A) SSM6N7002CFU,LF
