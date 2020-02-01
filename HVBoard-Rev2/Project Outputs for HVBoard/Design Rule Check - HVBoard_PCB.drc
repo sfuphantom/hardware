@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Brayden McKeen\Documents\Phantom\HV\HVBoard-rev2\HVBoard_PCB.PcbDoc
-Date     : 2020-01-29
-Time     : 11:03:32 PM
+Date     : 2020-01-31
+Time     : 7:39:16 PM
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -115,19 +115,20 @@ Processing Rule : Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144
    Violation between Room Definition: Between Component F4-3568 (34.29mm,56.402mm) on Top Layer And Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) 
    Violation between Room Definition: Between Component U9-IR155-3204 (42.164mm,5mm) on Bottom Layer And Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) 
    Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And SIP Component X6-1723102208 (36.279mm,128.143mm) on Top Layer 
+   Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And SIP Component X9-1723102208 (27.722mm,86.573mm) on Top Layer 
    Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And Small Component X4-1723102202 (58.293mm,128.107mm) on Top Layer 
    Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And Small Component X5-1723102202 (27.813mm,50.518mm) on Top Layer 
    Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And Small Component X7-1723102202 (27.813mm,40.231mm) on Top Layer 
-   Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And Small Component X8-1723102202 (27.813mm,60.579mm) on Top Layer 
-   Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And SMT Small Component R10-2.2k (30.734mm,116.967mm) on Top Layer 
+   Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And SMT Small Component R10-2.2k (29.972mm,120.142mm) on Top Layer 
+   Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And SMT Small Component R4-2.2k (54.102mm,123.698mm) on Top Layer 
    Violation between Room Definition: Between Room IMD (Bounding Region = (88.265mm, 1.524mm, 161.163mm, 144.653mm) (InComponentClass('IMD')) And SMT Small Component R9-2.2k (34.798mm,116.967mm) on Top Layer 
-Rule Violations :9
+Rule Violations :10
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
    Violation between Height Constraint: Component U9-IR155-3204 (42.164mm,5mm) on Bottom Layer Actual Height = 35mm
 Rule Violations :1
 
 
-Violations Detected : 70
+Violations Detected : 71
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
