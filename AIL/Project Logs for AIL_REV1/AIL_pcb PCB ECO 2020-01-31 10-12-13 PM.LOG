@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AIL1 Pin=J2-1
+Removed Pin From Net: NetName=HV_GND Pin=J2-2
+Removed Pin From Net: NetName=5V_TS Pin=R6-1
+Removed Pin From Net: NetName=LED1 Pin=R6-2
+Added Pin To Net: NetName=HV_GND Pin=J2-1
+Added Pin To Net: NetName=AIL1 Pin=J2-2
+Added Pin To Net: NetName=LED1 Pin=R6-1
+Added Pin To Net: NetName=5V_TS Pin=R6-2
+Change Net Name : Old Net Name=LED1 New Net Name=NetD1_1
+Added Member To Class: ClassName=AIL_Schem Member=Component F1 250V 800mA
