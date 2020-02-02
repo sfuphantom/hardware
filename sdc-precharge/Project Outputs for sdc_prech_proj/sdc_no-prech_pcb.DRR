@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: sdc_no-prech_pcb.PcbDoc   2020-02-02  12:46:21 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : sdc_no-prech_pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             16        PTH        0.00inch (0.00mm)
+T4      42mil (1.06mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T5      45mil (1.15mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T6      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      52mil (1.32mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T8      157mil (4mm)                                              Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              61
+
+Total Processing Time (hh:mm:ss) : 00:00:00

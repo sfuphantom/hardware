@@ -1,0 +1,199 @@
+*************************************************************
+FileName = sdc_no-prech_pcb.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : sdc_no-prech_pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : sdc_no-prech_pcb.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D13
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : sdc_no-prech_pcb.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : BOARD
+      File : sdc_no-prech_pcb.GM2
+
+    Adding Layer      : BOARD
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : sdc_no-prech_pcb.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : sdc_no-prech_pcb.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : sdc_no-prech_pcb.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : sdc_no-prech_pcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : sdc_no-prech_pcb.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D13
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : sdc_no-prech_pcb.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : sdc_no-prech_pcb.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
