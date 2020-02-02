@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AIL_REV1.PrjPCB]
+   Generated File[AIL_pcb.TXT]
+   Generated File[AIL_pcb.LDP]
+   Generated File[AIL_pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:23:16 PM On 2020-02-02
