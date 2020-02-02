@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: New_Bottom_Board.GBR   11/8/2019  11:23:30 PM
+Gerber File Extension Report For: New_Bottom_Board.GBR   2020-02-02  3:13:05 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,7 +15,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
-.GM2                Board                                   
+.GM2                Board Outline                           
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 ------------------------------------------------------------------------------------------

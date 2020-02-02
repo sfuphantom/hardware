@@ -139,79 +139,181 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEDHPLRE
 
+[Document7]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Design Rule Check - Middle_Stack_PCB.html
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.DRR
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.EXTREP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBL
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBO
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBS
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM1
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM2
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM13
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM15
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTL
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTO
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTS
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.LDP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.REP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.RUL
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Middle_Stack_PCB.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.TXT
 DItemRevisionGUID=
 
@@ -334,7 +436,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -428,7 +530,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing

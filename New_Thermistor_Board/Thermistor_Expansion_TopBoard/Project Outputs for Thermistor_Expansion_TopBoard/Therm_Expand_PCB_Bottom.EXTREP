@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Therm_Expand_PCB_Bottom.GBR   11/8/2019  11:25:31 PM
+Gerber File Extension Report For: Therm_Expand_PCB_Bottom.GBR   2020-02-02  3:15:04 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,7 +14,8 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Board Outline                           
+.GM1                Mechanical 1                            
+.GM2                Board Outline                           
 .GM4                Mechanical 4                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           

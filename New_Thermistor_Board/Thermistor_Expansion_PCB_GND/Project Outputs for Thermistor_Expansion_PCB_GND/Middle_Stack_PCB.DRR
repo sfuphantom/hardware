@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Middle_Stack_PCB.PcbDoc   2020-02-02  3:14:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Middle_Stack_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             19        PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      24mil (0.6mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)           +4mil (0.1mm)/-0mil (0mm)         Round             44        PTH        0.00inch (0.00mm)
+T6      32mil (0.8mm)           +/-4mil (0.1mm)                   Round             44        PTH        0.00inch (0.00mm)
+T7      40mil (1.02mm)          +/-1mil (0.02mm)                  Round             3         PTH        0.00inch (0.00mm)
+T8      40mil (1.02mm)          +/-3mil (0.08mm)                  Round             14        PTH        0.00inch (0.00mm)
+T9      40mil (1.02mm)          +10mil (0.25mm)/-0mil (0mm)       Round             4         PTH        0.00inch (0.00mm)
+T10     43mil (1.09mm)          +/-3mil (0.08mm)                  Round             8         PTH        0.00inch (0.00mm)
+T11     157mil (4mm)            +/-4mil (0.1mm)                   Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              157
+
+Total Processing Time (hh:mm:ss) : 00:00:00
