@@ -140,74 +140,78 @@ GenerateClassCluster=0
 DocumentUniqueId=WEDHPLRE
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.DRR
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Design Rule Check - Middle_Stack_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.EXTREP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBL
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBO
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBS
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM1
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM2
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM13
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM15
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTL
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTO
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTS
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.LDP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.REP
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.RUL
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Thermistor_Expansion_PCB_GND\Therm_Expand_GND.TXT
 DItemRevisionGUID=
 
@@ -330,7 +334,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -737,44 +741,39 @@ Name=Validation Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_Violations
-OutputName1=BOM Checks Report
+OutputType1=Component states check
+OutputName1=Server's components states check
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=Component states check
-OutputName2=Server's components states check
+OutputType2=Configuration compliance
+OutputName2=Environment configuration compliance check
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=Configuration compliance
-OutputName3=Environment configuration compliance check
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Design Rules Check
-OutputName4=Design Rules Check
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Differences Report
+OutputName4=Differences Report
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Differences Report
-OutputName5=Differences Report
+OutputType5=Electrical Rules Check
+OutputName5=Electrical Rules Check
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType6=Electrical Rules Check
-OutputName6=Electrical Rules Check
+OutputType6=Footprint Comparison Report
+OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType7=Footprint Comparison Report
-OutputName7=Footprint Comparison Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -955,7 +954,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1023,7 +1021,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
