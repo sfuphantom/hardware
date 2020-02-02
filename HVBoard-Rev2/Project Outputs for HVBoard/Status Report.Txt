@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HVBoard.PrjPcb]
+   Generated File[HVBoard_PCB.TXT]
+   Generated File[HVBoard_PCB.LDP]
+   Generated File[HVBoard_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:38:05 PM On 2020-02-02
