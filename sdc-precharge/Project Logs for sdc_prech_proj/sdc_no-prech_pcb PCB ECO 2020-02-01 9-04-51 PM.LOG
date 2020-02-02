@@ -1,0 +1,11 @@
+Added Component: Designator=M4(5-PIN MOLEX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "0436500527-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDC END Pin=M4-5
+Added Pin To Net: NetName=NetM4_1 Pin=M4-1
+Added Pin To Net: NetName=NetM4_1 Pin=M4-2
+Added Pin To Net: NetName=NetM4_1 Pin=M4-3
+Added Pin To Net: NetName=NetM4_1 Pin=M4-4
+Added Net: Name=NetM4_1
+Added Member To Class: ClassName=shutdown_circuit Member=Component M4 5pin
