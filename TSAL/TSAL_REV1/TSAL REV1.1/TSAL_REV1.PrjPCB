@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\TSAL_REV1.SchLib
+DocumentPath=TSAL_REV1_1_SchematicLib .SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CIBCLHBP
 
 [Document2]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\TSAL_REV1_footprint.PcbLib
+DocumentPath=TSAL_REV1_1_footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WSTQNWFL
 
 [Document3]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\TSAL_REV1.SchDoc
+DocumentPath=TSAL_REV1_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JJIYPMYS
 
 [Document4]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\TSAL_REV1_PCB.PcbDoc
+DocumentPath=TSAL_REV1_1_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
