@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=HV_GND Pin=U2-3
+Change Component Footprint: Designator=U2 Old Footprint=DPAK228P991X238-3N New Footprint=DPAK228P998X235-3N
+Change Component Designator: OldDesignator=5V NewDesignator=D1
+Change Component Library : Designator=D1 Old Library=TSAL_REV1.SchLib New Library=AIL.SchLib
+Added Pin To Net: NetName=REF ADJ Pin=U2-3
