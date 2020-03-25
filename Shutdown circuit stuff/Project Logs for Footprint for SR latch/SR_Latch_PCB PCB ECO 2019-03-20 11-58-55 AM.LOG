@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-2
+Added Net: Name=NetJ1_1
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetJ2_1 Pin=U2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_18 Pin=U2-3
+Added Net: Name=NetJ2_18
+Added Net: Name=NetJ3_1
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ3_3
+Added Net: Name=NetJ3_4
+Added Net: Name=NetJ4_1
+Added Net: Name=NetJ4_2
+Added Net: Name=NetJ4_3
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ5_1 Pin=U2-8
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=U2-7
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=U2-6
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=U2-5
+Added Net: Name=NetJ5_4
+Added Net: Name=NetJ6_1
+Added Net: Name=NetJ6_18
+Added Net: Name=NetJ7_1
+Added Net: Name=NetJ7_2
+Added Net: Name=NetJ7_3
+Added Net: Name=NetJ7_4
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_18 Pin=U2-4
+Added Net: Name=NetJ8_18
+Added Member To Class: ClassName=SR latch Schematic Member=Component J1 2 Pin Header
+Added Member To Class: ClassName=SR latch Schematic Member=Component J2 2 Pin Header
+Added Member To Class: ClassName=SR latch Schematic Member=Component J6 2 Pin Header
+Added Room: Name=SR latch Schematic
