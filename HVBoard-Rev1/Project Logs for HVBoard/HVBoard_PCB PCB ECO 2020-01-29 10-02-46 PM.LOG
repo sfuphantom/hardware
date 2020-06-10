@@ -1,0 +1,15 @@
+Added Component: Designator=X?(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X?(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND-LV Pin=X?-1
+Added Pin To Net: NetName=NetD1_1 Pin=X?-1
+Added Pin To Net: NetName=+12 Pin=X?-2
+Added Pin To Net: NetName=GND-HV Pin=X?-2
+Added Member To Class: ClassName=VoltageMeasurement Member=Component F3 3568
+Added Member To Class: ClassName=IsoPowerSupply Member=Component X? 1723102202
+Added Member To Class: ClassName=IsoPowerSupply Member=Component X? 1723102202

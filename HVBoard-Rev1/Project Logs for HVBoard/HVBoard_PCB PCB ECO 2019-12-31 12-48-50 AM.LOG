@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=VoltageMeasurement Member=JP?
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Added Member To Class: ClassName=VoltageMeasurement Member=Component JP8 952-2262-ND

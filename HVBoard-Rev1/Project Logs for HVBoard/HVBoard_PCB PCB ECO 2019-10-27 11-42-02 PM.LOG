@@ -1,0 +1,69 @@
+Change Physical Footprint: Designator=C1 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C2 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C3 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C4 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C5 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C6 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C7 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C8 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C9 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C10 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C11 Old Footprint=C1206 New Footprint=C1206
+Change Physical Footprint: Designator=C12 Old Footprint=C1206 New Footprint=C1206
+Change Physical Footprint: Designator=C13 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C14 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C15 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C16 Old Footprint=TANT_10u New Footprint=TANT_10u
+Change Physical Footprint: Designator=C17 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C18 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C19 Old Footprint=radial cap, 5mm spacing New Footprint=radial cap, 5mm spacing
+Change Physical Footprint: Designator=C20 Old Footprint=radial cap, 5mm spacing New Footprint=radial cap, 5mm spacing
+Change Physical Footprint: Designator=C21 Old Footprint=radial cap, 5mm spacing New Footprint=radial cap, 5mm spacing
+Change Physical Footprint: Designator=C22 Old Footprint=radial cap, 5mm spacing New Footprint=radial cap, 5mm spacing
+Change Physical Footprint: Designator=C23 Old Footprint=radial cap, 5mm spacing New Footprint=radial cap, 5mm spacing
+Change Physical Footprint: Designator=C24 Old Footprint=radial cap, 5mm spacing New Footprint=radial cap, 5mm spacing
+Change Physical Footprint: Designator=C25 Old Footprint=C1206 New Footprint=C1206
+Change Physical Footprint: Designator=C26 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C27 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=D1 Old Footprint=DIODE_TVS New Footprint=DIODE_TVS
+Change Physical Footprint: Designator=D2 Old Footprint=DIODE_TVS_0603 New Footprint=DIODE_TVS_0603
+Change Physical Footprint: Designator=D3 Old Footprint=DIODE_TVS_2channel New Footprint=DIODE_TVS_2channel
+Change Physical Footprint: Designator=JP1 Old Footprint=3PIN_HEADER New Footprint=3PIN_HEADER
+Change Physical Footprint: Designator=JP2 Old Footprint=5PIN_HEADER New Footprint=5PIN_HEADER
+Change Physical Footprint: Designator=JP3 Old Footprint=3PIN_HEADER New Footprint=3PIN_HEADER
+Change Physical Footprint: Designator=L1 Old Footprint=L0805 New Footprint=L0805
+Change Physical Footprint: Designator=L2 Old Footprint=L0805 New Footprint=L0805
+Change Physical Footprint: Designator=R1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R4 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R5 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R6 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R7 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R8 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R9 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R10 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R11 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R12 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R13 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R14 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R15 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R16 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R17 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R18 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R19 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R20 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R21 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R22 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R23 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R24 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R25 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=U1 Old Footprint=8-VSSOP-OPA2335AIDGKR New Footprint=8-VSSOP-OPA2335AIDGKR
+Change Physical Footprint: Designator=U2 Old Footprint=8-SOIC-AMC1301DWVR New Footprint=8-SOIC-AMC1301DWVR
+Change Physical Footprint: Designator=U3 Old Footprint=8-VSSOP-OPA2335AIDGKR New Footprint=8-VSSOP-OPA2335AIDGKR
+Change Physical Footprint: Designator=U4 Old Footprint=8-SOIC-AMC1301DWVR New Footprint=8-SOIC-AMC1301DWVR
+Change Physical Footprint: Designator=U5 Old Footprint=14-DIP Module New Footprint=14-DIP Module
+Change Physical Footprint: Designator=U6 Old Footprint=LM1117MPX-5.0/NOPB New Footprint=LM1117MPX-5.0/NOPB
+Change Physical Footprint: Designator=U7 Old Footprint=LM1117MPX-5.0/NOPB New Footprint=LM1117MPX-5.0/NOPB
+Change Physical Footprint: Designator=U8 Old Footprint=14-DIP Module New Footprint=14-DIP Module
+Change Physical Footprint: Designator=U9 Old Footprint=10-VSSOP-ADC122S655CIMM/NOPB New Footprint=10-VSSOP-ADC122S655CIMM/NOPB

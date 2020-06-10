@@ -1,0 +1,83 @@
+Added Component: Designator=X1(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X2(Molex4Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X3(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X4(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X5(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X6(Molex8Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X7(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X8(Molex2Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Component: Designator=X9(Molex4Pin)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1723102304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=X1-1
+Added Pin To Net: NetName=NetC7_2 Pin=X1-2
+Added Pin To Net: NetName=GND-LV Pin=X2-4
+Added Pin To Net: NetName=GND-HV Pin=X3-1
+Added Pin To Net: NetName=GND-HV Pin=X3-2
+Added Pin To Net: NetName=GND-LV Pin=X4-1
+Added Pin To Net: NetName=NetC7_2 Pin=X5-1
+Added Pin To Net: NetName=NetC7_2 Pin=X5-2
+Added Pin To Net: NetName=GND-LV Pin=X6-1
+Added Pin To Net: NetName=+12 Pin=X6-2
+Added Pin To Net: NetName=GND-LV Pin=X6-3
+Added Pin To Net: NetName=GND-LV Pin=X6-4
+Added Pin To Net: NetName=GND-HV Pin=X7-1
+Added Pin To Net: NetName=GND-HV Pin=X7-2
+Added Pin To Net: NetName=GND-LV Pin=X8-1
+Added Pin To Net: NetName=GND-LV Pin=X9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=X6-5
+Added Pin To Net: NetName=NetR9_1 Pin=X9-4
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=X6-6
+Added Pin To Net: NetName=NetR10_1 Pin=X9-3
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=NetU3_2 Pin=X2-1
+Added Net: Name=NetU3_2
+Added Pin To Net: NetName=NetU3_3 Pin=U3-3
+Added Pin To Net: NetName=NetU3_3 Pin=X2-2
+Added Net: Name=NetU3_3
+Added Pin To Net: NetName=NetU3_4 Pin=U3-4
+Added Pin To Net: NetName=NetU3_4 Pin=X2-3
+Added Net: Name=NetU3_4
+Added Pin To Net: NetName=NetX4_2 Pin=X4-2
+Added Pin To Net: NetName=NetX4_2 Pin=X6-8
+Added Pin To Net: NetName=NetX4_2 Pin=X8-2
+Added Pin To Net: NetName=NetX4_2 Pin=X9-2
+Added Net: Name=NetX4_2
+Added Member To Class: ClassName=VoltageMeasurement Member=Component X1 1723102202
+Added Member To Class: ClassName=VoltageMeasurement Member=Component X2 1723102304
+Added Member To Class: ClassName=VoltageMeasurement Member=Component X3 1723102202
+Added Member To Class: ClassName=IMD Member=Component X4 1723102202
+Added Member To Class: ClassName=IMD Member=Component X5 1723102202
+Added Member To Class: ClassName=IMD Member=Component X6 1723102208
+Added Member To Class: ClassName=IMD Member=Component X7 1723102202
+Added Member To Class: ClassName=IMD Member=Component X8 1723102202
+Added Member To Class: ClassName=IMD Member=Component X9 1723102304
