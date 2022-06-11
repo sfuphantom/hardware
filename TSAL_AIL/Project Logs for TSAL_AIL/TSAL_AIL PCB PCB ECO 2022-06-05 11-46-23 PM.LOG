@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=LV GND New Net Name=Emitter
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=Anode
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=Cathode
+Change Net Name : Old Net Name=NetQ1_4 New Net Name=Collector
+Added Room: Name=Sheet1
